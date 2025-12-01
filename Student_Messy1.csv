@@ -1,0 +1,1101 @@
+name,id,sub1,sub2,sub3,marks,percentage,result,course_enrollment_date,study_hrs_per_day,age,grade,random_color,device_id
+     ANITA REDDY     ,   1   ,   138   ,   45   ,   72   ,   138+45+72   ,   67.67   ,   Pass   ,   03/12/2019   ,     5.3 hrs    ,   56   ,   B+   ,   green   ,   F65453DD   
+      suresh varma      ,    STU-0002    ,   49   ,   ?   ,   70   ,   49+?+70   ,   68.0%   ,   Pass   ,   08-30-2020   ,   0.9   ,   17   ,   B+   ,   blue   ,   2D9EED5F   
+     POOJA GUPTA     ,       3        ,   95   ,   39   ,   68   ,   check   ,   67.33   ,   Pass   ,   2021-10-16   ,   6.4   ,   8   ,   Good   ,   None   ,   F86EB409   
+     ANITA AGARWAL     ,    STU-0004    ,   55   ,   59   ,   78   ,   55+59+78   ,   64.0   ,   Pass   ,   10-Sep-2020   ,   1.0   ,   19   ,   B+   ,   white   ,   796EE5F1   
+      sneha khan      ,     S5X     ,   58   ,   54   ,   46   ,   58+54+46   ,   52.67   ,   Pass   ,"   February 20, 2022   ",   5.6   ,   19   ,   Average   ,   blue   ,   E1D285C3   
+     VARUN REDDY     ,    STU-0006    ,   37   ,   34   ,   99   ,   N/A   ,   56.67%   ,   Pass   ,"   December 18, 2018   ",   3.3   ,   16   ,   Average   ,   black   ,   3D424A05   
+     RAHUL SHARMA     ,   7   ,   56   ,   94   ,   99   ,   249   ,   83.0   ,   Pass   ,   21/09/2022   ,   4.1   ,   19   ,   None   ,   black   ,   B6A28088   
+     ROHIT VARMA     ,     S8X     ,   87   ,   78   ,   94   ,   87+78+94   ,   86.33   ,   Pass   ,   None   ,   7.2   ,     17 years    ,   A+   ,   black   ,   1D9F48B3   
+      naveen khan      ,       9        ,   36   ,   32   ,   34   ,   36+32+34   ,   34.0   ,   Fail   ,   03/07/2021   ,   7.1   ,   18   ,   Fail   ,   blue   ,   2588C8C8   
+     RAHUL AGARWAL     ,       10        ,   64   ,   74   ,   31   ,   64+74+31   ,   56.33   ,   Pass   ,   03-23-2023   ,   6.5   ,   None   ,   Average   ,   white   ,   9018988A   
+      rohit agarwal      ,     id_11    ,   72   ,   -18   ,   51   ,   72+-18+51   ,   55.33   ,   Pass   ,   2020-01-23   ,    two    ,     16 years    ,   C   ,   None   ,   3B9E9219   
+     Varun Varma      ,     S12X     ,   -10   ,   59   ,   AB   ,   181   ,   60.33   ,   Pass   ,   21/10/2020   ,   None   ,   16   ,   Good   ,   None   ,   71DBC1EC   
+     LOKESH KHAN     ,     id_13    ,   98   ,   150   ,   95   ,   98+150+95   ,   96.67   ,   Pass   ,   06-30-2019   ,   4.1   ,   5   ,   A   ,   black   ,   5636C787   
+      suresh reddy      ,     id_14    ,   AB   ,   47   ,   None   ,   186   ,   62.0   ,   Pass   ,   01-09-2022   ,   None   ,   17   ,   B+   ,   white   ,   2B4CCFDE   
+      teja patel      ,   None   ,   55   ,   91   ,   80   ,   226   ,   75.33   ,   Pass   ,   None   ,   30.8   ,   17   ,   Distinction   ,   green   ,   id_missing   
+     AKASH GOUD     ,    STU-0016    ,   67   ,   66   ,   68   ,   67+66+68   ,   67.0   ,   Pass   ,   06-13-2021   ,   7.8   ,   16   ,   B+   ,   red   ,   ABE0285E   
+     VIKRAM VARMA     ,       17        ,   -10   ,   54   ,   69   ,   -10+54+69   ,   71.67   ,   Pass   ,   09/07/2024   ,   7.5   ,     17 years    ,   Good   ,   black   ,   B8E3DCC5   
+     AKASH SHARMA     ,       18        ,   56   ,   77   ,   67   ,   56+77+67   ,   66.67   ,   Pass   ,   07-Jun-2020   ,    two    ,   None   ,   B   ,   green   ,   302124DD   
+     Sneha Patel      ,    STU-0019    ,   -10   ,   94   ,   89   ,   -10+94+89   ,   88.67   ,   Pass   ,   01-10-2021   ,   26.1   ,   7   ,   A   ,   yellow   ,   67B15B3A   
+     ANITA RAO     ,       20        ,   93   ,   82   ,   88   ,   263   ,   87.67   ,   Pass   ,"   December 24, 2024   ",   1.1   ,   17   ,   A   ,   black   ,   223CF2BD   
+     Meena Khan      ,    STU-0021    ,   76   ,   44   ,   39   ,   76+44+39   ,   53.0   ,   Pass   ,   14/06/2023   ,   6.8   ,   17   ,   Average   ,   green   ,   3B26121A   
+     SURESH REDDY     ,     S22X     ,   94   ,   ?   ,   93   ,   94+?+93   ,   88.33   ,   Pass   ,"   February 09, 2022   ",   1.3   ,     16 years    ,   A    ,   black   ,   1650753A   
+     LOKESH AGARWAL     ,   23   ,   49   ,   150   ,   92   ,   49+150+92   ,   79.33   ,   Pass   ,   07-09-2020   ,    two    ,   19   ,   A   ,   blue   ,   FB98B8A0   
+     ANITA PATEL     ,   24   ,   96   ,   41   ,   78   ,   215   ,   71.67   ,   Pass   ,   07-04-2019   ,   3.9   ,   17   ,   B+   ,   white   ,   66940907   
+     SNEHA AGARWAL     ,   25   ,   AB   ,   88   ,   93   ,   277   ,   92.33   ,   Pass   ,   2023-08-24   ,   3.3   ,   None   ,   A+   ,   green   ,   804424FC   
+      devika khan      ,    STU-0026    ,   81   ,   ?   ,   61   ,   81+?+61   ,   69.33   ,   Pass   ,"   January 27, 2019   ",     7.2 hrs    ,     16 years    ,   B   ,   white   ,   None   
+     Meena Khan      ,    STU-0027    ,   96   ,   90   ,   36   ,   96+90+36   ,   74.0   ,   Pass   ,   06-15-2024   ,   4.8   ,   60   ,   Good   ,   blue   ,   227DFE85   
+     ROHIT SHARMA     ,   None   ,   85   ,   72   ,   107   ,   207   ,   69.0   ,   Pass   ,   30/08/2024   ,   4.6   ,   17   ,   Good   ,   blue   ,   B6068ADB   
+     Kiran Varma      ,       29        ,   89   ,   -18   ,   AB   ,   89+-18+AB   ,   79.0   ,   Pass   ,   12-Oct-2021   ,   4.5   ,   19   ,   Distinction   ,   white   ,   A35A50DD   
+      devika sharma      ,       30        ,   98   ,   None   ,   55   ,   98+None+55   ,   73.67   ,   Pass   ,"   August 31, 2020   ",   3.0   ,   47   ,   Good   ,   green   ,   7A2E75F3   
+      pooja sharma      ,     00031     ,   37   ,   85   ,   97   ,   37+85+97   ,   73.0%   ,   Pass   ,   06/12/2018   ,   6.3   ,   16   ,   B+   ,   white   ,   None   
+     Harika Goud      ,     00032     ,   85   ,   92   ,   107   ,   221   ,   73.67   ,   Pass   ,"   January 27, 2020   ",   2.0   ,   18   ,   B   ,   unknown   ,   98840199   
+     Lokesh Rao      ,   33   ,   41   ,   75   ,   43   ,   41+75+43   ,   53.0   ,   Pass   ,   None   ,   7.5   ,   16   ,   C   ,   red   ,   XXXXXXXX   
+     TEJA RAO     ,     00034     ,   55   ,   40   ,   56   ,   55+40+56   ,   None   ,   Pass   ,   27/05/2024   ,   7.2   ,   19   ,   C   ,   green   ,   7E568292   
+      meena varma      ,    STU-0035    ,   73   ,   91   ,   69   ,   73+91+69   ,   77.67   ,   Pass   ,   2024-06-11   ,   None   ,   18   ,   A    ,   red   ,   CDD487B5   
+      suresh sharma      ,     id_36    ,   52   ,   54   ,   AB   ,   52+54+AB   ,   64.33   ,   Pass   ,"   July 27, 2020   ",   5.8   ,   18   ,   B+   ,   black   ,   DE437D65   
+     Divya Gupta      ,    STU-0037    ,   138   ,   81   ,   -24   ,   138+81+-24   ,   58.67   ,   Pass   ,   04-27-2020   ,   4.6   ,   18   ,   None   ,   white   ,   217F9A89   
+     Sanjana Varma      ,     00038     ,   AB   ,   33   ,   55   ,   182   ,   60.67   ,   Pass   ,   None   ,   2.7   ,   17   ,   B   ,   black   ,   id_missing   
+      teja naidu      ,       39        ,   AB   ,   None   ,   92   ,   AB+None+92   ,   76.0   ,   Pass   ,   2024-12-25   ,     7.9 hrs    ,   17   ,   Distinction   ,   green   ,   602FE21B   
+     HARIKA GOUD     ,    STU-0040    ,   AB   ,   150   ,   95   ,   AB+150+95   ,   62.33%   ,   Pass   ,"   May 10, 2018   ",   -0.2   ,   16   ,   B+   ,      ,   9178F03D   
+     Sanjana Varma      ,       41        ,   87   ,   92   ,   None   ,   87+92+None   ,   77.67   ,   Pass   ,   20/08/2019   ,   -2.0   ,   18   ,   A   ,   black   ,   CE830CF0   
+     Akash Reddy      ,    STU-0042    ,   36   ,   83   ,   32   ,   151   ,   50.33   ,   Pass   ,"   May 13, 2023   ",    0    ,   19   ,   C   ,   yellow   ,   7144E794   
+      pooja reddy      ,       43        ,   94   ,   -18   ,   73   ,   94+-18+73   ,   84.33   ,   Pass   ,   14-Feb-2022   ,   -4.2   ,   17   ,   A    ,   blue   ,   1C6C5182   
+     AKASH PATEL     ,     S44X     ,   78   ,   ?   ,   71   ,   78+?+71   ,   73.0   ,   Pass   ,"   May 11, 2020   ",   4.7   ,   19   ,   B+   ,   None   ,   4AA79460   
+     Suresh Sharma      ,    STU-0045    ,   None   ,   32   ,   35   ,   None+32+35   ,   36.33   ,   Fail   ,   2020-09-25   ,   6.0   ,   9   ,   F   ,   blue   ,   7D5A2F34   
+     Rohit Khan      ,       46        ,   81   ,   35   ,   68   ,   81+35+68   ,   61.33   ,   Pass   ,"   June 30, 2024   ",   5.0   ,   17.5   ,   None   ,   red   ,   311A2A2E   
+      akash varma      ,     id_47    ,   69   ,   34   ,   None   ,   69+34+None   ,   61.33   ,   Pass   ,   10-31-2024   ,   4.8   ,   17   ,   Good   ,   black   ,   9A7468BB   
+     PRASAD PATEL     ,   48   ,   70   ,   34   ,   52   ,   156   ,   118.2   ,   Pass   ,"   April 01, 2022   ",   0.4   ,   51   ,   None   ,   red   ,   CD27E0F0   
+     LOKESH GUPTA     ,    STU-0049    ,   84   ,   83   ,   -24   ,   246   ,   82.0   ,   Pass   ,   None   ,   3.0   ,   17   ,   A+   ,   None   ,   0000   
+     SURESH GUPTA     ,     id_50    ,   38   ,   76   ,   72   ,   38+76+72   ,   154.84   ,   Pass   ,   02-20-2022   ,   -1.9   ,   18   ,   B   ,   blue   ,   None   
+     POOJA AGARWAL     ,   51   ,   36   ,   ?   ,   48   ,   162   ,   54.0   ,   Pass   ,   03/10/2022   ,   None   ,   18   ,   C   ,   blue   ,   637B2AD7   
+     Sanjana Goud      ,    STU-0052    ,   40   ,   38   ,   98   ,   40+38+98   ,   58.67   ,   Pass   ,   20/12/2021   ,   4.4   ,   18   ,   None   ,   black   ,   81AB883A   
+     SHIVA PATEL     ,     id_53    ,   88   ,   49   ,   -24   ,   88+49+-24   ,   72.33   ,   Pass   ,   02-01-2023   ,   None   ,   18   ,   Good   ,   None   ,   8F93650B   
+     SHIVA PATEL     ,     id_54    ,   38   ,   -18   ,   40   ,   38+-18+40   ,   56.0   ,   Pass   ,   09-22-2018   ,   2.4   ,   16   ,   Average   ,   yellow   ,   CD708F6C   
+     Meena Varma      ,     S55X     ,   88   ,   64   ,   41   ,   193   ,   64.33   ,   Pass   ,"   January 02, 2022   ",   39.2   ,   18   ,   Good   ,   yellow   ,   9529A07F   
+     Vikram Agarwal      ,     id_56    ,   138   ,   79   ,   37   ,   138+79+37   ,   71.0   ,   Pass   ,   2018-06-06   ,   7.6   ,     17 years    ,   B   ,   black   ,   6906AE91   
+     PRASAD SHARMA     ,     S57X     ,   None   ,   None   ,   53   ,   error   ,   65.33   ,   Pass   ,   16-Dec-2021   ,   7.6   ,   45   ,   Good   ,   white   ,   F9044B36   
+      kiran sharma      ,     00058     ,   78   ,   46   ,   70   ,   194   ,   64.67   ,   Pass   ,   17/04/2024   ,    0    ,   18.5   ,   B+   ,   black   ,   5BC545FB   
+     VIKRAM GUPTA     ,       59        ,   68   ,   None   ,   65   ,   165   ,   55.0   ,   Pass   ,   06-21-2022   ,    0    ,   16   ,   Average   ,   white   ,   AEFECC12   
+     Varun Khan      ,   60   ,   96   ,   61   ,   84   ,   96+61+84   ,   80.33%   ,   Pass   ,   02/07/2024   ,   6.3   ,     17 years    ,   None   ,   red   ,   0AFB3F0E   
+      sneha patel      ,       61        ,   48   ,   -18   ,   38   ,   48+-18+38   ,   42.67   ,   Pass   ,"   June 13, 2020   ",   4.7   ,   43   ,   Below Avg   ,   None   ,   0B8893C0   
+     Harika Khan      ,       62        ,   82   ,   97   ,   76   ,   82+97+76   ,   -17.49   ,   Pass   ,   11-15-2023   ,   0.1   ,   19   ,   Distinction   ,   white   ,   CE1B001B   
+     Lokesh Agarwal      ,     S63X     ,   138   ,   43   ,   44   ,   138+43+44   ,   45.33   ,   Pass   ,   None   ,   6.2   ,   5   ,   D   ,   yellow   ,   ED43DBE9   
+     Suresh Agarwal      ,       64        ,   96   ,   40   ,   AB   ,   213   ,   None   ,   Pass   ,"   August 04, 2018   ",   5.6   ,   19   ,   B+   ,   white   ,   F36FF779   
+     RAHUL SHARMA     ,     id_65    ,   74   ,   85   ,   -24   ,   230   ,   76.67   ,   Pass   ,   13/12/2023   ,   4.9   ,   18   ,   A+   ,   white   ,   CF9DF99E   
+      sanjana goud      ,     S66X     ,   87   ,   96   ,   89   ,   87+96+89   ,   90.67   ,   Pass   ,   09-03-2022   ,   6.1   ,   18   ,   A    ,   black   ,   513D070B   
+      akash sharma      ,       67        ,   -10   ,   58   ,   99   ,   N/A   ,   71.67   ,   Pass   ,   10-08-2023   ,   27.1   ,   7   ,   Good   ,   red   ,   33242915   
+     DEVIKA PATEL     ,     S68X     ,   60   ,   38   ,   41   ,   60+38+41   ,   46.33%   ,   Pass   ,   17/04/2022   ,   5.6   ,   17   ,   D   ,   red   ,   1E576014   
+      teja naidu      ,     00069     ,   94   ,   96   ,   31   ,   check   ,   73.67   ,   Pass   ,"   January 18, 2024   ",   7.5   ,   16   ,   B   ,   red   ,   dev-123   
+     RAHUL GOUD     ,     S70X     ,   -10   ,   54   ,   36   ,   -10+54+36   ,   55.0   ,   Pass   ,   20/05/2024   ,   3.0   ,   17   ,   C   ,   red   ,   None   
+     NAVEEN GUPTA     ,    STU-0071    ,   63   ,   71   ,   32   ,   63+71+32   ,   55.33   ,   Pass   ,   11-24-2023   ,    0    ,   17   ,   C   ,   green   ,   None   
+     NAVEEN SHARMA     ,     id_72    ,   AB   ,   ?   ,   32   ,   AB+?+32   ,   39.67   ,   Fail   ,"   February 02, 2021   ",    two    ,   None   ,   Fail   ,   black   ,   40690AE2   
+      devika agarwal      ,   73   ,   138   ,   69   ,   -24   ,   138+69+-24   ,   68.0   ,   Pass   ,   16/08/2018   ,   5.4   ,   5   ,   B   ,   blue   ,   23310632   
+     Divya Varma      ,    STU-0074    ,   99   ,   54   ,   -24   ,   99+54+-24   ,   74.0   ,   Pass   ,   23/06/2024   ,   None   ,   18   ,   Good   ,   black   ,   XXXXXXXX   
+     VIKRAM RAO     ,    STU-0075    ,   43   ,   34   ,   62   ,   43+34+62   ,   46.33   ,   Pass   ,   27-Jan-2022   ,   0.4   ,   18.5   ,   Below Avg   ,   green   ,   E1D1115F   
+     Teja Agarwal      ,    STU-0076    ,   35   ,   150   ,   30   ,   105   ,   35.0   ,   Fail   ,"   March 12, 2020   ",   30.7   ,   None   ,   F   ,   N/A   ,   XXXXXXXX   
+      naveen reddy      ,       77        ,   42   ,   88   ,   107   ,   42+88+107   ,   55.67   ,   Pass   ,   2022-06-11   ,   1.8   ,     16 years    ,   Average   ,   green   ,   DCC29D0C   
+     DIVYA RAO     ,     S78X     ,   97   ,   67   ,   -24   ,   97+67+-24   ,   null   ,   Pass   ,   03-21-2023   ,   None   ,   16   ,   None   ,   yellow   ,   40A3D305   
+      prasad reddy      ,     S79X     ,   45   ,   34   ,   77   ,   missing   ,   52.0   ,   Pass   ,   17/04/2019   ,   39.2   ,   19   ,   C   ,   yellow   ,   0000   
+     ANITA RAO     ,       80        ,   138   ,   77   ,   33   ,   152   ,   50.67   ,   Pass   ,   15/12/2020   ,   6.2   ,   9   ,   Average   ,   black   ,   1E724333   
+     Devika Varma      ,     id_81    ,   69   ,   47   ,   99   ,   69+47+99   ,   incomplete   ,   Pass   ,"   August 23, 2023   ",   1.0   ,   17   ,   Good   ,   black   ,   F7375E3B   
+      kiran varma      ,       82        ,   69   ,   99   ,   107   ,   216   ,   72.0   ,   Pass   ,"   November 07, 2020   ",   5.0   ,     16 years    ,   Good   ,   blue   ,   CBEC520C   
+     SHIVA SHARMA     ,       83        ,   None   ,   66   ,   61   ,   None+66+61   ,   None   ,   Pass   ,   12-01-2023   ,   None   ,     18 years    ,   None   ,   None   ,   0C454921   
+     SNEHA NAIDU     ,       84        ,   39   ,   -18   ,   38   ,   39+-18+38   ,   55.33   ,   Pass   ,   None   ,    two    ,   19   ,   C   ,   yellow   ,   CF1AFAC7   
+     Sneha Agarwal      ,     id_85    ,   75   ,   77   ,   41   ,   75+77+41   ,   64.33   ,   Pass   ,   2018-06-20   ,   7.4   ,   18   ,   Good   ,   N/A   ,   9214071B   
+     Vikram Gupta      ,     id_86    ,   62   ,   57   ,   40   ,   62+57+40   ,   53.0   ,   Pass   ,   10-22-2018   ,   30.6   ,   19   ,   Average   ,   green   ,   A6EE2C15   
+     Prasad Agarwal      ,     00087     ,   41   ,   98   ,   75   ,   41+98+75   ,   71.33   ,   Pass   ,   07-08-2018   ,   6.4   ,   17   ,   None   ,   blue   ,   62BB67F7   
+     Teja Goud      ,     00088     ,   46   ,   69   ,   None   ,   46+69+None   ,   53.33   ,   Pass   ,   2019-03-02   ,   None   ,   16   ,   Average   ,   white   ,   A529B76E   
+     NAVEEN KHAN     ,     00089     ,   AB   ,   74   ,   30   ,   172   ,   57.33   ,   Pass   ,   03/09/2020   ,   1.7   ,   19   ,   Average   ,   blue   ,   91F7196D   
+     VARUN VARMA     ,     00090     ,   67   ,   91   ,   92   ,   67+91+92   ,   83.33   ,   Pass   ,   01-07-2021   ,   None   ,   16   ,   A+   ,   red   ,   63F54CCD   
+     SANJANA VARMA     ,     S91X     ,   AB   ,   150   ,   AB   ,   AB+150+AB   ,   117.62   ,   Pass   ,   07-07-2020   ,   None   ,   18   ,   None   ,   unknown   ,   DAFE2F5E   
+     DEVIKA PATEL     ,    STU-0092    ,   138   ,   96   ,   59   ,   138+96+59   ,   70.67   ,   Pass   ,   14/05/2019   ,   6.2   ,   47   ,   Good   ,   black   ,   E794B968   
+      meena naidu      ,    STU-0093    ,   96   ,   ?   ,   42   ,   check   ,   74.33   ,   Pass   ,   12-27-2022   ,   7.3   ,   6   ,   Good   ,   green   ,   97C7D576   
+     Naveen Naidu      ,     00094     ,   71   ,   -18   ,   63   ,   71+-18+63   ,   67.67   ,   Pass   ,   2020-05-15   ,     1.5 hrs    ,   17   ,   None   ,   red   ,   413E0148   
+     ANITA VARMA     ,     00095     ,   138   ,   69   ,   AB   ,   138+69+AB   ,   60.0   ,   Pass   ,   2020-04-05   ,   7.4   ,   16   ,   Average   ,   blue   ,   B2E8F9FA   
+     Pooja Sharma      ,   96   ,   69   ,   62   ,   57   ,   69+62+57   ,   62.67   ,   Pass   ,   02-02-2023   ,   5.6   ,     18 years    ,   B   ,   blue   ,   65514FB2   
+      akash reddy      ,    STU-0097    ,   99   ,   35   ,   88   ,   99+35+88   ,   74.0   ,   Pass   ,   20-Oct-2023   ,    two    ,   5   ,   B   ,   yellow   ,   D0DE7F33   
+     SHIVA AGARWAL     ,   98   ,   AB   ,   48   ,   56   ,   AB+48+56   ,   61.67   ,   Pass   ,   14/04/2024   ,   1.6   ,   None   ,   B+   ,   red   ,   1F4AB61B   
+     POOJA KHAN     ,   99   ,   None   ,   69   ,   107   ,   None+69+107   ,   68.0   ,   Pass   ,   2018-05-26   ,   0.4   ,   18   ,   Good   ,   white   ,   71A9D5C4   
+     POOJA REDDY     ,       100        ,   35   ,   88   ,   AB   ,   35+88+AB   ,   absent   ,   Pass   ,   30/06/2022   ,   4.5   ,   19   ,   Average   ,   black   ,   C8E4EF8C   
+      sneha reddy      ,     S101X     ,   39   ,   -18   ,   32   ,   159   ,   53.0   ,   Pass   ,   12/08/2021   ,     5.2 hrs    ,   16   ,   C   ,      ,   0E5D45A1   
+     POOJA SHARMA     ,     id_102    ,   48   ,   150   ,   97   ,   222   ,   74.0   ,   Pass   ,   15/04/2019   ,   1.7   ,   6   ,   Good   ,   white   ,   CD4A5790   
+      kiran rao      ,    STU-0103    ,   138   ,   150   ,   54   ,   138+150+54   ,   61.67   ,   Pass   ,   07-12-2018   ,   4.5   ,   19   ,   None   ,   black   ,   CB05BF8C   
+     SNEHA AGARWAL     ,     00104     ,   43   ,   42   ,   49   ,   missing   ,   44.67   ,   Pass   ,   12-27-2020   ,   None   ,     17 years    ,   None   ,   blue   ,   66C9C2A4   
+      pooja goud      ,     00105     ,   49   ,   ?   ,   AB   ,   49+?+AB   ,   62.0   ,   Pass   ,   12-16-2024   ,   None   ,   19   ,   None   ,   white   ,   154C047B   
+     Prasad Varma      ,     id_106    ,   76   ,   None   ,   55   ,   76+None+55   ,   71.0   ,   Pass   ,   21-Feb-2018   ,     7.4 hrs    ,   17   ,   B   ,   black   ,   B6309FCE   
+     Sanjana Gupta      ,    STU-0107    ,   85   ,   71   ,   34   ,   85+71+34   ,   63.33   ,   Pass   ,   07-Aug-2024   ,     2.9 hrs    ,   17   ,   B+   ,   blue   ,   B2336574   
+     SHIVA KHAN     ,     00108     ,   97   ,   None   ,   90   ,   279   ,   93.0   ,   Pass   ,   12-26-2022   ,    0    ,     16 years    ,   A+   ,   blue   ,   E225EA89   
+     Prasad Varma      ,     00109     ,   86   ,   56   ,   38   ,   86+56+38   ,   -5.97   ,   Pass   ,   None   ,   6.0   ,   16.5   ,   C   ,   blue   ,   1B132998   
+     PRASAD PATEL     ,       110        ,   38   ,   67   ,   79   ,   38+67+79   ,   61.33   ,   Pass   ,   02-13-2023   ,   38.3   ,   19   ,   Good   ,   blue   ,   C73F4696   
+      rohit sharma      ,   111   ,   57   ,   89   ,   35   ,   181   ,   60.33   ,   Pass   ,   22/11/2022   ,   0.7   ,   63   ,   B+   ,   blue   ,   ABEAA624   
+     Anita Patel      ,     00112     ,   49   ,   36   ,   89   ,   49+36+89   ,   None   ,   Pass   ,   25/12/2021   ,   2.3   ,   45   ,   C   ,   yellow   ,   205B23EE   
+     MEENA PATEL     ,     S113X     ,   77   ,   34   ,   73   ,   77+34+73   ,   61.33   ,   Pass   ,   11/02/2023   ,   3.3   ,   16   ,   B+   ,   white   ,   2D620474   
+      varun naidu      ,    STU-0114    ,   63   ,   74   ,   None   ,   63+74+None   ,   -3.1   ,   Pass   ,   01/07/2023   ,   None   ,   10   ,   C   ,   black   ,   B557AB01   
+      kiran sharma      ,     S115X     ,   70   ,   87   ,   95   ,   70+87+95   ,   84.0   ,   Pass   ,   05-Dec-2021   ,   2.7   ,   18   ,   Distinction   ,   yellow   ,   3E55B55C   
+     KIRAN PATEL     ,     id_116    ,   47   ,   None   ,   76   ,   47+None+76   ,   61.0   ,   Pass   ,"   April 19, 2020   ",   2.4   ,   62   ,   B   ,   yellow   ,   None   
+      akash sharma      ,       117        ,   66   ,   ?   ,   32   ,   150   ,   50.0   ,   Pass   ,   08-29-2018   ,     0.3 hrs    ,   None   ,   Below Avg   ,   red   ,   86A6EB53   
+     POOJA VARMA     ,    STU-0118    ,   93   ,   71   ,   59   ,   93+71+59   ,   74.33   ,   Pass   ,   2019-06-20   ,   None   ,   19   ,   Good   ,   red   ,   B1F13FEB   
+     ROHIT AGARWAL     ,       119        ,   None   ,   39   ,   50   ,   None+39+50   ,   133.21   ,   Pass   ,   08-Nov-2021   ,   -4.8   ,   18   ,   Average   ,   red   ,   35D2A7D1   
+     LOKESH GUPTA     ,   120   ,   76   ,   61   ,   57   ,   194   ,   64.67%   ,   Pass   ,   None   ,   28.9   ,   None   ,   B   ,   green   ,   0C872850   
+     Varun Gupta      ,     00121     ,   79   ,   82   ,   91   ,   252   ,   102.15   ,   Pass   ,   2020-09-08   ,     1.5 hrs    ,   17   ,   A    ,   red   ,   None   
+      suresh naidu      ,    STU-0122    ,   96   ,   59   ,   62   ,   217   ,   101.91%   ,   Pass   ,   08-Aug-2020   ,    0    ,   19   ,   None   ,   black   ,   C699B1E7   
+      pooja sharma      ,     id_123    ,   None   ,   68   ,   64   ,   300/300   ,   74.33   ,   Pass   ,   03/09/2019   ,   5.0   ,   6   ,   B   ,   yellow   ,   F2AD3E31   
+      lokesh agarwal      ,   124   ,   40   ,   60   ,   81   ,   40+60+81   ,   60.33%   ,   Pass   ,"   July 28, 2019   ",   34.1   ,   10   ,   None   ,   black   ,   316D86DA   
+     Anita Reddy      ,   125   ,   62   ,   31   ,   None   ,   62+31+None   ,   135.64   ,   Pass   ,   05-22-2024   ,   4.1   ,   None   ,   Average   ,   white   ,   0DF789A4   
+     Sanjana Reddy      ,       126        ,   62   ,   41   ,   -24   ,   62+41+-24   ,   57.67   ,   Pass   ,   2020-09-15   ,   2.8   ,   None   ,   None   ,   red   ,   75B2D1A9   
+      sneha varma      ,   127   ,   138   ,   68   ,   80   ,   138+68+80   ,   75.33   ,   Pass   ,   04-04-2019   ,    two    ,   19   ,   None   ,   green   ,   5B8825F9   
+     Teja Patel      ,    STU-0128    ,   64   ,   95   ,   76   ,   64+95+76   ,   78.33   ,   Pass   ,   12-14-2023   ,   2.7   ,   19   ,   Distinction   ,   white   ,   BBC7B309   
+      prasad naidu      ,       129        ,   -10   ,   42   ,   107   ,   -10+42+107   ,   75.0   ,   Pass   ,   03-Mar-2022   ,   None   ,   51   ,   None   ,   None   ,   DEF655FE   
+     ROHIT PATEL     ,   130   ,   None   ,   None   ,   86   ,   missing   ,   85.67   ,   Pass   ,   08/10/2024   ,   5.4   ,   19   ,   A+   ,   unknown   ,   BD63CC10   
+     KIRAN GUPTA     ,     id_131    ,   35   ,   56   ,   52   ,   35+56+52   ,   47.67   ,   Pass   ,   2023-06-08   ,   4.3   ,   17.5   ,   Below Avg   ,   None   ,   29DEEBC4   
+      harika reddy      ,     S132X     ,   61   ,   -18   ,   77   ,   61+-18+77   ,   61.33   ,   Pass   ,   04-16-2022   ,     2.8 hrs    ,   16   ,   B   ,   black   ,   75A7FBDF   
+     HARIKA GOUD     ,    STU-0133    ,   AB   ,   89   ,   51   ,   AB+89+51   ,   121.81   ,   Pass   ,   30/11/2023   ,    0    ,   17   ,   A   ,   blue   ,   24E9A015   
+     LOKESH GOUD     ,     id_134    ,   37   ,   93   ,   46   ,   37+93+46   ,   None   ,   Pass   ,   15/09/2024   ,    two    ,   65   ,   C   ,   black   ,   D16CA79C   
+      varun agarwal      ,     id_135    ,   61   ,   64   ,   107   ,   223   ,   74.33   ,   Pass   ,   05-02-2018   ,   None   ,   5   ,   B   ,   red   ,   7F443E7A   
+     Prasad Gupta      ,       136        ,   43   ,   99   ,   40   ,   43+99+40   ,   None   ,   Pass   ,"   September 30, 2018   ",   -1.1   ,   7   ,   B+   ,   blue   ,   B81C87FA   
+     ROHIT GOUD     ,     00137     ,   96   ,   59   ,   44   ,   96+59+44   ,   66.33   ,   Pass   ,   None   ,   2.5   ,   17   ,   B+   ,   green   ,   1C370A4C   
+     Rohit Reddy      ,       138        ,   71   ,   92   ,   64   ,   71+92+64   ,   75.67   ,   Pass   ,   2019-02-02   ,   31.4   ,     18 years    ,   A    ,   yellow   ,   DCE8A3DE   
+      shiva agarwal      ,    STU-0139    ,   None   ,   57   ,   62   ,   204   ,   68.0   ,   Pass   ,   23-Nov-2024   ,   0.7   ,   19   ,   None   ,   yellow   ,   02AECD82   
+     KIRAN RAO     ,    STU-0140    ,   138   ,   150   ,   45   ,   138+150+45   ,   70.67   ,   Pass   ,   2020-09-11   ,   7.9   ,   18   ,   B   ,   unknown   ,   46696F21   
+     KIRAN REDDY     ,       141        ,   58   ,   66   ,   -24   ,   58+66+-24   ,   62.33   ,   Pass   ,"   May 15, 2021   ",   4.3   ,   16   ,   B+   ,   red   ,   820CFD86   
+     Shiva Naidu      ,     00142     ,   93   ,   51   ,   95   ,   93+51+95   ,   79.67   ,   Pass   ,   07/02/2021   ,   7.9   ,   None   ,   A    ,   green   ,   A92699B4   
+     NAVEEN AGARWAL     ,       143        ,   66   ,   97   ,   69   ,   66+97+69   ,   77.33   ,   Pass   ,"   July 25, 2021   ",   7.5   ,   16   ,   A    ,   white   ,   E78A9D76   
+     TEJA REDDY     ,    STU-0144    ,   86   ,   150   ,   57   ,   error   ,   64.0   ,   Pass   ,"   March 26, 2023   ",   3.6   ,   19   ,   B   ,   red   ,   None   
+      naveen sharma      ,     00145     ,   138   ,   97   ,   76   ,   138+97+76   ,   89.67   ,   Pass   ,   14-Feb-2022   ,    two    ,   7   ,   A+   ,   blue   ,   A5933D98   
+      teja sharma      ,    STU-0146    ,   92   ,   93   ,   -24   ,   92+93+-24   ,   84.33   ,   Pass   ,"   April 01, 2023   ",   1.3   ,   18.5   ,   A   ,   green   ,   1E1BDD2A   
+     DIVYA SHARMA     ,     00147     ,   86   ,   46   ,   99   ,   86+46+99   ,   77.0%   ,   Pass   ,   03-30-2020   ,   1.9   ,   19.5   ,   None   ,   red   ,   8DC587FA   
+     Pooja Patel      ,     00148     ,   46   ,   ?   ,   AB   ,   46+?+AB   ,   45.33   ,   Pass   ,   05-11-2023   ,   5.7   ,   16   ,   Below Avg   ,   blue   ,   386779F9   
+      anita khan      ,       149        ,   73   ,   51   ,   30   ,   154   ,   142.94   ,   Pass   ,"   June 26, 2024   ",   2.2   ,   18.5   ,   Average   ,   green   ,   0BECC969   
+     POOJA KHAN     ,       150        ,   36   ,   -18   ,   92   ,   174   ,   -1.72   ,   Pass   ,   None   ,     2.7 hrs    ,   16   ,   Average   ,   None   ,   4C9586D3   
+     Divya Reddy      ,       151        ,   37   ,   150   ,   96   ,   missing   ,   57.33   ,   Pass   ,   15-Jun-2020   ,   3.6   ,     18 years    ,   Average   ,   green   ,   CE5C5990   
+     DIVYA SHARMA     ,     00152     ,   90   ,   ?   ,   33   ,   90+?+33   ,   -13.25   ,   Pass   ,   None   ,   7.3   ,   None   ,   B   ,   black   ,   99A389D3   
+     VARUN KHAN     ,     00153     ,   138   ,   51   ,   AB   ,   231   ,   null   ,   Pass   ,   2023-05-27   ,   35.8   ,   18   ,   None   ,   green   ,   8C5D9C8B   
+     SHIVA AGARWAL     ,    STU-0154    ,   36   ,   79   ,   54   ,   169   ,   56.33   ,   Pass   ,   None   ,   None   ,   11   ,   C   ,   black   ,   5481EDBE   
+      akash goud      ,     id_155    ,   36   ,   43   ,   76   ,   36+43+76   ,   51.67   ,   Pass   ,   None   ,   0.5   ,   19   ,   C   ,   blue   ,   None   
+     ROHIT RAO     ,       156        ,   -10   ,   93   ,   67   ,   -10+93+67   ,   82.67   ,   Pass   ,   03-02-2018   ,   7.2   ,   16.5   ,   A   ,   green   ,   2B1744CB   
+     POOJA GOUD     ,     S157X     ,   35   ,   ?   ,   44   ,   35+?+44   ,   108.96   ,   Pass   ,   13/12/2020   ,   24.3   ,   18   ,   C   ,      ,   7EF9BC05   
+     Harika Gupta      ,    STU-0158    ,   138   ,   58   ,   107   ,   138+58+107   ,   67.67   ,   Pass   ,"   August 31, 2022   ",   None   ,   16   ,   Good   ,   blue   ,   28B331A9   
+      devika naidu      ,    STU-0159    ,   36   ,   65   ,   50   ,   151   ,   50.33   ,   Pass   ,"   March 06, 2018   ",   1.4   ,   16   ,   C   ,   red   ,   None   
+      akash sharma      ,   160   ,   None   ,   81   ,   86   ,   None+81+86   ,   84.67   ,   Pass   ,"   August 09, 2019   ",   2.4   ,   17   ,   A    ,   N/A   ,   5EEDA37C   
+      rahul naidu      ,       161        ,   78   ,   36   ,   AB   ,   78+36+AB   ,   65.33   ,   Pass   ,"   September 24, 2022   ",     0.9 hrs    ,   17   ,   B   ,   blue   ,   F0E43DAC   
+     DIVYA KHAN     ,    STU-0162    ,   66   ,   58   ,   75   ,   66+58+75   ,   66.33   ,   Pass   ,   28/01/2024   ,   None   ,   19   ,   Good   ,   green   ,   EB7E014B   
+     ANITA SHARMA     ,   163   ,   66   ,   40   ,   107   ,   149   ,   49.67   ,   Pass   ,"   June 19, 2019   ",   6.3   ,   16   ,   Below Avg   ,      ,   2C8F1E1D   
+     Sanjana Varma      ,     S164X     ,   None   ,   62   ,   46   ,   197   ,   65.67   ,   Pass   ,   26-Nov-2023   ,   3.7   ,   19   ,   B+   ,   yellow   ,   None   
+     NAVEEN GOUD     ,     S165X     ,   90   ,   35   ,   68   ,   193   ,   64.33   ,   Pass   ,   14-Feb-2023   ,     6.9 hrs    ,   9   ,   None   ,   red   ,   32770271   
+      vikram rao      ,       166        ,   51   ,   61   ,   38   ,   150   ,   50.0   ,   Pass   ,   01/10/2020   ,   -2.0   ,   16   ,   Below Avg   ,   N/A   ,   81B85286   
+     Sneha Varma      ,     00167     ,   -10   ,   80   ,   35   ,   187   ,   62.33   ,   Pass   ,   04/11/2024   ,   5.7   ,   61   ,   B+   ,   red   ,   43B6C996   
+     Meena Goud      ,   168   ,   58   ,   150   ,   -24   ,   197   ,   65.67   ,   Pass   ,"   May 14, 2021   ",   6.8   ,   18   ,   None   ,   None   ,   C090947E   
+     TEJA NAIDU     ,     00169     ,   45   ,   55   ,   88   ,   188   ,   62.67   ,   Pass   ,   2020-11-05   ,   2.9   ,   18   ,   B   ,   blue   ,   88B00FE1   
+      sanjana goud      ,     S170X     ,   50   ,   75   ,   75   ,   50+75+75   ,   66.67   ,   Pass   ,   11-23-2018   ,   6.1   ,     19 years    ,   B   ,   red   ,   763200C3   
+      divya agarwal      ,     S171X     ,   93   ,   58   ,   67   ,   93+58+67   ,   72.67   ,   Pass   ,   None   ,   2.4   ,   65   ,   Good   ,   yellow   ,   6983BE2F   
+     RAHUL AGARWAL     ,     id_172    ,   37   ,   33   ,   43   ,   113   ,   37.67   ,   Fail   ,   02-Jan-2018   ,   2.4   ,   18   ,   None   ,   yellow   ,   0013AEC3   
+     DEVIKA SHARMA     ,     id_173    ,   54   ,   42   ,   91   ,   54+42+91   ,   -19.75   ,   Pass   ,   2020-10-30   ,   0.9   ,   19   ,   B+   ,   blue   ,   5A8FD588   
+     VIKRAM GOUD     ,     id_174    ,   93   ,   150   ,   64   ,   93+150+64   ,   141.4   ,   Pass   ,   17/10/2024   ,   27.7   ,   18.5   ,   B   ,   black   ,   A7EE15B7   
+     ANITA SHARMA     ,     id_175    ,   AB   ,   44   ,   48   ,   AB+44+48   ,   54.0   ,   Pass   ,   2018-05-05   ,   -5.8   ,   64   ,   Average   ,   yellow   ,   C917E04D   
+     Sanjana Gupta      ,    STU-0176    ,   -10   ,   58   ,   59   ,   -10+58+59   ,   56.67   ,   Pass   ,   09/01/2021   ,   7.5   ,   9   ,   Average   ,   yellow   ,   None   
+      suresh goud      ,     id_177    ,   53   ,   58   ,   54   ,   165   ,   55.0   ,   Pass   ,   07-Dec-2024   ,   4.8   ,     17 years    ,   C   ,   black   ,   None   
+     Divya Varma      ,    STU-0178    ,   54   ,   None   ,   107   ,   184   ,   61.33   ,   Pass   ,   05-Feb-2023   ,   32.7   ,   None   ,   Good   ,   red   ,   7D185E72   
+     Akash Varma      ,    STU-0179    ,   86   ,   31   ,   AB   ,   86+31+AB   ,   53.33%   ,   Pass   ,"   March 19, 2021   ",     6.6 hrs    ,   62   ,   C   ,   yellow   ,   4BAF3C73   
+     SURESH AGARWAL     ,       180        ,   67   ,   76   ,   55   ,   67+76+55   ,   154.49   ,   Pass   ,   05-09-2018   ,   None   ,   19   ,   Good   ,   green   ,   FC855E0C   
+     PRASAD GOUD     ,    STU-0181    ,   74   ,   51   ,   51   ,   error   ,   58.67   ,   Pass   ,   14-Mar-2019   ,    0    ,   17   ,   Average   ,   white   ,   39744E0A   
+     KIRAN SHARMA     ,    STU-0182    ,   73   ,   -18   ,   77   ,   N/A   ,   118.4   ,   Pass   ,   21/01/2020   ,   0.9   ,   19   ,   None   ,   white   ,   66A843AE   
+     VARUN GOUD     ,     id_183    ,   138   ,   ?   ,   80   ,   211   ,   70.33   ,   Pass   ,   None   ,   5.5   ,   18   ,   Good   ,   yellow   ,   id_missing   
+      kiran reddy      ,   None   ,   45   ,   85   ,   32   ,   45+85+32   ,   54.0%   ,   Pass   ,   05-06-2021   ,   7.6   ,   16.5   ,   Average   ,   red   ,   1470B247   
+     Akash Gupta      ,     00185     ,   91   ,   50   ,   71   ,   212   ,   101.5   ,   Pass   ,"   March 08, 2024   ",   1.1   ,   17   ,   B   ,   red   ,   F43EBB94   
+     SURESH GUPTA     ,     id_186    ,   84   ,   76   ,   48   ,   error   ,   69.33   ,   Pass   ,   20/06/2020   ,   5.9   ,   18   ,   B   ,   blue   ,   7E58EC68   
+     LOKESH AGARWAL     ,   187   ,   57   ,   150   ,   57   ,   57+150+57   ,   67.33   ,   Pass   ,"   September 24, 2023   ",   5.1   ,   17   ,   Good   ,   green   ,   66344549   
+     Varun Agarwal      ,     id_188    ,   65   ,   35   ,   None   ,   65+35+None   ,   58.0   ,   Pass   ,   07-26-2021   ,   None   ,   17   ,   Average   ,   red   ,   E00A53D5   
+     Rahul Sharma      ,    STU-0189    ,   138   ,   48   ,   92   ,   216   ,   72.0   ,   Pass   ,   12-04-2021   ,   None   ,   16   ,   B+   ,   black   ,   D2684277   
+     SNEHA GUPTA     ,     00190     ,   41   ,   86   ,   48   ,   41+86+48   ,   58.33   ,   Pass   ,   13-Nov-2024   ,     2.8 hrs    ,   18   ,   Average   ,   None   ,   8CBCE66C   
+     SANJANA REDDY     ,     id_191    ,   50   ,   98   ,   76   ,   50+98+76   ,   74.67   ,   Pass   ,   2019-01-26   ,   0.4   ,   19   ,   B   ,   white   ,   4FBF5E6F   
+      meena khan      ,     00192     ,   -10   ,   32   ,   43   ,   error   ,   -20.5   ,   Pass   ,   03/12/2020   ,    two    ,   17   ,   None   ,   green   ,   EE71739B   
+      sanjana gupta      ,   193   ,   36   ,   ?   ,   67   ,   300/300   ,   44.33   ,   Pass   ,   2018-01-27   ,    0    ,   None   ,   Below Avg   ,   None   ,   8270EA7C   
+     VARUN GUPTA     ,     S194X     ,   138   ,   87   ,   82   ,   138+87+82   ,   143.83   ,   Pass   ,   02/07/2019   ,   4.7   ,   None   ,   B   ,   yellow   ,   D0381F56   
+     KIRAN GOUD     ,   195   ,   -10   ,   67   ,   90   ,   239   ,   79.67   ,   Pass   ,"   July 21, 2019   ",   32.9   ,   None   ,   A+   ,   black   ,   14C4AE6C   
+      meena reddy      ,     S196X     ,   46   ,   44   ,   65   ,   46+44+65   ,   159.05   ,   Pass   ,   05-Dec-2019   ,   7.0   ,   17   ,   C   ,   black   ,   616B3409   
+     MEENA VARMA     ,   None   ,   138   ,   63   ,   69   ,   203   ,   67.67   ,   Pass   ,   05-27-2021   ,     4.2 hrs    ,   None   ,   Good   ,   yellow   ,   0ADFAF7D   
+     Pooja Sharma      ,     S198X     ,   138   ,   90   ,   59   ,   138+90+59   ,   132.13   ,   Pass   ,   04-Jul-2018   ,   None   ,   None   ,   None   ,   yellow   ,   44D5FC03   
+     Meena Agarwal      ,       199        ,   43   ,   150   ,   38   ,   43+150+38   ,   48.33%   ,   Pass   ,   None   ,    two    ,   7   ,   D   ,   yellow   ,   C7EE53F8   
+     Varun Khan      ,     id_200    ,   53   ,   150   ,   93   ,   53+150+93   ,   79.67   ,   Pass   ,   03-29-2023   ,   None   ,   18   ,   A   ,   yellow   ,   9F8FD980   
+      vikram varma      ,       201        ,   82   ,   54   ,   62   ,   198   ,   66.0   ,   Pass   ,   04-27-2020   ,   7.5   ,   19   ,   B   ,   yellow   ,   D5C53CF4   
+      teja gupta      ,     00202     ,   37   ,   ?   ,   81   ,   171   ,   57.0   ,   Pass   ,   22-Aug-2019   ,   0.7   ,     18 years    ,   C   ,   black   ,   A8E2A944   
+     Varun Reddy      ,       203        ,   138   ,   41   ,   43   ,   138+41+43   ,   127.39   ,   Pass   ,   2020-03-16   ,   -2.0   ,   18   ,   Below Avg   ,   blue   ,   A50021C5   
+      teja rao      ,     00204     ,   58   ,   47   ,   107   ,   58+47+107   ,   -22.91   ,   Pass   ,   None   ,   37.1   ,   16   ,   Good   ,   blue   ,   4E44E3C7   
+      varun varma      ,     S205X     ,   AB   ,   44   ,   88   ,   AB+44+88   ,   73.33   ,   Pass   ,"   October 28, 2023   ",    two    ,   19   ,   B+   ,   red   ,   B5BBBDDE   
+      suresh gupta      ,     S206X     ,   67   ,   None   ,   70   ,   193   ,   64.33   ,   Pass   ,   22-Feb-2023   ,     0.6 hrs    ,   17   ,   Good   ,   blue   ,   dev-123   
+     Anita Patel      ,     S207X     ,   58   ,   89   ,   97   ,   58+89+97   ,   81.33   ,   Pass   ,"   September 26, 2024   ",   2.9   ,   9   ,   A   ,   white   ,   FA4874CB   
+      kiran naidu      ,       208        ,   70   ,   75   ,   97   ,   error   ,   80.67   ,   Pass   ,   None   ,   0.7   ,   17.5   ,   Distinction   ,   blue   ,   25BED9E1   
+     POOJA VARMA     ,     S209X     ,   72   ,   -18   ,   37   ,   72+-18+37   ,   51.67   ,   Pass   ,   21/06/2022   ,   4.7   ,   17   ,   C   ,   black   ,   BCAE6F5B   
+     LOKESH RAO     ,       210        ,   59   ,   ?   ,   31   ,   missing   ,   None   ,   Pass   ,   01-26-2024   ,   1.8   ,   16   ,   Average   ,   yellow   ,   6A74CF13   
+     DEVIKA VARMA     ,       211        ,   52   ,   -18   ,   70   ,   check   ,   53.0   ,   Pass   ,   2023-09-11   ,   None   ,   18   ,   Average   ,   yellow   ,   XXXXXXXX   
+     POOJA REDDY     ,    STU-0212    ,   88   ,   56   ,   84   ,   88+56+84   ,   76.0   ,   Pass   ,   None   ,   6.3   ,   19   ,   A   ,   black   ,   7646B5A9   
+     ROHIT PATEL     ,    STU-0213    ,   69   ,   150   ,   45   ,   69+150+45   ,   63.0   ,   Pass   ,   11-Apr-2023   ,    two    ,   67   ,   B   ,   white   ,   C0364C0F   
+     AKASH GOUD     ,       214        ,   95   ,   79   ,   91   ,   95+79+91   ,   88.33   ,   Pass   ,   2019-09-09   ,   4.9   ,   17   ,   A    ,   blue   ,   A479C8B0   
+     SNEHA GOUD     ,     00215     ,   75   ,   32   ,   77   ,   184   ,   123.49   ,   Pass   ,   2024-05-06   ,   6.9   ,   19   ,   None   ,   black   ,   AEF54633   
+     Meena Agarwal      ,     id_216    ,   67   ,   93   ,   59   ,   67+93+59   ,   None   ,   Pass   ,   04-18-2021   ,    0    ,   18   ,   B+   ,   red   ,   94F25B4D   
+     Harika Agarwal      ,   217   ,   67   ,   73   ,   41   ,   67+73+41   ,   60.33   ,   Pass   ,"   October 26, 2022   ",   None   ,   17   ,   Good   ,   None   ,   F40729A4   
+     AKASH REDDY     ,    STU-0218    ,   48   ,   82   ,   107   ,   48+82+107   ,   154.17   ,   Pass   ,"   August 14, 2018   ",    0    ,   None   ,   B   ,   green   ,   C777B1D9   
+     ANITA GOUD     ,       219        ,   55   ,   ?   ,   40   ,   55+?+40   ,   49.33   ,   Pass   ,   2019-11-01   ,     6.0 hrs    ,   7   ,   D   ,   red   ,   AD40D161   
+     Teja Khan      ,   220   ,   82   ,   89   ,   93   ,   264   ,   88.0   ,   Pass   ,   10-30-2022   ,   -4.5   ,   16.5   ,   A   ,   white   ,   71B14B02   
+     SURESH REDDY     ,    STU-0221    ,   -10   ,   32   ,   107   ,   -10+32+107   ,   55.0   ,   Pass   ,   05-Jul-2020   ,   2.0   ,   16   ,   C   ,   red   ,   AB33E2D4   
+     Anita Khan      ,     id_222    ,   138   ,   49   ,   50   ,   138+49+50   ,   130.83%   ,   Pass   ,   12-14-2023   ,   3.4   ,   57   ,   D   ,   black   ,   9FAD1231   
+     VARUN RAO     ,     00223     ,   41   ,   75   ,   98   ,   41+75+98   ,   71.33   ,   Pass   ,   10-23-2023   ,   27.5   ,   18   ,   None   ,   blue   ,   45B6DF79   
+     Akash Patel      ,       224        ,   None   ,   44   ,   -24   ,   None+44+-24   ,   -7.69   ,   Pass   ,   04-29-2021   ,     0.3 hrs    ,     16 years    ,   Average   ,   yellow   ,   E25ACC55   
+      divya agarwal      ,     id_225    ,   67   ,   54   ,   AB   ,   67+54+AB   ,   111.76   ,   Pass   ,   2022-09-02   ,     6.3 hrs    ,   18   ,   Average   ,   white   ,   B3D80165   
+      anita patel      ,    STU-0226    ,   82   ,   46   ,   None   ,   224   ,   74.67   ,   Pass   ,   01-17-2023   ,     1.9 hrs    ,   16   ,   B+   ,   multi   ,   B0873614   
+     Shiva Varma      ,       227        ,   93   ,   38   ,   73   ,   93+38+73   ,   68.0   ,   Pass   ,   06-07-2023   ,   1.2   ,   9   ,   None   ,   unknown   ,   9C12A871   
+     SURESH REDDY     ,   228   ,   138   ,   67   ,   62   ,   138+67+62   ,   61.67   ,   Pass   ,   2018-02-25   ,   None   ,   19   ,   B+   ,   red   ,   28C35C03   
+      varun reddy      ,     S229X     ,   64   ,   77   ,   90   ,   231   ,   77.0   ,   Pass   ,   12-21-2019   ,   0.2   ,   16   ,   A    ,   green   ,   820986E9   
+     NAVEEN AGARWAL     ,     00230     ,   72   ,   89   ,   38   ,   72+89+38   ,   66.33   ,   Pass   ,   11/09/2023   ,   4.2   ,   8   ,   B+   ,   blue   ,   91C055E5   
+      rohit rao      ,    STU-0231    ,   85   ,   92   ,   97   ,   85+92+97   ,   -4.68   ,   Pass   ,   28-Jul-2019   ,   1.7   ,   16   ,   A+   ,   blue   ,   7584D3EF   
+     VARUN SHARMA     ,     00232     ,   88   ,   31   ,   64   ,   183   ,   61.0   ,   Pass   ,   29/10/2019   ,   35.0   ,   16   ,   Good   ,   green   ,   494925FB   
+     AKASH KHAN     ,       233        ,   42   ,   40   ,   94   ,   42+40+94   ,   58.67   ,   Pass   ,   2018-10-11   ,   4.6   ,   7   ,   None   ,   yellow   ,   F134057E   
+     AKASH SHARMA     ,     S234X     ,   61   ,   93   ,   37   ,   N/A   ,   63.67   ,   Pass   ,   2022-10-11   ,   -1.1   ,   19   ,   B+   ,   blue   ,   762AC4D6   
+     DEVIKA AGARWAL     ,     id_235    ,   61   ,   50   ,   74   ,   check   ,   61.67%   ,   Pass   ,   2024-02-13   ,    0    ,   18   ,   Good   ,   green   ,   CEE75E6A   
+     Devika Patel      ,     00236     ,   55   ,   47   ,   76   ,   178   ,   59.33   ,   Pass   ,   05-13-2019   ,   7.2   ,   16   ,   C   ,   red   ,   7B75752D   
+     AKASH PATEL     ,   237   ,   64   ,   93   ,   107   ,   64+93+107   ,   75.33   ,   Pass   ,   None   ,    0    ,   17   ,   A   ,   None   ,   66E48099   
+     DEVIKA AGARWAL     ,    STU-0238    ,   AB   ,   67   ,   83   ,   212   ,   70.67   ,   Pass   ,   05-10-2018   ,   0.6   ,   16   ,   Good   ,   green   ,   F2AE3677   
+      vikram varma      ,   239   ,   98   ,   61   ,   75   ,   98+61+75   ,   78.0   ,   Pass   ,   10-01-2019   ,   25.4   ,   17   ,   Distinction   ,   unknown   ,   id_missing   
+     Varun Patel      ,     00240     ,   95   ,   40   ,   76   ,   95+40+76   ,   70.33%   ,   Pass   ,   None   ,     6.4 hrs    ,   None   ,   B+   ,   blue   ,   EC4CC200   
+      teja khan      ,     S241X     ,   82   ,   74   ,   44   ,   200   ,   122.0   ,   Pass   ,   2023-08-23   ,     1.3 hrs    ,   18   ,   B   ,   yellow   ,   2C3EF5CC   
+      shiva goud      ,     id_242    ,   53   ,   62   ,   AB   ,   53+62+AB   ,   54.33   ,   Pass   ,   2024-10-27   ,   0.4   ,   19   ,   C   ,   yellow   ,   FA83413F   
+     HARIKA AGARWAL     ,     id_243    ,   38   ,   70   ,   55   ,   38+70+55   ,   None   ,   Pass   ,   10-30-2024   ,   4.5   ,   17   ,   Average   ,   black   ,   None   
+      rahul goud      ,   244   ,   69   ,   ?   ,   81   ,   69+?+81   ,   62.33   ,   Pass   ,   2020-09-12   ,   1.2   ,   55   ,   Good   ,   None   ,   BDDFFD62   
+     Devika Varma      ,       245        ,   138   ,   40   ,   -24   ,   300/300   ,   63.0   ,   Pass   ,"   September 19, 2020   ",   6.7   ,   55   ,   Good   ,   yellow   ,   979A4183   
+     Varun Khan      ,       246        ,   83   ,   80   ,   50   ,   83+80+50   ,   71.0   ,   Pass   ,   None   ,     2.9 hrs    ,     19 years    ,   None   ,   green   ,   None   
+     DIVYA RAO     ,     S247X     ,   51   ,   None   ,   -24   ,   201   ,   67.0   ,   Pass   ,   11/04/2018   ,   7.3   ,     17 years    ,   B   ,   black   ,   E87F61A8   
+     LOKESH NAIDU     ,     id_248    ,   78   ,   46   ,   67   ,   78+46+67   ,   None   ,   Pass   ,   02/02/2024   ,   4.5   ,   19   ,   B   ,   red   ,   D29C92AB   
+      lokesh varma      ,   249   ,   64   ,   75   ,   49   ,   64+75+49   ,   -5.11   ,   Pass   ,   03/03/2019   ,   1.5   ,   18   ,   None   ,   blue   ,   4670B259   
+     NAVEEN NAIDU     ,   None   ,   80   ,   61   ,   58   ,   199   ,   66.33   ,   Pass   ,   2018-02-10   ,   1.1   ,   16   ,   B+   ,   blue   ,   6495C1FB   
+      teja sharma      ,   251   ,   40   ,   83   ,   80   ,   203   ,   67.67   ,   Pass   ,   05-Mar-2019   ,   4.6   ,   None   ,   None   ,   blue   ,   A623DE04   
+      devika agarwal      ,     00252     ,   71   ,   49   ,   33   ,   error   ,   51.0   ,   Pass   ,   2018-12-10   ,   None   ,     19 years    ,   C   ,   green   ,   0A424363   
+     Divya Rao      ,     S253X     ,   58   ,   62   ,   AB   ,   204   ,   68.0   ,   Pass   ,   01-01-2019   ,   6.3   ,     17 years    ,   Good   ,   red   ,   5B8B6EB6   
+     Sneha Varma      ,       254        ,   80   ,   150   ,   57   ,   206   ,   68.67   ,   Pass   ,   01/09/2019   ,    0    ,   17.5   ,   B   ,   black   ,   10412C06   
+      devika varma      ,       255        ,   AB   ,   -18   ,   33   ,   error   ,   152.09   ,   Pass   ,   None   ,   1.6   ,   18   ,   Good   ,   unknown   ,   29C4865F   
+      rohit gupta      ,     00256     ,   94   ,   31   ,   51   ,   94+31+51   ,   58.67   ,   Pass   ,   26/03/2024   ,    two    ,   17.5   ,   Average   ,   blue   ,   None   
+      rahul reddy      ,    STU-0257    ,   AB   ,   62   ,   74   ,   AB+62+74   ,   77.67   ,   Pass   ,   2020-04-04   ,   5.4   ,   19   ,   Distinction   ,   red   ,   E58F042C   
+      pooja naidu      ,     00258     ,   66   ,   None   ,   96   ,   66+None+96   ,   73.67   ,   Pass   ,   07/10/2021   ,   0.6   ,   18   ,   B   ,   red   ,   D7DC6778   
+      divya sharma      ,     S259X     ,   67   ,   62   ,   95   ,   67+62+95   ,   74.67   ,   Pass   ,   07-Jun-2020   ,   3.4   ,   17   ,   B   ,   red   ,   912EBB51   
+     Lokesh Patel      ,   260   ,   52   ,   55   ,   63   ,   52+55+63   ,   56.67   ,   Pass   ,"   August 06, 2023   ",   4.8   ,   16   ,   Average   ,   yellow   ,   FC4B38F1   
+     SHIVA VARMA     ,     00261     ,   59   ,   51   ,   84   ,   194   ,   64.67   ,   Pass   ,   2021-09-03   ,   7.5   ,   16   ,   B   ,   yellow   ,   3E33FF0A   
+     HARIKA NAIDU     ,   262   ,   138   ,   95   ,   30   ,   213   ,   71.0   ,   Pass   ,   07-20-2021   ,   2.5   ,   19   ,   Good   ,   blue   ,   DD507C58   
+      harika varma      ,     S263X     ,   92   ,   -18   ,   67   ,   92+-18+67   ,   75.33   ,   Pass   ,"   April 27, 2018   ",     2.0 hrs    ,   17   ,   Distinction   ,   red   ,   XXXXXXXX   
+     Vikram Reddy      ,     S264X     ,   80   ,   75   ,   35   ,   80+75+35   ,   63.33   ,   Pass   ,"   August 12, 2024   ",   5.2   ,   19   ,   B+   ,   white   ,   C2E8BBA2   
+      anita patel      ,     id_265    ,   None   ,   44   ,   54   ,   None+44+54   ,   52.0   ,   Pass   ,   01-22-2021   ,   5.0   ,   18   ,   None   ,   red   ,   A3038229   
+     POOJA GUPTA     ,   266   ,   66   ,   73   ,   46   ,   66+73+46   ,   61.67%   ,   Pass   ,   17/06/2018   ,   2.7   ,     16 years    ,   B+   ,   black   ,   16FD65E1   
+     NAVEEN NAIDU     ,       267        ,   81   ,   78   ,   90   ,   249   ,   83.0   ,   Pass   ,   10-05-2022   ,   7.4   ,   11   ,   Distinction   ,   None   ,   2024763C   
+     KIRAN AGARWAL     ,     00268     ,   57   ,   90   ,   41   ,   188   ,   62.67   ,   Pass   ,   26/09/2021   ,    two    ,   17   ,   B+   ,   blue   ,   21C94951   
+     POOJA SHARMA     ,     S269X     ,   61   ,   96   ,   35   ,   61+96+35   ,   64.0   ,   Pass   ,"   November 26, 2019   ",    two    ,   19   ,   B   ,   white   ,   FD1BFAD8   
+     LOKESH GUPTA     ,   270   ,   138   ,   -18   ,   56   ,   127   ,   42.33   ,   Pass   ,   13/07/2020   ,   1.9   ,   19   ,   Below Avg   ,   red   ,   F11A9F52   
+     Lokesh Agarwal      ,    STU-0271    ,   51   ,   150   ,   37   ,   126   ,   42.0   ,   Pass   ,   01-Jun-2018   ,   4.1   ,   19   ,   Below Avg   ,   white   ,   77E2C4F4   
+     Sanjana Khan      ,     id_272    ,   67   ,   35   ,   107   ,   196   ,   65.33   ,   Pass   ,"   August 09, 2019   ",   6.2   ,   18   ,   B   ,   blue   ,   72082F71   
+     AKASH NAIDU     ,    STU-0273    ,   43   ,   61   ,   107   ,   N/A   ,   129.11   ,   Pass   ,   01/07/2020   ,   0.4   ,     16 years    ,   Good   ,   black   ,   None   
+     DIVYA AGARWAL     ,     S274X     ,   77   ,   70   ,   69   ,   216   ,   72.0   ,   Pass   ,   10-May-2024   ,   5.5   ,   18   ,   Good   ,   black   ,   CF5BD651   
+     VARUN AGARWAL     ,    STU-0275    ,   82   ,   ?   ,   43   ,   82+?+43   ,   -4.32   ,   Pass   ,   2022-04-27   ,   5.2   ,   10   ,   None   ,   yellow   ,   1DC7AA3C   
+     LOKESH GUPTA     ,    STU-0276    ,   73   ,   79   ,   64   ,   73+79+64   ,   72.0   ,   Pass   ,   2019-05-11   ,   1.9   ,   17   ,   B+   ,   blue   ,   4A3AEC93   
+     PRASAD NAIDU     ,     id_277    ,   76   ,   91   ,   None   ,   76+91+None   ,   None   ,   Pass   ,   19-Nov-2023   ,     5.5 hrs    ,   17   ,   A    ,   multi   ,   3A54EB19   
+      suresh varma      ,     id_278    ,   60   ,   91   ,   -24   ,   check   ,   78.67   ,   Pass   ,   2019-07-11   ,   7.5   ,   17   ,   A    ,   red   ,   7C7367C4   
+     SURESH AGARWAL     ,     id_279    ,   84   ,   150   ,   78   ,   198   ,   66.0   ,   Pass   ,   10/01/2021   ,   0.4   ,   16.5   ,   B+   ,   red   ,   E5F13D0B   
+      prasad varma      ,     id_280    ,   138   ,   33   ,   -24   ,   138+33+-24   ,   44.67   ,   Pass   ,   02/04/2022   ,   2.6   ,   11   ,   None   ,   yellow   ,   D720CB13   
+      suresh naidu      ,    STU-0281    ,   58   ,   35   ,   AB   ,   58+35+AB   ,   61.0   ,   Pass   ,   22/10/2023   ,   -3.5   ,   17.5   ,   B   ,   multi   ,   A62B1C37   
+     SNEHA GOUD     ,       282        ,   47   ,   87   ,   78   ,   47+87+78   ,   70.67%   ,   Pass   ,   06/06/2018   ,   None   ,   17   ,   None   ,   white   ,   8642FA2D   
+     Pooja Goud      ,       283        ,   94   ,   51   ,   75   ,   94+51+75   ,   73.33   ,   Pass   ,   05-Jan-2020   ,   7.7   ,   16   ,   B+   ,   green   ,   6603565B   
+     AKASH RAO     ,     id_284    ,   41   ,   55   ,   91   ,   41+55+91   ,   62.33   ,   Pass   ,   20-Dec-2023   ,   -3.6   ,   19   ,   Good   ,   green   ,   C1D7E80D   
+     Sanjana Sharma      ,     00285     ,   91   ,   ?   ,   37   ,   91+?+37   ,   None   ,   Pass   ,   28/11/2021   ,   29.4   ,   65   ,   C   ,   blue   ,   563BA45F   
+      vikram gupta      ,   286   ,   70   ,   70   ,   AB   ,   70+70+AB   ,   null   ,   Pass   ,   13-Jul-2019   ,   4.3   ,   16   ,   B   ,   None   ,   FC4E70FE   
+      pooja patel      ,     S287X     ,   79   ,   89   ,   49   ,   79+89+49   ,   72.33   ,   Pass   ,   11-25-2023   ,   4.3   ,   16   ,   B   ,   blue   ,   46061F2E   
+     VIKRAM VARMA     ,     00288     ,   54   ,   43   ,   68   ,   54+43+68   ,   55.0   ,   Pass   ,   01/05/2024   ,   2.2   ,   None   ,   Average   ,   None   ,   EF557451   
+      sneha patel      ,     S289X     ,   -10   ,   41   ,   78   ,   218   ,   72.67   ,   Pass   ,   04-Jun-2018   ,   34.6   ,   19   ,   B+   ,   black   ,   id_missing   
+      varun rao      ,     00290     ,   42   ,   41   ,   93   ,   42+41+93   ,   58.67   ,   Pass   ,   09-23-2020   ,   2.3   ,   None   ,   C   ,   blue   ,   None   
+     Sanjana Naidu      ,     00291     ,   50   ,   150   ,   91   ,   183   ,   61.0   ,   Pass   ,"   April 13, 2024   ",    0    ,   17   ,   B   ,   blue   ,   None   
+     VARUN REDDY     ,       292        ,   AB   ,   ?   ,   83   ,   AB+?+83   ,   121.64   ,   Pass   ,   15/06/2019   ,   None   ,   6   ,   B+   ,   blue   ,   39741D46   
+     Rohit Patel      ,   293   ,   49   ,   74   ,   38   ,   49+74+38   ,   53.67   ,   Pass   ,   05-26-2023   ,   7.3   ,   18   ,   None   ,   yellow   ,   EA32DCAD   
+     HARIKA KHAN     ,     00294     ,   66   ,   48   ,   None   ,   66+48+None   ,   60.0   ,   Pass   ,   None   ,   1.3   ,   16   ,   None   ,   blue   ,   AC96F032   
+     RAHUL KHAN     ,     id_295    ,   97   ,   84   ,   78   ,   259   ,   86.33   ,   Pass   ,   23-Mar-2021   ,   1.8   ,     18 years    ,   Distinction   ,   red   ,   5BBE78F9   
+      harika naidu      ,     S296X     ,   85   ,   74   ,   107   ,   check   ,   76.33   ,   Pass   ,   03/06/2018   ,   None   ,   19.5   ,   A   ,   red   ,   E3D83E0B   
+     RAHUL RAO     ,       297        ,   138   ,   37   ,   -24   ,   142   ,   None   ,   Pass   ,   02-Apr-2018   ,   5.7   ,   None   ,   D   ,   white   ,   BE969873   
+     DEVIKA PATEL     ,     S298X     ,   92   ,   ?   ,   50   ,   92+?+50   ,   null   ,   Pass   ,   13-Jul-2024   ,   0.8   ,   18   ,   B+   ,      ,   59366911   
+     Varun Agarwal      ,   None   ,   AB   ,   84   ,   80   ,   AB+84+80   ,   87.0   ,   Pass   ,   2022-02-12   ,   2.5   ,   19.5   ,   A    ,   yellow   ,   3ABB494D   
+     SANJANA KHAN     ,     id_300    ,   96   ,   61   ,   107   ,   96+61+107   ,   81.67   ,   Pass   ,   13/09/2022   ,   7.7   ,   16   ,   A    ,   white   ,   F92A7DB4   
+     Pooja Naidu      ,     00301     ,   56   ,   80   ,   68   ,   56+80+68   ,   68.0   ,   Pass   ,"   November 02, 2024   ",   2.1   ,   16   ,   Good   ,   red   ,   7B81F8E9   
+      pooja goud      ,     id_302    ,   92   ,   73   ,   84   ,   92+73+84   ,   83.0%   ,   Pass   ,"   July 10, 2023   ",   2.5   ,   19   ,   Distinction   ,   yellow   ,   481D57DD   
+     Varun Naidu      ,   303   ,   92   ,   99   ,   70   ,   92+99+70   ,   87.0   ,   Pass   ,   02-26-2020   ,   None   ,   19   ,   A+   ,   yellow   ,   D3CB8443   
+      rahul patel      ,     id_304    ,   83   ,   47   ,   68   ,   83+47+68   ,   66.0   ,   Pass   ,"   September 30, 2018   ",   0.4   ,   61   ,   None   ,   black   ,   62A13198   
+      akash patel      ,     00305     ,   AB   ,   51   ,   42   ,   AB+51+42   ,   59.67   ,   Pass   ,   2023-07-21   ,   None   ,   None   ,   C   ,   None   ,   7198ED3A   
+      teja naidu      ,     S306X     ,   None   ,   66   ,   -24   ,   235   ,   78.33   ,   Pass   ,   26-Jun-2018   ,   3.0   ,     19 years    ,   A    ,   blue   ,   612204C9   
+     VIKRAM KHAN     ,     id_307    ,   49   ,   85   ,   40   ,   174   ,   58.0   ,   Pass   ,   05/10/2019   ,    0    ,   17.5   ,   C   ,   yellow   ,   515AD3F3   
+     SANJANA REDDY     ,       308        ,   88   ,   88   ,   48   ,   300/300   ,   133.19   ,   Pass   ,   03-14-2023   ,   2.3   ,   18   ,   Good   ,   black   ,   E2D13F1D   
+     HARIKA KHAN     ,       309        ,   94   ,   32   ,   AB   ,   94+32+AB   ,   55.33   ,   Pass   ,   21-Jul-2019   ,   None   ,   16   ,   C   ,   white   ,   5F7ECC3D   
+      shiva reddy      ,       310        ,   42   ,   ?   ,   None   ,   174   ,   58.0   ,   Pass   ,   None   ,   2.5   ,   16   ,   Average   ,   black   ,   None   
+     Sneha Patel      ,     S311X     ,   138   ,   64   ,   74   ,   N/A   ,   75.0   ,   Pass   ,"   August 24, 2021   ",     0.3 hrs    ,   16   ,   Good   ,   black   ,   6C197256   
+     VIKRAM NAIDU     ,    STU-0312    ,   94   ,   90   ,   30   ,   214   ,   71.33   ,   Pass   ,   04-Dec-2022   ,   6.2   ,   18   ,   None   ,   red   ,   E2305A71   
+     Teja Reddy      ,       313        ,   39   ,   83   ,   None   ,   39+83+None   ,   63.67   ,   Pass   ,   05/12/2020   ,   3.2   ,     17 years    ,   Good   ,   blue   ,   41FF28EA   
+      suresh patel      ,       314        ,   40   ,   92   ,   48   ,   40+92+48   ,   60.0   ,   Pass   ,   07-Jun-2024   ,   3.6   ,   19   ,   C   ,   red   ,   B79D34C6   
+     Akash Varma      ,    STU-0315    ,   138   ,   36   ,   90   ,   138+36+90   ,   69.0   ,   Pass   ,"   February 12, 2019   ",   None   ,   19   ,   Good   ,   None   ,   F41580E4   
+      lokesh rao      ,     S316X     ,   89   ,   78   ,   41   ,   check   ,   69.33   ,   Pass   ,"   April 27, 2021   ",   5.3   ,   16   ,   B+   ,   green   ,   CC6F437B   
+     Akash Patel      ,   None   ,   74   ,   60   ,   90   ,   74+60+90   ,   74.67   ,   Pass   ,   28/01/2023   ,   None   ,   16   ,   B   ,   white   ,   CDFEE4E1   
+      suresh patel      ,     00318     ,   86   ,   150   ,   62   ,   86+150+62   ,   78.33   ,   Pass   ,"   February 26, 2021   ",   7.5   ,   18   ,   A   ,   blue   ,   7F390CA5   
+     SURESH SHARMA     ,     S319X     ,   50   ,   90   ,   107   ,   50+90+107   ,   71.33   ,   Pass   ,   15/02/2021   ,   1.9   ,   67   ,   B   ,   yellow   ,   495BCBB8   
+     PRASAD REDDY     ,       320        ,   47   ,   53   ,   107   ,   missing   ,   66.0   ,   Pass   ,   16-Nov-2024   ,   0.9   ,   49   ,   B+   ,   black   ,   2A06BEC4   
+     Sanjana Reddy      ,       321        ,   64   ,   49   ,   37   ,   64+49+37   ,   -22.71%   ,   Pass   ,"   May 24, 2018   ",    two    ,   18   ,   Below Avg   ,   green   ,   8EDE4C7A   
+     MEENA VARMA     ,    STU-0322    ,   AB   ,   66   ,   54   ,   173   ,   57.67   ,   Pass   ,"   October 25, 2024   ",   39.6   ,   7   ,   C   ,   blue   ,   id_missing   
+     SNEHA REDDY     ,     00323     ,   51   ,   -18   ,   75   ,   51+-18+75   ,   53.0   ,   Pass   ,   None   ,    two    ,   16   ,   None   ,   red   ,   95C34432   
+     RAHUL VARMA     ,     S324X     ,   97   ,   49   ,   59   ,   205   ,   68.33   ,   Pass   ,   None   ,   2.0   ,   6   ,   Good   ,   black   ,   4EF261FE   
+      rohit reddy      ,     id_325    ,   53   ,   -18   ,   -24   ,   218   ,   72.67%   ,   Pass   ,"   April 20, 2023   ",   4.4   ,   17   ,   B   ,   white   ,   EA77F1A8   
+      divya gupta      ,   326   ,   -10   ,   ?   ,   AB   ,   -10+?+AB   ,   74.33   ,   Pass   ,   None   ,   2.2   ,   17   ,   Good   ,   red   ,   91A0EDAF   
+     POOJA GUPTA     ,     00327     ,   AB   ,   79   ,   107   ,   AB+79+107   ,   81.33   ,   Pass   ,   2021-09-21   ,   7.2   ,   7   ,   None   ,   blue   ,   020C500E   
+     PRASAD SHARMA     ,     id_328    ,   96   ,   78   ,   47   ,   221   ,   73.67   ,   Pass   ,"   September 19, 2021   ",   -1.7   ,   17   ,   B   ,   blue   ,   0D6864E5   
+     SHIVA VARMA     ,     00329     ,   57   ,   150   ,   95   ,   232   ,   77.33   ,   Pass   ,"   March 31, 2018   ",   7.1   ,   17   ,   A    ,   white   ,   607CE43E   
+     Lokesh Goud      ,     id_330    ,   138   ,   65   ,   97   ,   missing   ,   68.33%   ,   Pass   ,   19/09/2021   ,   4.5   ,   18   ,   Good   ,   green   ,   3DAA2CBE   
+      meena gupta      ,     id_331    ,   46   ,   95   ,   62   ,   203   ,   67.67   ,   Pass   ,   07-18-2018   ,    0    ,   19.5   ,   B   ,   None   ,   55DC1FE6   
+     DIVYA KHAN     ,     00332     ,   35   ,   63   ,   65   ,   35+63+65   ,   None   ,   Pass   ,"   June 22, 2019   ",    0    ,   None   ,   Average   ,   yellow   ,   916F79A6   
+     ANITA GUPTA     ,    STU-0333    ,   92   ,   ?   ,   -24   ,   92+?+-24   ,   68.33   ,   Pass   ,   28-Oct-2018   ,   5.6   ,   None   ,   B+   ,   red   ,   B1D777B6   
+     Devika Sharma      ,     00334     ,   35   ,   35   ,   57   ,   35+35+57   ,   42.33   ,   Pass   ,   25-Dec-2019   ,     2.6 hrs    ,   5   ,   D   ,   green   ,   D615A162   
+     SHIVA REDDY     ,     00335     ,   138   ,   68   ,   69   ,   205   ,   133.83   ,   Pass   ,"   May 18, 2022   ",   1.9   ,   16   ,   Good   ,   black   ,   914EF4A8   
+     Devika Khan      ,     id_336    ,   82   ,   71   ,   44   ,   82+71+44   ,   65.67   ,   Pass   ,   None   ,   None   ,   16   ,   B+   ,   yellow   ,   2E4D87DB   
+      harika patel      ,   337   ,   35   ,   150   ,   70   ,   35+150+70   ,   absent   ,   Pass   ,"   March 09, 2018   ",   None   ,   17   ,   B   ,   green   ,   4FCEB6AA   
+     ROHIT SHARMA     ,     id_338    ,   138   ,   41   ,   AB   ,   138+41+AB   ,   53.0   ,   Pass   ,   2024-11-11   ,   -6.6   ,   18   ,   Average   ,   red   ,   613FBCB3   
+      shiva varma      ,       339        ,   95   ,   32   ,   31   ,   95+32+31   ,   131.83   ,   Pass   ,"   March 18, 2022   ",     3.5 hrs    ,   16   ,   C   ,   blue   ,   894A456C   
+      anita goud      ,     00340     ,   98   ,   ?   ,   -24   ,   98+?+-24   ,   79.0   ,   Pass   ,   None   ,   1.1   ,   18   ,   A+   ,   black   ,   D96661D5   
+      divya sharma      ,     S341X     ,   97   ,   69   ,   58   ,   224   ,   74.67   ,   Pass   ,   2019-09-12   ,   35.5   ,   18   ,   B+   ,   white   ,   FC811E5D   
+     SHIVA REDDY     ,     00342     ,   56   ,   50   ,   95   ,   56+50+95   ,   67.0   ,   Pass   ,   05-04-2022   ,   5.0   ,   17   ,   B   ,   red   ,   CF5E782B   
+      meena agarwal      ,    STU-0343    ,   60   ,   44   ,   80   ,   60+44+80   ,   61.33   ,   Pass   ,   09-Mar-2021   ,   3.6   ,   16   ,   B   ,   yellow   ,   CEEFA40C   
+      varun rao      ,     S344X     ,   None   ,   55   ,   39   ,   None+55+39   ,   48.0   ,   Pass   ,   31/12/2019   ,     6.2 hrs    ,     17 years    ,   None   ,   yellow   ,   A76D5420   
+     Sneha Agarwal      ,     id_345    ,   -10   ,   37   ,   43   ,   -10+37+43   ,   55.0   ,   Pass   ,   10/07/2019   ,   8.0   ,   None   ,   Average   ,   blue   ,   2123F4B2   
+     AKASH REDDY     ,    STU-0346    ,   138   ,   71   ,   107   ,   242   ,   80.67%   ,   Pass   ,   05-07-2023   ,   31.6   ,   44   ,   A   ,   blue   ,   B7C7D1B3   
+     VARUN NAIDU     ,     00347     ,   63   ,   73   ,   68   ,   63+73+68   ,   68.0   ,   Pass   ,   18/10/2022   ,   3.7   ,   18   ,   B   ,   black   ,   7425EF3B   
+      anita patel      ,     id_348    ,   81   ,   43   ,   57   ,   81+43+57   ,   60.33   ,   Pass   ,   18/05/2024   ,    0    ,   16   ,   B+   ,   white   ,   8D18B6A2   
+      meena naidu      ,     id_349    ,   96   ,   31   ,   32   ,   96+31+32   ,   53.0   ,   Pass   ,   2020-09-22   ,   2.4   ,   19   ,   C   ,   black   ,   90F57EAB   
+      vikram patel      ,       350        ,   50   ,   66   ,   99   ,   50+66+99   ,   71.67   ,   Pass   ,   2023-05-14   ,   -1.6   ,   5   ,   B+   ,   blue   ,   E99B52D2   
+     Teja Agarwal      ,       351        ,   -10   ,   98   ,   56   ,   -10+98+56   ,   78.67   ,   Pass   ,   05-21-2022   ,   0.5   ,   19   ,   A    ,   blue   ,   id_missing   
+     SURESH KHAN     ,   352   ,   73   ,   67   ,   31   ,   171   ,   57.0   ,   Pass   ,   20-Jan-2022   ,    two    ,   18   ,   C   ,   yellow   ,   148CC0FC   
+     SANJANA NAIDU     ,       353        ,   67   ,   70   ,   107   ,   204   ,   68.0   ,   Pass   ,"   November 05, 2023   ",   3.4   ,   17   ,   B+   ,   blue   ,   91FF9FF6   
+      lokesh patel      ,     S354X     ,   57   ,   91   ,   32   ,   57+91+32   ,   60.0   ,   Pass   ,   01-07-2021   ,   4.0   ,   16.5   ,   C   ,   green   ,   0533D68E   
+     Shiva Goud      ,     id_355    ,   44   ,   89   ,   45   ,   44+89+45   ,   59.33   ,   Pass   ,   06-09-2024   ,    0    ,   18   ,   Average   ,   N/A   ,   91059329   
+      akash varma      ,       356        ,   68   ,   43   ,   None   ,   68+43+None   ,   None   ,   Pass   ,   11-04-2021   ,   6.2   ,     17 years    ,   C   ,   blue   ,   EED7A75E   
+     Sneha Goud      ,   357   ,   86   ,   ?   ,   107   ,   86+?+107   ,   49.33   ,   Pass   ,   None   ,   1.0   ,   6   ,   Below Avg   ,   black   ,   228CAFCF   
+     Lokesh Varma      ,     00358     ,   -10   ,   99   ,   70   ,   213   ,   71.0   ,   Pass   ,   2021-07-23   ,   4.5   ,   16   ,   B   ,   white   ,   id_missing   
+     LOKESH KHAN     ,     S359X     ,   53   ,   46   ,   41   ,   53+46+41   ,   46.67   ,   Pass   ,"   September 19, 2022   ",   3.5   ,   18   ,   Below Avg   ,   N/A   ,   6C75383E   
+     DIVYA PATEL     ,       360        ,   92   ,   57   ,   64   ,   213   ,   71.0   ,   Pass   ,   2020-06-17   ,   6.4   ,   16   ,   Good   ,   None   ,   53BA6F70   
+     AKASH REDDY     ,     id_361    ,   35   ,   95   ,   94   ,   35+95+94   ,   74.67   ,   Pass   ,   None   ,   None   ,   41   ,   Good   ,   green   ,   77D43A60   
+     Prasad Rao      ,     00362     ,   AB   ,   64   ,   AB   ,   AB+64+AB   ,   N/A   ,   Pass   ,   16/03/2022   ,   5.5   ,   16   ,   B+   ,   black   ,   EA2C2DA5   
+     TEJA NAIDU     ,     id_363    ,   50   ,   34   ,   74   ,   300/300   ,   52.67   ,   Pass   ,"   March 19, 2018   ",   2.7   ,   19   ,   C   ,   green   ,   0132DE0C   
+     Rohit Rao      ,     00364     ,   58   ,   94   ,   91   ,   N/A   ,   152.15   ,   Pass   ,   03-13-2022   ,   6.4   ,   17.5   ,   A   ,   blue   ,   B3A0B26C   
+     SURESH RAO     ,     S365X     ,   36   ,   69   ,   78   ,   36+69+78   ,   None   ,   Pass   ,   26/08/2018   ,   0.4   ,   19   ,   Good   ,   red   ,   C214D35D   
+     Suresh Khan      ,     id_366    ,   66   ,   85   ,   54   ,   66+85+54   ,   68.33   ,   Pass   ,   2021-03-03   ,   None   ,   18   ,   Good   ,   white   ,   B6F8B40F   
+      suresh agarwal      ,       367        ,   58   ,   65   ,   AB   ,   58+65+AB   ,   139.31   ,   Pass   ,"   June 20, 2023   ",    0    ,   46   ,   C   ,   black   ,   None   
+      rahul agarwal      ,       368        ,   46   ,   74   ,   53   ,   173   ,   -17.43   ,   Pass   ,   30/04/2021   ,     0.6 hrs    ,   18   ,   Average   ,   white   ,   CA7DF67B   
+     ROHIT SHARMA     ,   369   ,   84   ,   52   ,   67   ,   84+52+67   ,   67.67%   ,   Pass   ,   2018-10-05   ,   None   ,   9   ,   B+   ,   green   ,   A9877A5B   
+     POOJA PATEL     ,     00370     ,   69   ,   76   ,   57   ,   69+76+57   ,   144.72   ,   Pass   ,   06-08-2019   ,    0    ,   16   ,   None   ,   yellow   ,   1AD2D2E1   
+     PRASAD AGARWAL     ,   371   ,   67   ,   60   ,   50   ,   67+60+50   ,   59.0%   ,   Pass   ,   None   ,   7.6   ,   61   ,   Average   ,   blue   ,   5C5A34AC   
+     POOJA NAIDU     ,    STU-0372    ,   67   ,   None   ,   83   ,   190   ,   incomplete   ,   Pass   ,   03-May-2018   ,    0    ,     19 years    ,   Good   ,   red   ,   E63A4A0E   
+     Prasad Naidu      ,       373        ,   95   ,   ?   ,   47   ,   95+?+47   ,   60.33   ,   Pass   ,"   June 23, 2021   ",   2.1   ,   16   ,   B+   ,   blue   ,   747A74D0   
+     Rahul Sharma      ,     00374     ,   85   ,   150   ,   -24   ,   N/A   ,   82.0%   ,   Pass   ,"   October 24, 2022   ",     2.2 hrs    ,   66   ,   Distinction   ,   yellow   ,   9BF72C21   
+     DEVIKA VARMA     ,     S375X     ,   AB   ,   43   ,   74   ,   AB+43+74   ,   64.67   ,   Pass   ,   30-Dec-2020   ,   2.2   ,   16.5   ,   None   ,   red   ,   8AD2F0CF   
+     Harika Varma      ,   376   ,   AB   ,   39   ,   AB   ,   167   ,   55.67%   ,   Pass   ,   25/04/2019   ,   0.3   ,   17   ,   C   ,   yellow   ,   F4D92648   
+      devika khan      ,     S377X     ,   99   ,   ?   ,   59   ,   99+?+59   ,   62.67   ,   Pass   ,   2022-12-03   ,    0    ,   19   ,   B   ,   blue   ,   87A2EC84   
+      meena naidu      ,     S378X     ,   138   ,   None   ,   89   ,   138+None+89   ,   63.33   ,   Pass   ,   02/11/2023   ,   1.7   ,   17   ,   None   ,   green   ,   B0934DDC   
+     SANJANA AGARWAL     ,     S379X     ,   74   ,   -18   ,   None   ,   74+-18+None   ,   61.33   ,   Pass   ,   01/08/2024   ,   3.4   ,   17   ,   Good   ,   blue   ,   None   
+     MEENA PATEL     ,   380   ,   77   ,   37   ,   96   ,   77+37+96   ,   70.0   ,   Pass   ,   2020-03-26   ,   0.1   ,   17   ,   B   ,   blue   ,   7E52C99C   
+      sanjana rao      ,    STU-0381    ,   -10   ,   72   ,   96   ,   -10+72+96   ,   82.0   ,   Pass   ,   19/03/2019   ,   -6.9   ,   17   ,   Distinction   ,   None   ,   88F29BF8   
+     MEENA NAIDU     ,   382   ,   AB   ,   30   ,   AB   ,   AB+30+AB   ,   50.0   ,   Pass   ,   05-23-2018   ,   5.8   ,   16   ,   Below Avg   ,   black   ,   56800188   
+     SURESH GOUD     ,     id_383    ,   47   ,   86   ,   73   ,   47+86+73   ,   68.67   ,   Pass   ,   2018-07-11   ,   7.6   ,   17   ,   B   ,   yellow   ,   id_missing   
+     Suresh Varma      ,       384        ,   46   ,   93   ,   AB   ,   error   ,   69.67   ,   Pass   ,   11/11/2021   ,     6.3 hrs    ,   16   ,   B+   ,   yellow   ,   3DD4F512   
+     Anita Varma      ,   385   ,   None   ,   57   ,   92   ,   None+57+92   ,   -3.87   ,   Pass   ,   13/01/2019   ,   2.5   ,   68   ,   A   ,   white   ,   35F71CDA   
+      akash sharma      ,   386   ,   36   ,   66   ,   52   ,   36+66+52   ,   51.33   ,   Pass   ,   06-19-2019   ,   -2.0   ,   8   ,   C   ,   yellow   ,   6AE0596B   
+      sanjana gupta      ,    STU-0387    ,   69   ,   76   ,   107   ,   69+76+107   ,   74.0   ,   Pass   ,   None   ,    0    ,   19   ,   B   ,   white   ,   8971F1D0   
+     Rohit Varma      ,     id_388    ,   42   ,   66   ,   61   ,   169   ,   56.33%   ,   Pass   ,"   October 29, 2020   ",   2.9   ,   17   ,   C   ,      ,   id_missing   
+     Prasad Goud      ,   389   ,   60   ,   78   ,   AB   ,   60+78+AB   ,   74.67   ,   Pass   ,   2021-11-11   ,   4.5   ,   18.5   ,   Good   ,   green   ,   86217A92   
+     SHIVA AGARWAL     ,       390        ,   138   ,   73   ,   62   ,   138+73+62   ,   67.67   ,   Pass   ,   11-11-2023   ,   -0.1   ,   17   ,   B+   ,   white   ,   05224AE0   
+     DIVYA GOUD     ,       391        ,   41   ,   85   ,   53   ,   179   ,   59.67   ,   Pass   ,"   June 13, 2023   ",   0.5   ,   17   ,   C   ,      ,   E7103A2C   
+      anita varma      ,   392   ,   92   ,   57   ,   68   ,   217   ,   72.33   ,   Pass   ,   23/03/2021   ,    two    ,   17   ,   B+   ,   green   ,   715B695C   
+     DEVIKA VARMA     ,     S393X     ,   63   ,   35   ,   63   ,   63+35+63   ,   53.67   ,   Pass   ,   02-09-2019   ,    two    ,   11   ,   C   ,   black   ,   01C35D1E   
+      meena gupta      ,     S394X     ,   70   ,   None   ,   85   ,   70+None+85   ,   81.67   ,   Pass   ,   2021-03-18   ,   6.0   ,   19.5   ,   A+   ,   yellow   ,   5865BB1F   
+      devika reddy      ,     id_395    ,   None   ,   49   ,   -24   ,   None+49+-24   ,   53.67   ,   Pass   ,   2020-06-07   ,   1.1   ,   None   ,   Average   ,   white   ,   20629006   
+     SANJANA GUPTA     ,   None   ,   None   ,   ?   ,   66   ,   None+?+66   ,   None   ,   Pass   ,   02-26-2019   ,    0    ,   19.5   ,   C   ,   blue   ,   834C7C50   
+     Suresh Reddy      ,     S397X     ,   44   ,   150   ,   36   ,   44+150+36   ,   108.2   ,   Pass   ,   2022-06-30   ,   None   ,   17   ,   Below Avg   ,   red   ,   E614BCD3   
+     Kiran Agarwal      ,       398        ,   58   ,   49   ,   None   ,   check   ,   68.0   ,   Pass   ,   2019-04-17   ,   0.7   ,   5   ,   B   ,   red   ,   E172A8D3   
+      devika gupta      ,     id_399    ,   98   ,   None   ,   66   ,   98+None+66   ,   119.95   ,   Pass   ,   2019-07-01   ,   3.3   ,   11   ,   B+   ,   None   ,   10B3D232   
+      prasad sharma      ,     id_400    ,   138   ,   58   ,   85   ,   226   ,   75.33   ,   Pass   ,   2019-09-23   ,   1.3   ,   19.5   ,   A    ,   yellow   ,   7AC4A747   
+     Rahul Khan      ,     S401X     ,   AB   ,   30   ,   94   ,   194   ,   64.67   ,   Pass   ,"   November 03, 2020   ",    two    ,   18.5   ,   Good   ,   red   ,   E8A0C435   
+     DEVIKA NAIDU     ,   402   ,   58   ,   64   ,   94   ,   58+64+94   ,   72.0   ,   Pass   ,   None   ,   2.5   ,   17.5   ,   None   ,   green   ,   0000   
+     PRASAD NAIDU     ,     00403     ,   57   ,   99   ,   -24   ,   missing   ,   77.33   ,   Pass   ,"   December 30, 2018   ",   2.1   ,   18   ,   Distinction   ,   black   ,   F0B02EC5   
+      akash gupta      ,    STU-0404    ,   96   ,   88   ,   49   ,   96+88+49   ,   -3.03   ,   Pass   ,   12-07-2023   ,   0.7   ,   None   ,   A    ,   green   ,   E2253B54   
+      kiran goud      ,     00405     ,   -10   ,   ?   ,   48   ,   error   ,   None   ,   Pass   ,   30/06/2019   ,   0.7   ,   18   ,   Good   ,   green   ,   91589E3F   
+      prasad sharma      ,     00406     ,   46   ,   ?   ,   58   ,   46+?+58   ,   55.33   ,   Pass   ,   26-Sep-2019   ,   1.5   ,     17 years    ,   C   ,   green   ,   None   
+     SNEHA PATEL     ,   None   ,   89   ,   80   ,   89   ,   258   ,   86.0   ,   Pass   ,   2023-04-21   ,    two    ,   18   ,   A    ,   blue   ,   C359AA4B   
+      prasad sharma      ,     id_408    ,   None   ,   150   ,   107   ,   135   ,   45.0   ,   Pass   ,   08-Aug-2022   ,    0    ,   9   ,   D   ,   green   ,   7690F24A   
+     Shiva Reddy      ,       409        ,   None   ,   ?   ,   64   ,   None+?+64   ,   56.67   ,   Pass   ,   20/08/2020   ,     2.3 hrs    ,   17.5   ,   C   ,   white   ,   DE6E2FA4   
+      vikram gupta      ,     S410X     ,   64   ,   150   ,   72   ,   64+150+72   ,   72.67%   ,   Pass   ,   01-Jun-2020   ,     2.2 hrs    ,   18   ,   Good   ,   multi   ,   F53ACFF4   
+      shiva goud      ,    STU-0411    ,   51   ,   72   ,   40   ,   51+72+40   ,   None   ,   Pass   ,"   May 20, 2020   ",   2.7   ,     17 years    ,   Average   ,   blue   ,   8641482F   
+     Sneha Varma      ,     S412X     ,   -10   ,   79   ,   78   ,   -10+79+78   ,   84.33   ,   Pass   ,   2019-05-31   ,   5.3   ,   19   ,   A   ,   blue   ,   6057E5F2   
+     Anita Agarwal      ,   413   ,   47   ,   58   ,   AB   ,   missing   ,   57.33   ,   Pass   ,   21-Nov-2021   ,   None   ,   19   ,   C   ,   black   ,   D468F9EA   
+     Varun Khan      ,    STU-0414    ,   93   ,   86   ,   107   ,   93+86+107   ,   90.67   ,   Pass   ,   15-May-2020   ,   6.1   ,   19   ,   A   ,   yellow   ,   94730376   
+     DIVYA KHAN     ,       415        ,   53   ,   68   ,   98   ,   53+68+98   ,   73.0   ,   Pass   ,   24-Nov-2023   ,   5.8   ,   18   ,   B+   ,   red   ,   5FA01D19   
+      pooja agarwal      ,       416        ,   83   ,   85   ,   AB   ,   205   ,   68.33   ,   Pass   ,   None   ,   34.1   ,   16   ,   Good   ,   red   ,   DEB6681A   
+     HARIKA NAIDU     ,     S417X     ,   46   ,   150   ,   63   ,   46+150+63   ,   60.33   ,   Pass   ,   02-Aug-2018   ,   5.6   ,   16   ,   Good   ,   green   ,   12D8526C   
+      lokesh goud      ,       418        ,   138   ,   79   ,   77   ,   138+79+77   ,   130.18%   ,   Pass   ,   23-Feb-2024   ,     4.4 hrs    ,   18   ,   A   ,   black   ,   7794C515   
+     SHIVA PATEL     ,       419        ,   138   ,   52   ,   85   ,   138+52+85   ,   63.33   ,   Pass   ,"   January 19, 2018   ",     1.7 hrs    ,   None   ,   B   ,   green   ,   2A843B1A   
+     DEVIKA KHAN     ,     00420     ,   138   ,   73   ,   94   ,   138+73+94   ,   70.0   ,   Pass   ,   04/10/2019   ,   None   ,   44   ,   B   ,   red   ,   24E3E8FD   
+     Divya Reddy      ,   421   ,   62   ,   67   ,   60   ,   62+67+60   ,   63.0   ,   Pass   ,   2021-01-09   ,   29.4   ,   16   ,   Good   ,   blue   ,   None   
+      divya sharma      ,     00422     ,   86   ,   52   ,   -24   ,   86+52+-24   ,   57.0   ,   Pass   ,   2018-11-26   ,   7.3   ,   18.5   ,   C   ,   yellow   ,   2DFFC5ED   
+     ROHIT VARMA     ,       423        ,   50   ,   74   ,   79   ,   50+74+79   ,   None   ,   Pass   ,   2020-05-15   ,   4.4   ,   18   ,   None   ,   black   ,   B3F1C14B   
+     Suresh Sharma      ,     id_424    ,   46   ,   150   ,   AB   ,   46+150+AB   ,   75.0   ,   Pass   ,   2020-02-13   ,   5.9   ,   10   ,   B+   ,   blue   ,   A0C33753   
+     Teja Varma      ,     00425     ,   AB   ,   79   ,   None   ,   AB+79+None   ,   65.67%   ,   Pass   ,   27-Jan-2019   ,   29.3   ,   19   ,   Good   ,   yellow   ,   E7542961   
+      teja agarwal      ,       426        ,   86   ,   37   ,   AB   ,   missing   ,   70.33   ,   Pass   ,"   September 29, 2019   ",   3.3   ,   18   ,   B   ,   black   ,   C7811451   
+     SNEHA GUPTA     ,       427        ,   87   ,   30   ,   96   ,   213   ,   71.0   ,   Pass   ,   2024-06-12   ,   1.0   ,   17   ,   B   ,   black   ,   DD738054   
+     RAHUL PATEL     ,   428   ,   57   ,   37   ,   74   ,   57+37+74   ,   56.0%   ,   Pass   ,   22-Oct-2020   ,    two    ,   62   ,   Average   ,   red   ,   681A1F1C   
+      lokesh khan      ,     S429X     ,   None   ,   58   ,   33   ,   141   ,   47.0   ,   Pass   ,"   August 02, 2022   ",   -6.6   ,   16   ,   D   ,   blue   ,   63CB76F4   
+     Prasad Goud      ,    STU-0430    ,   None   ,   34   ,   55   ,   None+34+55   ,   60.0   ,   Pass   ,"   January 10, 2020   ",   4.7   ,   17   ,   None   ,   black   ,   62003290   
+     Kiran Varma      ,     00431     ,   73   ,   76   ,   56   ,   205   ,   68.33   ,   Pass   ,   26/03/2022   ,   None   ,   17   ,   B   ,   white   ,   F736062D   
+     DEVIKA GOUD     ,     00432     ,   87   ,   63   ,   75   ,   87+63+75   ,   75.0   ,   Pass   ,   14/04/2019   ,   -6.4   ,   None   ,   Good   ,   black   ,   4B831312   
+      lokesh sharma      ,     00433     ,   76   ,   -18   ,   93   ,   263   ,   133.03   ,   Pass   ,   03-09-2024   ,   2.0   ,     16 years    ,   None   ,   yellow   ,   7C9BB760   
+     POOJA GOUD     ,       434        ,   92   ,   84   ,   80   ,   92+84+80   ,   141.1   ,   Pass   ,   09/02/2021   ,     7.8 hrs    ,   17.5   ,   A   ,   red   ,   14B7884A   
+     Shiva Varma      ,   None   ,   73   ,   72   ,   107   ,   73+72+107   ,   74.67   ,   Pass   ,   28/10/2020   ,     2.8 hrs    ,   16   ,   B+   ,   green   ,   CC203D4F   
+     VARUN SHARMA     ,       436        ,   48   ,   59   ,   35   ,   48+59+35   ,   47.33   ,   Pass   ,"   November 29, 2024   ",   2.7   ,   17   ,   Below Avg   ,   red   ,   38E909FB   
+     Sanjana Varma      ,       437        ,   39   ,   46   ,   107   ,   39+46+107   ,   57.67   ,   Pass   ,   2020-05-23   ,   2.5   ,   16   ,   Average   ,   green   ,   A90CEF2A   
+      vikram goud      ,     S438X     ,   69   ,   55   ,   44   ,   69+55+44   ,   56.0   ,   Pass   ,"   April 05, 2019   ",   1.0   ,   19   ,   C   ,   blue   ,   57F77D50   
+     VIKRAM SHARMA     ,     id_439    ,   52   ,   37   ,   59   ,   52+37+59   ,   49.33   ,   Pass   ,   None   ,   0.9   ,   40   ,   D   ,   blue   ,   F00241D0   
+     KIRAN GUPTA     ,   440   ,   43   ,   76   ,   -24   ,   43+76+-24   ,   63.33   ,   Pass   ,   2022-03-30   ,   None   ,   16   ,   B   ,   black   ,   87C94CBA   
+      devika khan      ,     00441     ,   92   ,   75   ,   66   ,   92+75+66   ,   77.67   ,   Pass   ,"   January 22, 2020   ",    two    ,   19.5   ,   A   ,   white   ,   5109B401   
+     SHIVA GOUD     ,    STU-0442    ,   51   ,   150   ,   71   ,   219   ,   73.0   ,   Pass   ,   01-01-2022   ,   6.3   ,   None   ,   Good   ,   blue   ,   630C221F   
+     LOKESH SHARMA     ,     00443     ,   41   ,   150   ,   64   ,   41+150+64   ,   55.67   ,   Pass   ,   13/11/2022   ,   1.1   ,   16   ,   C   ,   black   ,   C337D202   
+     LOKESH GOUD     ,   None   ,   80   ,   30   ,   107   ,   80+30+107   ,   48.33   ,   Pass   ,"   May 03, 2020   ",   -4.4   ,   19   ,   Below Avg   ,   red   ,   F935B15C   
+     Harika Goud      ,   445   ,   47   ,   48   ,   97   ,   N/A   ,   64.0   ,   Pass   ,"   April 02, 2024   ",    two    ,   16   ,   Good   ,   blue   ,   59961B8B   
+     Naveen Agarwal      ,   446   ,   74   ,   60   ,   47   ,   74+60+47   ,   N/A   ,   Pass   ,"   August 22, 2021   ",    0    ,   16   ,   B+   ,   red   ,   159B46EA   
+     Prasad Naidu      ,   447   ,   76   ,   43   ,   58   ,   76+43+58   ,   59.0   ,   Pass   ,   04-23-2019   ,   5.3   ,   18   ,   C   ,   red   ,   F6121509   
+     SNEHA KHAN     ,     id_448    ,   43   ,   82   ,   88   ,   43+82+88   ,   71.0   ,   Pass   ,   03-13-2024   ,     4.3 hrs    ,   19   ,   Good   ,      ,   6EA8553A   
+     KIRAN PATEL     ,     00449     ,   84   ,   77   ,   -24   ,   237   ,   incomplete   ,   Pass   ,   2018-05-15   ,   0.7   ,   19.5   ,   Distinction   ,   blue   ,   1CA963EB   
+     Akash Khan      ,     id_450    ,   138   ,   98   ,   46   ,   138+98+46   ,   68.33   ,   Pass   ,"   February 26, 2021   ",     0.3 hrs    ,   17.5   ,   None   ,   red   ,   27ECE7AB   
+     SURESH REDDY     ,     S451X     ,   138   ,   91   ,   AB   ,   138+91+AB   ,   60.33   ,   Pass   ,   02-14-2019   ,   7.9   ,   None   ,   B   ,   white   ,   C3C16E51   
+      sneha varma      ,    STU-0452    ,   63   ,   95   ,   97   ,   63+95+97   ,   85.0   ,   Pass   ,   2021-12-16   ,   0.2   ,   8   ,   A+   ,   white   ,   67FBC8C1   
+     Shiva Khan      ,     S453X     ,   None   ,   93   ,   98   ,   None+93+98   ,   87.33   ,   Pass   ,   None   ,   3.6   ,   16   ,   A   ,   blue   ,   96D14D5F   
+      rahul goud      ,       454        ,   None   ,   99   ,   66   ,   300/300   ,   79.0   ,   Pass   ,   06-23-2021   ,   4.0   ,   16   ,   Distinction   ,   white   ,   46BC0E56   
+     SHIVA REDDY     ,     id_455    ,   AB   ,   92   ,   78   ,   AB+92+78   ,   70.67   ,   Pass   ,   04-29-2022   ,   0.9   ,   17   ,   B+   ,   blue   ,   2051C7A8   
+     TEJA NAIDU     ,     id_456    ,   99   ,   62   ,   42   ,   99+62+42   ,   None   ,   Pass   ,   2018-03-27   ,    two    ,   16   ,   Good   ,   blue   ,   1494A849   
+      naveen naidu      ,     S457X     ,   AB   ,   70   ,   63   ,   184   ,   140.85   ,   Pass   ,   02-09-2023   ,   -2.8   ,   18   ,   Good   ,   green   ,   087FEB40   
+     SURESH GUPTA     ,       458        ,   79   ,   77   ,   82   ,   238   ,   144.06   ,   Pass   ,   09-Jan-2022   ,   6.1   ,   None   ,   Distinction   ,   red   ,   6553DF5C   
+      shiva patel      ,   459   ,   38   ,   42   ,   80   ,   38+42+80   ,   53.33   ,   Pass   ,   2019-01-13   ,   4.1   ,   52   ,   C   ,   yellow   ,   247ABB1D   
+     Prasad Sharma      ,       460        ,   70   ,   60   ,   -24   ,   70+60+-24   ,   54.0%   ,   Pass   ,   2022-08-08   ,   5.1   ,   16   ,   None   ,   blue   ,   EDAB9479   
+      prasad rao      ,     00461     ,   65   ,   ?   ,   71   ,   65+?+71   ,   77.67   ,   Pass   ,   10/12/2020   ,   7.9   ,   18   ,   None   ,   red   ,   45B7C483   
+      varun rao      ,     S462X     ,   53   ,   33   ,   61   ,   147   ,   49.0   ,   Pass   ,   30-Aug-2018   ,   6.1   ,   16   ,   None   ,   white   ,   985E1848   
+      akash sharma      ,       463        ,   95   ,   48   ,   80   ,   95+48+80   ,   74.33   ,   Pass   ,"   July 08, 2020   ",   3.5   ,   16   ,   B   ,   black   ,   E086FCB6   
+      teja rao      ,   464   ,   88   ,   ?   ,   75   ,   262   ,   87.33   ,   Pass   ,"   May 06, 2022   ",   3.6   ,   16   ,   None   ,   blue   ,   0FA9E118   
+     VARUN NAIDU     ,       465        ,   73   ,   42   ,   50   ,   73+42+50   ,   -7.45   ,   Pass   ,   05-02-2024   ,   5.0   ,   17   ,   C   ,   white   ,   3C1C6D48   
+     Devika Patel      ,     id_466    ,   53   ,   52   ,   -24   ,   178   ,   None   ,   Pass   ,   2021-06-25   ,   5.3   ,   None   ,   None   ,   white   ,   5BB3E18C   
+     SANJANA REDDY     ,    STU-0467    ,   AB   ,   150   ,   40   ,   143   ,   47.67   ,   Pass   ,   11-Mar-2018   ,   4.0   ,   10   ,   Below Avg   ,   None   ,   484E5832   
+     Lokesh Sharma      ,     id_468    ,   79   ,   83   ,   107   ,   check   ,   86.33   ,   Pass   ,   06/10/2023   ,   5.2   ,   67   ,   Distinction   ,   white   ,   9107662A   
+     AKASH GOUD     ,    STU-0469    ,   -10   ,   44   ,   107   ,   check   ,   40.33   ,   Pass   ,   None   ,   0.2   ,   18.5   ,   D   ,   white   ,   97138F40   
+     AKASH SHARMA     ,       470        ,   92   ,   ?   ,   92   ,   92+?+92   ,   None   ,   Pass   ,   18/09/2023   ,   3.4   ,   16   ,   A    ,   blue   ,   49B29B16   
+     HARIKA AGARWAL     ,     00471     ,   138   ,   150   ,   AB   ,   error   ,   50.33   ,   Pass   ,   2023-07-01   ,   2.2   ,   18   ,   None   ,   yellow   ,   4CA0D584   
+     Rahul Agarwal      ,       472        ,   95   ,   50   ,   42   ,   95+50+42   ,   62.33   ,   Pass   ,   2020-03-11   ,   None   ,   18   ,   B+   ,   green   ,   FB45CD53   
+     LOKESH PATEL     ,   473   ,   138   ,   48   ,   40   ,   161   ,   53.67   ,   Pass   ,   2020-11-07   ,   0.8   ,   16   ,   None   ,   white   ,   1B2E2719   
+      kiran varma      ,       474        ,   35   ,   89   ,   80   ,   35+89+80   ,   68.0   ,   Pass   ,   None   ,   None   ,   16   ,   Good   ,   unknown   ,   AA6AB641   
+      naveen rao      ,    STU-0475    ,   37   ,   150   ,   46   ,   37+150+46   ,   48.33   ,   Pass   ,"   January 26, 2020   ",   25.7   ,   18   ,   Below Avg   ,   green   ,   47C38AC4   
+     Divya Naidu      ,     id_476    ,   96   ,   78   ,   53   ,   96+78+53   ,   75.67   ,   Pass   ,   27-Jul-2024   ,   None   ,   19   ,   A    ,   blue   ,   18A5CCAE   
+      lokesh reddy      ,     00477     ,   AB   ,   64   ,   48   ,   AB+64+48   ,   69.67   ,   Pass   ,   None   ,   3.8   ,   17   ,   B   ,   red   ,   61C37B16   
+     Rohit Goud      ,   None   ,   59   ,   73   ,   AB   ,   59+73+AB   ,   66.0   ,   Pass   ,"   January 14, 2023   ",   3.9   ,   19   ,   B   ,   black   ,   None   
+      sanjana gupta      ,       479        ,   None   ,   150   ,   37   ,   None+150+37   ,   55.67   ,   Pass   ,   14/08/2021   ,   1.6   ,   19   ,   Average   ,   None   ,   3C7663FB   
+     Devika Naidu      ,     id_480    ,   67   ,   95   ,   57   ,   67+95+57   ,   -7.54   ,   Pass   ,   2024-05-19   ,    0    ,   16   ,   None   ,   red   ,   C05218AB   
+     Prasad Sharma      ,     00481     ,   72   ,   75   ,   34   ,   72+75+34   ,   60.33   ,   Pass   ,   05-29-2022   ,    0    ,   17   ,   Good   ,   blue   ,   736A1ACB   
+     RAHUL KHAN     ,     S482X     ,   -10   ,   38   ,   46   ,   124   ,   41.33   ,   Pass   ,   2018-04-20   ,    0    ,   58   ,   D   ,   black   ,   480665D4   
+     POOJA GUPTA     ,       483        ,   92   ,   None   ,   65   ,   N/A   ,   absent   ,   Pass   ,   None   ,   4.8   ,   16   ,   B+   ,   None   ,   2093AC19   
+     DEVIKA AGARWAL     ,       484        ,   78   ,   55   ,   107   ,   missing   ,   60.33   ,   Pass   ,   05-16-2023   ,   4.1   ,   19   ,   Good   ,   None   ,   46FADB2B   
+     Rahul Agarwal      ,     S485X     ,   79   ,   150   ,   93   ,   79+150+93   ,   83.0   ,   Pass   ,   05-Nov-2022   ,   0.5   ,   47   ,   A+   ,   yellow   ,   F62D64ED   
+     VARUN SHARMA     ,    STU-0486    ,   66   ,   None   ,   -24   ,   201   ,   None   ,   Pass   ,   01-25-2018   ,   39.6   ,     16 years    ,   Good   ,   blue   ,   6491C4A4   
+     Pooja Sharma      ,    STU-0487    ,   79   ,   99   ,   83   ,   79+99+83   ,   87.0   ,   Pass   ,   None   ,     0.7 hrs    ,   16   ,   A    ,   None   ,   E0F66A58   
+     LOKESH SHARMA     ,   488   ,   95   ,   57   ,   74   ,   error   ,   75.33   ,   Pass   ,"   January 08, 2020   ",   7.7   ,   16   ,   Distinction   ,   black   ,   None   
+     Vikram Naidu      ,     id_489    ,   81   ,   -18   ,   76   ,   81+-18+76   ,   70.67   ,   Pass   ,   10-06-2023   ,   1.1   ,   17   ,   B   ,   blue   ,   D4F6FB57   
+      devika agarwal      ,     00490     ,   55   ,   54   ,   41   ,   150   ,   50.0   ,   Pass   ,   29-Jun-2018   ,   None   ,     19 years    ,   Below Avg   ,   green   ,   0D118C81   
+     SURESH PATEL     ,       491        ,   70   ,   -18   ,   50   ,   70+-18+50   ,   53.67   ,   Pass   ,   08-20-2018   ,    0    ,   11   ,   None   ,   blue   ,   0C549DC5   
+     PRASAD NAIDU     ,       492        ,   53   ,   34   ,   40   ,   53+34+40   ,   42.33   ,   Pass   ,   2023-04-02   ,   None   ,     18 years    ,   D   ,   None   ,   AC71CF83   
+     Pooja Naidu      ,   493   ,   138   ,   77   ,   34   ,   165   ,   55.0   ,   Pass   ,"   December 09, 2018   ",   6.1   ,   19   ,   C   ,   green   ,   643C97B7   
+     Sanjana Gupta      ,       494        ,   91   ,   -18   ,   85   ,   242   ,   80.67   ,   Pass   ,   None   ,   0.0   ,   18   ,   Distinction   ,   white   ,   1937E55D   
+     Harika Varma      ,     id_495    ,   52   ,   73   ,   49   ,   52+73+49   ,   58.0   ,   Pass   ,   2022-12-28   ,   0.0   ,   17   ,   Average   ,   green   ,   F383C3A9   
+      divya agarwal      ,   496   ,   81   ,   150   ,   AB   ,   81+150+AB   ,   -23.19   ,   Pass   ,   2019-03-31   ,   3.0   ,   16   ,   B   ,   blue   ,   A16A2167   
+     VIKRAM SHARMA     ,     id_497    ,   83   ,   72   ,   75   ,   83+72+75   ,   76.67   ,   Pass   ,   None   ,   1.1   ,   18   ,   A+   ,   green   ,   1D2A59CE   
+      suresh patel      ,   498   ,   138   ,   77   ,   41   ,   missing   ,   55.33   ,   Pass   ,   2018-10-16   ,   0.1   ,     17 years    ,   C   ,   white   ,   4B1E575A   
+      akash agarwal      ,       499        ,   -10   ,   99   ,   99   ,   -10+99+99   ,   82.33   ,   Pass   ,   21-May-2021   ,   3.7   ,   50   ,   A   ,   red   ,   16706F14   
+     Suresh Reddy      ,   500   ,   65   ,   75   ,   -24   ,   check   ,   -19.74%   ,   Pass   ,   24-Apr-2024   ,   None   ,   18   ,   B+   ,   None   ,   7B8FA0E9   
+     Devika Goud      ,    STU-0501    ,   35   ,   72   ,   None   ,   35+72+None   ,   51.67   ,   Pass   ,   None   ,   -2.6   ,   18   ,   Average   ,   green   ,   266B85A9   
+      shiva khan      ,     00502     ,   88   ,   50   ,   55   ,   300/300   ,   64.33   ,   Pass   ,"   March 26, 2024   ",   5.3   ,   17.5   ,   Good   ,   blue   ,   48BF3FC2   
+     Prasad Gupta      ,       503        ,   37   ,   52   ,   77   ,   37+52+77   ,   55.33   ,   Pass   ,   08-19-2019   ,   5.2   ,   16   ,   Average   ,   red   ,   B5D9DB19   
+     LOKESH AGARWAL     ,     S504X     ,   50   ,   -18   ,   81   ,   50+-18+81   ,   69.0   ,   Pass   ,   03-11-2019   ,   2.0   ,   16   ,   B+   ,   yellow   ,   39D5DFE4   
+     PRASAD RAO     ,     00505     ,   91   ,   44   ,   99   ,   91+44+99   ,   78.0   ,   Pass   ,   31/05/2020   ,   5.2   ,   18   ,   A   ,   yellow   ,   EBF12B54   
+     Akash Agarwal      ,       506        ,   46   ,   54   ,   84   ,   184   ,   61.33   ,   Pass   ,"   November 17, 2022   ",     1.7 hrs    ,   18   ,   B+   ,   black   ,   2E36969B   
+     SANJANA PATEL     ,     00507     ,   -10   ,   65   ,   62   ,   -10+65+62   ,   59.0   ,   Pass   ,   None   ,     1.0 hrs    ,   5   ,   C   ,   green   ,   81B8E9BE   
+     LOKESH RAO     ,    STU-0508    ,   58   ,   None   ,   91   ,   error   ,   76.33   ,   Pass   ,   2023-11-06   ,   5.6   ,     16 years    ,   None   ,   green   ,   51724E92   
+     ROHIT VARMA     ,     00509     ,   AB   ,   44   ,   52   ,   158   ,   52.67   ,   Pass   ,   15/04/2022   ,   0.9   ,   17   ,   Average   ,   multi   ,   CF14EB7D   
+     SHIVA PATEL     ,   510   ,   42   ,   97   ,   44   ,   183   ,   61.0   ,   Pass   ,   05/11/2018   ,     8.0 hrs    ,   17   ,   None   ,   white   ,   940F4F35   
+     POOJA PATEL     ,     00511     ,   70   ,   50   ,   56   ,   176   ,   58.67   ,   Pass   ,   2018-12-09   ,   1.5   ,   None   ,   C   ,   yellow   ,   71EC6CE1   
+      kiran rao      ,       512        ,   42   ,   ?   ,   93   ,   177   ,   59.0   ,   Pass   ,   03-12-2019   ,     4.8 hrs    ,     19 years    ,   None   ,   black   ,   96AF1C85   
+     PRASAD PATEL     ,     S513X     ,   92   ,   48   ,   80   ,   92+48+80   ,   None   ,   Pass   ,   None   ,   3.3   ,   11   ,   B+   ,   red   ,   E9754CDA   
+      harika gupta      ,     S514X     ,   94   ,   63   ,   82   ,   239   ,   79.67   ,   Pass   ,   05-19-2018   ,   1.0   ,   18   ,   A+   ,   green   ,   FCEC2AFF   
+     Prasad Reddy      ,     id_515    ,   84   ,   97   ,   80   ,   84+97+80   ,   87.0   ,   Pass   ,"   July 13, 2018   ",   None   ,   19   ,   A   ,   yellow   ,   F2CE801C   
+     VIKRAM AGARWAL     ,     00516     ,   138   ,   81   ,   76   ,   219   ,   73.0   ,   Pass   ,"   March 30, 2021   ",   -5.0   ,   7   ,   B+   ,   black   ,   None   
+      shiva rao      ,     S517X     ,   AB   ,   56   ,   33   ,   error   ,   54.67   ,   Pass   ,"   July 31, 2020   ",     6.5 hrs    ,   17   ,   C   ,   blue   ,   E993C381   
+     ANITA NAIDU     ,     00518     ,   98   ,   58   ,   36   ,   98+58+36   ,   123.46   ,   Pass   ,   09-Jun-2019   ,   6.7   ,   None   ,   Good   ,   yellow   ,   558C2E07   
+     ANITA AGARWAL     ,     S519X     ,   61   ,   -18   ,   64   ,   61+-18+64   ,   60.67   ,   Pass   ,   13-Jun-2022   ,   3.9   ,     19 years    ,   B   ,   black   ,   1BA43D8E   
+      lokesh reddy      ,     00520     ,   97   ,   -18   ,   77   ,   238   ,   absent   ,   Pass   ,"   March 07, 2024   ",   None   ,   17   ,   Distinction   ,   red   ,   None   
+     VIKRAM PATEL     ,       521        ,   AB   ,   37   ,   None   ,   162   ,   54.0   ,   Pass   ,   01-11-2020   ,   5.4   ,   17   ,   C   ,      ,   None   
+     VIKRAM SHARMA     ,     00522     ,   67   ,   45   ,   None   ,   160   ,   53.33   ,   Pass   ,   2020-05-11   ,   -5.8   ,   19.5   ,   Average   ,   None   ,   EF97B519   
+      prasad goud      ,       523        ,   63   ,   65   ,   92   ,   63+65+92   ,   73.33   ,   Pass   ,   2020-08-11   ,    0    ,   18.5   ,   B   ,   black   ,   6E6908C3   
+      akash khan      ,       524        ,   47   ,   59   ,   67   ,   173   ,   57.67   ,   Pass   ,"   July 26, 2021   ",    two    ,   16   ,   C   ,   green   ,   BD179B96   
+     HARIKA SHARMA     ,     id_525    ,   80   ,   47   ,   96   ,   80+47+96   ,   74.33   ,   Pass   ,   2021-06-28   ,     6.4 hrs    ,     19 years    ,   Good   ,   white   ,   B080256C   
+     AKASH AGARWAL     ,     S526X     ,   -10   ,   None   ,   88   ,   188   ,   62.67   ,   Pass   ,   2022-10-10   ,   3.2   ,   5   ,   Good   ,   yellow   ,   C02A77E2   
+     Harika Rao      ,   527   ,   40   ,   78   ,   98   ,   216   ,   72.0   ,   Pass   ,   28/12/2023   ,    0    ,   None   ,   B+   ,   green   ,   1AAE9714   
+     Prasad Agarwal      ,       528        ,   81   ,   33   ,   42   ,   156   ,   52.0   ,   Pass   ,   02/03/2020   ,   4.7   ,   19   ,   None   ,   blue   ,   8015DBE9   
+      kiran khan      ,     S529X     ,   59   ,   36   ,   76   ,   59+36+76   ,   57.0   ,   Pass   ,   30/06/2019   ,   1.3   ,   19   ,   C   ,   white   ,   B5337415   
+      sneha varma      ,    STU-0530    ,   44   ,   68   ,   None   ,   44+68+None   ,   -6.8   ,   Pass   ,"   January 19, 2023   ",   0.2   ,   8   ,   B+   ,   black   ,   B237CAF8   
+     Devika Varma      ,     00531     ,   90   ,   ?   ,   60   ,   90+?+60   ,   64.0   ,   Pass   ,   2020-10-13   ,   38.4   ,   16   ,   B+   ,   green   ,   CCE08FE2   
+     Sneha Patel      ,   None   ,   64   ,   60   ,   51   ,   64+60+51   ,   58.33   ,   Pass   ,   12-Apr-2023   ,   4.4   ,   None   ,   C   ,   white   ,   id_missing   
+      anita sharma      ,     00533     ,   39   ,   92   ,   72   ,   39+92+72   ,   67.67   ,   Pass   ,   03/04/2022   ,    two    ,   17   ,   Good   ,   yellow   ,   None   
+     LOKESH GUPTA     ,     id_534    ,   138   ,   85   ,   96   ,   138+85+96   ,   82.67   ,   Pass   ,   None   ,   1.0   ,   17   ,   Distinction   ,   blue   ,   A2F1F8BC   
+      devika reddy      ,       535        ,   99   ,   71   ,   107   ,   99+71+107   ,   84.33   ,   Pass   ,   30-Nov-2023   ,   6.4   ,   None   ,   A    ,   None   ,   dev-123   
+     KIRAN RAO     ,   536   ,   52   ,   90   ,   39   ,   52+90+39   ,   60.33   ,   Pass   ,   01-05-2018   ,   6.9   ,   None   ,   Good   ,   green   ,   6B1B781E   
+     KIRAN GOUD     ,       537        ,   83   ,   71   ,   71   ,   83+71+71   ,   75.0   ,   Pass   ,   None   ,   1.2   ,   17.5   ,   B   ,   blue   ,   F7836F5A   
+     Meena Rao      ,     00538     ,   AB   ,   85   ,   93   ,   223   ,   74.33   ,   Pass   ,   24-Sep-2021   ,   6.8   ,   59   ,   Good   ,   red   ,   7D7CDCCB   
+     Varun Gupta      ,   539   ,   60   ,   65   ,   50   ,   60+65+50   ,   58.33   ,   Pass   ,"   December 26, 2022   ",   7.9   ,   19   ,   Average   ,   green   ,   56B66AB6   
+     Pooja Agarwal      ,       540        ,   97   ,   97   ,   95   ,   97+97+95   ,   -19.24   ,   Pass   ,   None   ,     5.8 hrs    ,   19   ,   A    ,   blue   ,   2ABEB466   
+     VARUN KHAN     ,   541   ,   93   ,   -18   ,   70   ,   199   ,   66.33   ,   Pass   ,   08/11/2023   ,    two    ,     16 years    ,   Good   ,   blue   ,   8D8CFB79   
+     TEJA GUPTA     ,     00542     ,   61   ,   83   ,   53   ,   61+83+53   ,   65.67   ,   Pass   ,   06-27-2021   ,   8.0   ,   18.5   ,   B+   ,   white   ,   9FC25D3B   
+      teja sharma      ,     id_543    ,   83   ,   30   ,   107   ,   83+30+107   ,   59.0   ,   Pass   ,   05-Feb-2021   ,    0    ,   17   ,   Average   ,   green   ,   3ADDE829   
+     Divya Patel      ,     id_544    ,   67   ,   73   ,   107   ,   225   ,   75.0   ,   Pass   ,   10-30-2019   ,   2.5   ,   16   ,   B+   ,   None   ,   BD25F319   
+      divya varma      ,       545        ,   -10   ,   74   ,   59   ,   -10+74+59   ,   56.0   ,   Pass   ,   07/12/2024   ,   6.7   ,   18   ,   C   ,   black   ,   CF0DDB9B   
+     Prasad Khan      ,    STU-0546    ,   55   ,   76   ,   107   ,   55+76+107   ,   72.33   ,   Pass   ,"   July 05, 2021   ",   4.9   ,   67   ,   B   ,   None   ,   BC652AFB   
+     VIKRAM VARMA     ,     00547     ,   AB   ,   42   ,   76   ,   207   ,   69.0   ,   Pass   ,   None   ,   4.6   ,     18 years    ,   Good   ,   blue   ,   0000   
+     LOKESH GOUD     ,       548        ,   None   ,   -18   ,   64   ,   None+-18+64   ,   51.67   ,   Pass   ,   11-Apr-2023   ,   2.0   ,   61   ,   Average   ,   white   ,   DB714C91   
+     LOKESH GOUD     ,   None   ,   39   ,   50   ,   48   ,   137   ,   45.67   ,   Pass   ,   09/10/2018   ,   25.2   ,   17   ,   None   ,   red   ,   B14BC03B   
+      rahul naidu      ,     id_550    ,   37   ,   38   ,   37   ,   37+38+37   ,   37.33   ,   Fail   ,   None   ,   0.7   ,   19   ,   Poor   ,   red   ,   None   
+     DEVIKA AGARWAL     ,   551   ,   87   ,   150   ,   -24   ,   87+150+-24   ,   65.67   ,   Pass   ,"   August 26, 2023   ",   7.4   ,     19 years    ,   B   ,      ,   75E53E64   
+      teja sharma      ,     00552     ,   138   ,   38   ,   59   ,   138+38+59   ,   51.33   ,   Pass   ,   None   ,   2.6   ,   18   ,   Average   ,      ,   01301E6B   
+      lokesh rao      ,   553   ,   87   ,   44   ,   36   ,   87+44+36   ,   55.67   ,   Pass   ,   11-Sep-2018   ,   26.0   ,   18.5   ,   C   ,   white   ,   E14CBAB4   
+     SHIVA GOUD     ,     S554X     ,   71   ,   39   ,   96   ,   206   ,   111.07   ,   Pass   ,   None   ,   3.5   ,   17   ,   B+   ,   blue   ,   dev-123   
+     VARUN GOUD     ,     S555X     ,   51   ,   71   ,   94   ,   51+71+94   ,   72.0   ,   Pass   ,   11-25-2018   ,   0.3   ,   19   ,   B+   ,   blue   ,   66D41EF7   
+      lokesh goud      ,     00556     ,   35   ,   None   ,   65   ,   35+None+65   ,   51.0   ,   Pass   ,   21-Nov-2021   ,   35.7   ,     18 years    ,   Average   ,   red   ,   29A080F0   
+     ROHIT PATEL     ,    STU-0557    ,   85   ,   None   ,   54   ,   217   ,   72.33   ,   Pass   ,   2022-03-21   ,   7.2   ,   19   ,   B+   ,   white   ,   1A27E51C   
+     PRASAD SHARMA     ,     S558X     ,   79   ,   150   ,   66   ,   79+150+66   ,   66.67%   ,   Pass   ,   07/04/2021   ,   6.7   ,   19.5   ,   B+   ,   black   ,   51B44431   
+     Pooja Patel      ,     id_559    ,   38   ,   66   ,   30   ,   38+66+30   ,   44.67   ,   Pass   ,"   September 13, 2022   ",   1.0   ,   18.5   ,   D   ,   red   ,   None   
+      shiva rao      ,    STU-0560    ,   96   ,   97   ,   44   ,   check   ,   79.0   ,   Pass   ,"   August 10, 2024   ",   None   ,     17 years    ,   A   ,   red   ,   FAA7F5A8   
+     Shiva Goud      ,       561        ,   99   ,   79   ,   66   ,   99+79+66   ,   81.33   ,   Pass   ,   16/04/2021   ,   6.5   ,   18.5   ,   A+   ,   black   ,   FBFFF4D4   
+     DEVIKA REDDY     ,     S562X     ,   66   ,   53   ,   42   ,   161   ,   -19.31   ,   Pass   ,   10-17-2019   ,    two    ,   18   ,   None   ,   green   ,   38BEFAF1   
+     Harika Goud      ,     id_563    ,   None   ,   48   ,   37   ,   None+48+37   ,   51.0   ,   Pass   ,   17-Oct-2021   ,   -3.7   ,     19 years    ,   C   ,   blue   ,   738E5390   
+     RAHUL KHAN     ,       564        ,   73   ,   150   ,   107   ,   73+150+107   ,   65.33   ,   Pass   ,"   January 30, 2020   ",   4.0   ,   18   ,   Good   ,   None   ,   036B4F26   
+      kiran khan      ,    STU-0565    ,   138   ,   68   ,   89   ,   138+68+89   ,   72.33   ,   Pass   ,   12-04-2022   ,   None   ,   17   ,   B+   ,   white   ,   F3F01767   
+     PRASAD GOUD     ,     00566     ,   AB   ,   None   ,   30   ,   AB+None+30   ,   48.33   ,   Pass   ,   29/11/2020   ,   7.2   ,   18.5   ,   Below Avg   ,   yellow   ,   2EA90D5B   
+     POOJA KHAN     ,       567        ,   88   ,   48   ,   65   ,   error   ,   67.0%   ,   Pass   ,   2019-02-20   ,    0    ,   None   ,   B   ,   None   ,   None   
+      meena varma      ,   568   ,   None   ,   65   ,   64   ,   None+65+64   ,   55.33   ,   Pass   ,   12-Sep-2018   ,   2.3   ,   None   ,   Average   ,   yellow   ,   4E602D03   
+     Rohit Khan      ,     00569     ,   AB   ,   84   ,   AB   ,   AB+84+AB   ,   87.67   ,   Pass   ,   2021-03-12   ,     2.4 hrs    ,   5   ,   A    ,   black   ,   16CA573D   
+     SURESH GUPTA     ,     00570     ,   46   ,   98   ,   92   ,   46+98+92   ,   78.67   ,   Pass   ,   20-Feb-2023   ,   7.1   ,   16   ,   Distinction   ,      ,   95182360   
+      anita reddy      ,    STU-0571    ,   -10   ,   76   ,   -24   ,   -10+76+-24   ,   75.67   ,   Pass   ,   18/06/2020   ,   0.1   ,     16 years    ,   A    ,   green   ,   342FCC4E   
+     DEVIKA NAIDU     ,    STU-0572    ,   88   ,   78   ,   38   ,   204   ,   68.0   ,   Pass   ,   2023-08-21   ,   2.6   ,   19   ,   B   ,   blue   ,   0F7BD074   
+     KIRAN KHAN     ,     id_573    ,   39   ,   62   ,   63   ,   39+62+63   ,   54.67   ,   Pass   ,   26/01/2018   ,   4.4   ,   None   ,   C   ,   None   ,   E30BDD71   
+     MEENA GUPTA     ,     id_574    ,   91   ,   50   ,   75   ,   91+50+75   ,   72.0   ,   Pass   ,"   February 25, 2019   ",    0    ,     19 years    ,   B+   ,   green   ,   None   
+     SNEHA GOUD     ,   575   ,   51   ,   51   ,   33   ,   51+51+33   ,   45.0   ,   Pass   ,   2021-05-29   ,   None   ,   48   ,   Below Avg   ,   yellow   ,   XXXXXXXX   
+     AKASH PATEL     ,     00576     ,   81   ,   150   ,   59   ,   check   ,   72.33   ,   Pass   ,"   February 20, 2023   ",   6.5   ,   None   ,   Good   ,   None   ,   3780F4B9   
+     TEJA VARMA     ,   577   ,   57   ,   66   ,   32   ,   155   ,   51.67   ,   Pass   ,"   December 18, 2024   ",   7.2   ,   19   ,   C   ,   blue   ,   None   
+     Vikram Agarwal      ,   578   ,   48   ,   44   ,   43   ,   48+44+43   ,   45.0   ,   Pass   ,   14/06/2021   ,   None   ,   18   ,   D   ,   white   ,   8E8DB6F3   
+      meena agarwal      ,    STU-0579    ,   85   ,   64   ,   89   ,   85+64+89   ,   79.33   ,   Pass   ,"   April 03, 2024   ",     7.2 hrs    ,   19   ,   A   ,   white   ,   05D0CC91   
+     NAVEEN GOUD     ,   580   ,   72   ,   61   ,   74   ,   72+61+74   ,   69.0   ,   Pass   ,   2020-10-05   ,   4.4   ,   16   ,   B+   ,   white   ,   E31F9F04   
+     TEJA GOUD     ,   581   ,   98   ,   40   ,   63   ,   98+40+63   ,   67.0   ,   Pass   ,   08-07-2018   ,   6.5   ,   68   ,   None   ,   black   ,   988F57A9   
+     PRASAD GOUD     ,       582        ,   72   ,   -18   ,   74   ,   72+-18+74   ,   61.67   ,   Pass   ,"   February 19, 2022   ",   3.1   ,     19 years    ,   B   ,   None   ,   dev-123   
+      akash sharma      ,     id_583    ,   -10   ,   150   ,   90   ,   -10+150+90   ,   159.43   ,   Pass   ,"   May 14, 2023   ",     5.3 hrs    ,   16   ,   A    ,   black   ,   E9F6B770   
+     LOKESH SHARMA     ,   None   ,   64   ,   54   ,   -24   ,   64+54+-24   ,   54.33   ,   Pass   ,   13-Nov-2024   ,   24.7   ,   17   ,   Average   ,   green   ,   809EB7DD   
+     VIKRAM VARMA     ,     00585     ,   85   ,   31   ,   95   ,   211   ,   70.33   ,   Pass   ,   10-25-2019   ,   1.8   ,   17   ,   B   ,   black   ,   884860A7   
+     HARIKA AGARWAL     ,     id_586    ,   97   ,   ?   ,   69   ,   259   ,   86.33   ,   Pass   ,   16-Sep-2020   ,   3.1   ,   10   ,   A+   ,   green   ,   XXXXXXXX   
+     MEENA SHARMA     ,     S587X     ,   AB   ,   64   ,   46   ,   AB+64+46   ,   65.33   ,   Pass   ,   07-08-2018   ,   3.8   ,   19   ,   None   ,   green   ,   752F3751   
+     HARIKA REDDY     ,     00588     ,   138   ,   36   ,   107   ,   138+36+107   ,   57.0   ,   Pass   ,   12/09/2018   ,   1.1   ,   16   ,   C   ,   red   ,   AA446C04   
+      suresh agarwal      ,       589        ,   138   ,   None   ,   45   ,   138+None+45   ,   52.0   ,   Pass   ,   2018-03-09   ,   None   ,   7   ,   Average   ,   blue   ,   FBC29767   
+      anita naidu      ,     id_590    ,   85   ,   96   ,   89   ,   270   ,   90.0   ,   Pass   ,   08-Sep-2019   ,   38.9   ,   18   ,   A+   ,   red   ,   46F15E47   
+     MEENA GOUD     ,       591        ,   138   ,   None   ,   -24   ,   205   ,   68.33   ,   Pass   ,   11/07/2024   ,    two    ,   19   ,   B   ,   white   ,   6D0C898D   
+     SHIVA PATEL     ,     id_592    ,   63   ,   68   ,   95   ,   226   ,   75.33   ,   Pass   ,   None   ,   -3.2   ,   17   ,   A+   ,   white   ,   984489D5   
+     Meena Sharma      ,     id_593    ,   38   ,   -18   ,   -24   ,   38+-18+-24   ,   50.0   ,   Pass   ,   05-Jun-2024   ,   0.7   ,   19.5   ,   D   ,   black   ,   None   
+     POOJA NAIDU     ,       594        ,   44   ,   53   ,   None   ,   44+53+None   ,   60.67   ,   Pass   ,   14-Jun-2022   ,   0.5   ,   16   ,   None   ,   green   ,   50814B5D   
+      rahul khan      ,   595   ,   90   ,   150   ,   60   ,   239   ,   79.67   ,   Pass   ,   23/12/2018   ,   7.1   ,   66   ,   Distinction   ,   yellow   ,   76E1C739   
+      sanjana rao      ,   596   ,   51   ,   150   ,   63   ,   51+150+63   ,   63.0   ,   Pass   ,   2018-09-13   ,   32.2   ,   16   ,   B   ,   yellow   ,   E400CEE3   
+      divya varma      ,   597   ,   51   ,   48   ,   68   ,   51+48+68   ,   incomplete   ,   Pass   ,   04-Oct-2020   ,   2.6   ,   18   ,   Average   ,   green   ,   8F41ACF5   
+     SNEHA NAIDU     ,     S598X     ,   68   ,   97   ,   96   ,   68+97+96   ,   101.75   ,   Pass   ,   07-28-2024   ,   3.8   ,   19   ,   A+   ,   red   ,   4555EBAF   
+     DEVIKA PATEL     ,   599   ,   40   ,   ?   ,   107   ,   check   ,   49.33   ,   Pass   ,"   October 22, 2022   ",   2.5   ,     19 years    ,   None   ,   multi   ,   None   
+     ANITA GUPTA     ,     id_600    ,   None   ,   61   ,   84   ,   None+61+84   ,   77.33   ,   Pass   ,   11-Oct-2018   ,   3.9   ,   16   ,   None   ,   red   ,   id_missing   
+     KIRAN REDDY     ,    STU-0601    ,   AB   ,   68   ,   56   ,   AB+68+56   ,   -23.82   ,   Pass   ,   09-Apr-2018   ,     6.9 hrs    ,   None   ,   B+   ,   green   ,   None   
+     DEVIKA NAIDU     ,       602        ,   57   ,   65   ,   82   ,   error   ,   68.0   ,   Pass   ,"   July 16, 2018   ",   4.7   ,     18 years    ,   Good   ,   green   ,   None   
+     Anita Sharma      ,    STU-0603    ,   89   ,   65   ,   68   ,   89+65+68   ,   74.0   ,   Pass   ,"   December 04, 2024   ",   5.6   ,   None   ,   B   ,   blue   ,   836EF8F9   
+     POOJA AGARWAL     ,     S604X     ,   50   ,   ?   ,   94   ,   50+?+94   ,   58.67   ,   Pass   ,   2020-05-27   ,   None   ,   None   ,   C   ,   black   ,   XXXXXXXX   
+     VIKRAM PATEL     ,    STU-0605    ,   AB   ,   37   ,   46   ,   AB+37+46   ,   null   ,   Pass   ,   None   ,   None   ,   18.5   ,   Below Avg   ,   black   ,   AE5098AF   
+      lokesh rao      ,     00606     ,   38   ,   ?   ,   59   ,   38+?+59   ,   65.33   ,   Pass   ,"   October 20, 2021   ",   5.3   ,   42   ,   Good   ,   blue   ,   51177BB7   
+     Sanjana Patel      ,   607   ,   AB   ,   70   ,   82   ,   AB+70+82   ,   63.33   ,   Pass   ,"   August 12, 2024   ",   37.9   ,     17 years    ,   B   ,   N/A   ,   CC2E8339   
+     SHIVA GUPTA     ,     S608X     ,   90   ,   150   ,   42   ,   90+150+42   ,   76.33   ,   Pass   ,   07-24-2019   ,   4.6   ,     16 years    ,   Distinction   ,   yellow   ,   230B648A   
+     Varun Sharma      ,     id_609    ,   59   ,   42   ,   50   ,   151   ,   50.33   ,   Pass   ,"   December 01, 2020   ",   None   ,   49   ,   Average   ,   black   ,   440397CB   
+     PRASAD KHAN     ,   610   ,   61   ,   78   ,   48   ,   61+78+48   ,   N/A   ,   Pass   ,   02-26-2019   ,   6.4   ,   16   ,   Good   ,   black   ,   74193A94   
+     VARUN GOUD     ,   611   ,   66   ,   89   ,   82   ,   66+89+82   ,   79.0   ,   Pass   ,   04-19-2021   ,     3.4 hrs    ,   19.5   ,   A   ,   black   ,   9F5593DA   
+     KIRAN RAO     ,    STU-0612    ,   84   ,   31   ,   48   ,   84+31+48   ,   54.33   ,   Pass   ,   29/06/2019   ,   8.0   ,   18   ,   Average   ,   yellow   ,   4FAB900C   
+     ROHIT NAIDU     ,     00613     ,   95   ,   89   ,   86   ,   270   ,   90.0   ,   Pass   ,   12-Mar-2018   ,   0.7   ,   18   ,   A    ,   black   ,   None   
+     Lokesh Varma      ,   614   ,   85   ,   34   ,   107   ,   173   ,   57.67   ,   Pass   ,   2021-05-08   ,   6.2   ,   5   ,   C   ,   unknown   ,   id_missing   
+     MEENA SHARMA     ,       615        ,   53   ,   73   ,   60   ,   53+73+60   ,   62.0   ,   Pass   ,   None   ,   5.4   ,   16   ,   B   ,   yellow   ,   47218130   
+     MEENA AGARWAL     ,       616        ,   55   ,   56   ,   84   ,   55+56+84   ,   65.0   ,   Pass   ,   06-12-2024   ,   6.1   ,   19   ,   None   ,   blue   ,   id_missing   
+      meena reddy      ,   617   ,   39   ,   None   ,   AB   ,   error   ,   incomplete   ,   Pass   ,   09-03-2022   ,   2.5   ,   None   ,   Average   ,   red   ,   D4C142E0   
+     HARIKA GOUD     ,    STU-0618    ,   76   ,   50   ,   None   ,   76+50+None   ,   62.33   ,   Pass   ,   2024-08-21   ,   3.9   ,   19   ,   B+   ,   blue   ,   81CC872E   
+     ROHIT SHARMA     ,    STU-0619    ,   95   ,   37   ,   91   ,   95+37+91   ,   108.42   ,   Pass   ,"   October 17, 2019   ",   6.4   ,   17   ,   B+   ,   red   ,   ABAB0B43   
+     LOKESH SHARMA     ,     id_620    ,   56   ,   79   ,   107   ,   174   ,   absent   ,   Pass   ,   12-Sep-2024   ,   1.9   ,   16   ,   None   ,   blue   ,   EEB2B4CC   
+     ROHIT KHAN     ,     S621X     ,   55   ,   96   ,   83   ,   55+96+83   ,   78.0   ,   Pass   ,   12-02-2022   ,   None   ,   16   ,   Distinction   ,   white   ,   0B8E3143   
+     RAHUL REDDY     ,     S622X     ,   35   ,   73   ,   81   ,   35+73+81   ,   63.0   ,   Pass   ,   2018-08-09   ,   4.4   ,   17.5   ,   B   ,   red   ,   XXXXXXXX   
+      akash varma      ,     S623X     ,   39   ,   150   ,   49   ,   39+150+49   ,   58.33   ,   Pass   ,   2018-07-01   ,   4.2   ,   17   ,   C   ,   red   ,   B2ABC157   
+     VIKRAM KHAN     ,     00624     ,   46   ,   32   ,   61   ,   46+32+61   ,   None   ,   Pass   ,   None   ,    two    ,   17   ,   Below Avg   ,   green   ,   93139F45   
+     Rohit Sharma      ,    STU-0625    ,   80   ,   99   ,   43   ,   300/300   ,   74.0   ,   Pass   ,   20-Nov-2021   ,   2.4   ,   54   ,   B   ,   red   ,   0ECABA97   
+      sanjana varma      ,     id_626    ,   68   ,   31   ,   79   ,   68+31+79   ,   59.33   ,   Pass   ,   10-Oct-2020   ,     2.2 hrs    ,   17   ,   C   ,   None   ,   D44046DE   
+     SHIVA VARMA     ,       627        ,   83   ,   73   ,   57   ,   83+73+57   ,   71.0   ,   Pass   ,   2023-08-14   ,   6.2   ,   16   ,   B+   ,   green   ,   None   
+      pooja rao      ,     S628X     ,   79   ,   31   ,   82   ,   79+31+82   ,   64.0   ,   Pass   ,   27/04/2020   ,   -5.2   ,   62   ,   B   ,   black   ,   73D37AA4   
+      vikram khan      ,       629        ,   61   ,   None   ,   53   ,   61+None+53   ,   59.33   ,   Pass   ,   03-14-2020   ,   6.7   ,   60   ,   None   ,   black   ,   597532E1   
+      rahul goud      ,       630        ,   60   ,   59   ,   51   ,   170   ,   56.67   ,   Pass   ,   None   ,   7.8   ,   None   ,   C   ,   green   ,   13347152   
+     Vikram Gupta      ,   631   ,   81   ,   37   ,   None   ,   81+37+None   ,   59.0   ,   Pass   ,   14/12/2021   ,   3.8   ,   19   ,   C   ,   yellow   ,   0FB80119   
+      sanjana goud      ,     00632     ,   90   ,   51   ,   92   ,   90+51+92   ,   77.67   ,   Pass   ,"   April 11, 2018   ",     0.5 hrs    ,   19   ,   A+   ,   red   ,   F5AEDFDD   
+      teja sharma      ,     id_633    ,   -10   ,   73   ,   33   ,   -10+73+33   ,   67.67   ,   Pass   ,   2019-07-27   ,    0    ,   19   ,   B+   ,   red   ,   8F374CE5   
+     RAHUL GUPTA     ,     00634     ,   138   ,   ?   ,   88   ,   138+?+88   ,   85.67%   ,   Pass   ,   2021-08-25   ,   None   ,   18   ,   A   ,   green   ,   97456673   
+     RAHUL RAO     ,   635   ,   95   ,   65   ,   37   ,   95+65+37   ,   65.67   ,   Pass   ,   10-20-2019   ,   7.5   ,   16.5   ,   Good   ,   None   ,   E54CD3B0   
+      pooja khan      ,     id_636    ,   60   ,   98   ,   41   ,   199   ,   66.33   ,   Pass   ,   14/03/2022   ,    0    ,   44   ,   Good   ,   yellow   ,   9EDAA8FC   
+     Akash Reddy      ,     id_637    ,   70   ,   60   ,   60   ,   190   ,   63.33   ,   Pass   ,"   July 15, 2022   ",   2.2   ,   16   ,   B+   ,   white   ,   78AB03BD   
+      teja goud      ,    STU-0638    ,   -10   ,   150   ,   63   ,   -10+150+63   ,   58.0   ,   Pass   ,"   August 14, 2018   ",   3.2   ,   18   ,   Average   ,   black   ,   EFFA8EC5   
+     KIRAN GUPTA     ,     00639     ,   42   ,   84   ,   78   ,   204   ,   68.0   ,   Pass   ,   04-15-2018   ,   4.8   ,   17   ,   None   ,   blue   ,   2458117B   
+     VARUN AGARWAL     ,     00640     ,   86   ,   91   ,   86   ,   86+91+86   ,   87.67%   ,   Pass   ,   21/06/2023   ,     5.2 hrs    ,   17   ,   Distinction   ,   white   ,   B3697AB4   
+     ANITA SHARMA     ,    STU-0641    ,   81   ,   59   ,   55   ,   81+59+55   ,   65.0   ,   Pass   ,   11/02/2020   ,   1.2   ,   17.5   ,   None   ,   black   ,   78CE125B   
+     PRASAD NAIDU     ,       642        ,   90   ,   None   ,   47   ,   221   ,   73.67   ,   Pass   ,   05-Mar-2019   ,     7.8 hrs    ,   19   ,   B+   ,   red   ,   4FC7106D   
+      meena agarwal      ,   643   ,   48   ,   45   ,   67   ,   48+45+67   ,   53.33   ,   Pass   ,   10-Mar-2019   ,   4.4   ,   17   ,   Average   ,   white   ,   6F2BF6F4   
+      shiva sharma      ,     00644     ,   62   ,   41   ,   79   ,   182   ,   60.67   ,   Pass   ,   None   ,   1.1   ,   19   ,   B+   ,   green   ,   C60D6001   
+     LOKESH AGARWAL     ,    STU-0645    ,   36   ,   46   ,   107   ,   N/A   ,   39.67   ,   Fail   ,   05-15-2020   ,   None   ,   56   ,   None   ,   yellow   ,   76FACA69   
+     POOJA KHAN     ,     id_646    ,   60   ,   ?   ,   70   ,   175   ,   58.33   ,   Pass   ,   12/08/2024   ,    two    ,   18   ,   None   ,   black   ,   BF9CA644   
+     KIRAN AGARWAL     ,     S647X     ,   48   ,   41   ,   35   ,   48+41+35   ,   41.33   ,   Pass   ,   None   ,   7.3   ,   19.5   ,   D   ,   yellow   ,   dev-123   
+     DEVIKA NAIDU     ,    STU-0648    ,   -10   ,   37   ,   None   ,   228   ,   76.0   ,   Pass   ,   05-05-2020   ,   8.0   ,   68   ,   A    ,   black   ,   42E58AE2   
+     Rahul Reddy      ,     S649X     ,   90   ,   32   ,   73   ,   195   ,   65.0   ,   Pass   ,   08-Apr-2021   ,   5.6   ,   17   ,   B   ,   white   ,   None   
+     PRASAD PATEL     ,       650        ,   41   ,   45   ,   93   ,   41+45+93   ,   59.67   ,   Pass   ,   07-15-2019   ,   39.0   ,   10   ,   Average   ,   red   ,   860DEAF5   
+     VARUN SHARMA     ,   651   ,   37   ,   ?   ,   None   ,   37+?+None   ,   51.33   ,   Pass   ,"   January 09, 2022   ",   2.7   ,   17   ,   C   ,   blue   ,   5C9EB226   
+      prasad naidu      ,     S652X     ,   57   ,   52   ,   57   ,   57+52+57   ,   -4.9   ,   Pass   ,   30/05/2024   ,   7.5   ,   19   ,   None   ,   yellow   ,   CA63D659   
+      sneha sharma      ,       653        ,   52   ,   34   ,   AB   ,   52+34+AB   ,   154.27   ,   Pass   ,   None   ,   4.2   ,   18   ,   Below Avg   ,   yellow   ,   None   
+     AKASH KHAN     ,     S654X     ,   72   ,   94   ,   94   ,   260   ,   86.67   ,   Pass   ,   2021-03-19   ,   5.9   ,   17   ,   None   ,   blue   ,   E5196938   
+      vikram sharma      ,     id_655    ,   49   ,   59   ,   48   ,   49+59+48   ,   52.0   ,   Pass   ,   03-09-2019   ,     7.4 hrs    ,   42   ,   None   ,   yellow   ,   423FE654   
+      vikram goud      ,     id_656    ,   None   ,   50   ,   38   ,   error   ,   62.0   ,   Pass   ,   08-Oct-2023   ,   7.8   ,   None   ,   B   ,   None   ,   52DF37FB   
+      divya khan      ,     id_657    ,   62   ,   150   ,   56   ,   62+150+56   ,   72.33   ,   Pass   ,   26-Aug-2020   ,     6.7 hrs    ,   17   ,   B   ,   black   ,   57BA811F   
+     SANJANA RAO     ,     id_658    ,   73   ,   51   ,   63   ,   187   ,   62.33%   ,   Pass   ,   15/04/2020   ,    0    ,   19   ,   Good   ,   black   ,   2320E101   
+      harika khan      ,    STU-0659    ,   91   ,   61   ,   73   ,   225   ,   75.0   ,   Pass   ,   2024-02-25   ,   7.7   ,   16   ,   B   ,   blue   ,   8197CC5C   
+     NAVEEN GOUD     ,     id_660    ,   -10   ,   150   ,   97   ,   210   ,   70.0   ,   Pass   ,"   March 12, 2024   ",   5.0   ,   19   ,   B+   ,   red   ,   57BD159F   
+     LOKESH AGARWAL     ,     id_661    ,   AB   ,   45   ,   44   ,   167   ,   55.67   ,   Pass   ,   2020-06-16   ,   None   ,   17   ,   Average   ,   white   ,   930B3ACF   
+      divya patel      ,    STU-0662    ,   59   ,   67   ,   80   ,   59+67+80   ,   68.67   ,   Pass   ,   04-17-2019   ,   5.4   ,   59   ,   B   ,   white   ,   9E16C3A8   
+     ANITA SHARMA     ,     id_663    ,   None   ,   43   ,   42   ,   None+43+42   ,   45.33%   ,   Pass   ,   2018-09-04   ,   2.5   ,   None   ,   Below Avg   ,   yellow   ,   8D71BF70   
+     SANJANA VARMA     ,       664        ,   47   ,   65   ,   78   ,   47+65+78   ,   63.33   ,   Pass   ,   26/08/2024   ,   None   ,   18   ,   B   ,   red   ,   dev-123   
+      varun naidu      ,       665        ,   59   ,   52   ,   99   ,   59+52+99   ,   70.0   ,   Pass   ,   None   ,   4.4   ,   18   ,   B   ,   blue   ,   None   
+     Pooja Patel      ,     00666     ,   44   ,   95   ,   85   ,   224   ,   74.67   ,   Pass   ,   15-Jul-2020   ,   6.3   ,   17   ,   B+   ,   blue   ,   0D029854   
+     Akash Naidu      ,       667        ,   52   ,   31   ,   None   ,   52+31+None   ,   54.33   ,   Pass   ,"   April 06, 2021   ",   None   ,   18   ,   Average   ,   black   ,   None   
+     HARIKA PATEL     ,   668   ,   68   ,   94   ,   107   ,   228   ,   76.0   ,   Pass   ,   10/12/2020   ,   4.6   ,   17   ,   A   ,   yellow   ,   D33A3D18   
+      anita rao      ,   669   ,   138   ,   96   ,   None   ,   138+96+None   ,   61.33   ,   Pass   ,   09/01/2023   ,   2.8   ,   16   ,   Good   ,   green   ,   None   
+     VARUN RAO     ,   670   ,   74   ,   81   ,   None   ,   242   ,   80.67   ,   Pass   ,   11-20-2019   ,   6.5   ,   9   ,   A    ,   blue   ,   1630A7A0   
+     SURESH RAO     ,    STU-0671    ,   76   ,   91   ,   -24   ,   N/A   ,   75.0   ,   Pass   ,   24/08/2024   ,    two    ,   50   ,   Good   ,   yellow   ,   dev-123   
+     VIKRAM NAIDU     ,   None   ,   75   ,   52   ,   62   ,   189   ,   63.0   ,   Pass   ,   26-Nov-2024   ,   0.6   ,   16.5   ,   Good   ,   red   ,   EBE0C3FA   
+     Sneha Sharma      ,   673   ,   AB   ,   55   ,   89   ,   AB+55+89   ,   61.33   ,   Pass   ,"   January 24, 2022   ",   None   ,   19   ,   B   ,   black   ,   A0F0F07B   
+     SNEHA SHARMA     ,     00674     ,   86   ,   97   ,   84   ,   267   ,   89.0   ,   Pass   ,   08-17-2020   ,   0.5   ,   19   ,   Distinction   ,   white   ,   D63160BA   
+     VARUN SHARMA     ,    STU-0675    ,   60   ,   84   ,   39   ,   60+84+39   ,   None   ,   Pass   ,   2019-04-23   ,     4.0 hrs    ,   16   ,   None   ,   red   ,   1010D8E9   
+     MEENA GUPTA     ,     00676     ,   98   ,   35   ,   76   ,   209   ,   69.67   ,   Pass   ,   2019-12-08   ,   0.9   ,   17   ,   B+   ,   blue   ,   id_missing   
+     SANJANA REDDY     ,   None   ,   93   ,   -18   ,   52   ,   93+-18+52   ,   69.67   ,   Pass   ,   2021-02-11   ,   0.9   ,     17 years    ,   B+   ,   blue   ,   D9F96208   
+     SHIVA AGARWAL     ,     id_678    ,   90   ,   -18   ,   50   ,   N/A   ,   63.67%   ,   Pass   ,   2020-01-24   ,   None   ,   11   ,   B   ,   red   ,   1A17E9A8   
+     SANJANA RAO     ,     00679     ,   93   ,   72   ,   42   ,   93+72+42   ,   69.0   ,   Pass   ,   25-Dec-2024   ,   None   ,   18   ,   Good   ,   blue   ,   1370F432   
+     ANITA PATEL     ,     id_680    ,   67   ,   44   ,   62   ,   67+44+62   ,   129.61   ,   Pass   ,   None   ,    0    ,   19   ,   Average   ,   yellow   ,   A53E0BC2   
+     MEENA PATEL     ,    STU-0681    ,   87   ,   89   ,   53   ,   87+89+53   ,   None   ,   Pass   ,   08-11-2019   ,     7.9 hrs    ,   18   ,   Distinction   ,   blue   ,   E039F4FE   
+     Kiran Goud      ,     00682     ,   -10   ,   41   ,   40   ,   -10+41+40   ,   45.67   ,   Pass   ,   08-27-2021   ,   0.0   ,   17   ,   D   ,   black   ,   61D9F13A   
+     Divya Goud      ,     00683     ,   55   ,   78   ,   46   ,   300/300   ,   59.67   ,   Pass   ,   2022-02-01   ,   4.9   ,   17   ,   C   ,   yellow   ,   54A18408   
+     Meena Sharma      ,     S684X     ,   38   ,   ?   ,   107   ,   206   ,   68.67   ,   Pass   ,   22/01/2023   ,   4.9   ,     18 years    ,   B+   ,   green   ,   56264BA7   
+      shiva agarwal      ,    STU-0685    ,   96   ,   67   ,   76   ,   96+67+76   ,   79.67   ,   Pass   ,   None   ,   3.7   ,   None   ,   Distinction   ,   blue   ,   44F77FC6   
+     ROHIT GUPTA     ,    STU-0686    ,   96   ,   74   ,   54   ,   96+74+54   ,   74.67   ,   Pass   ,   2024-01-08   ,   3.2   ,   18   ,   B+   ,   blue   ,   5A181DAE   
+     Prasad Varma      ,   687   ,   58   ,   64   ,   50   ,   172   ,   incomplete   ,   Pass   ,   2018-06-14   ,   None   ,   18   ,   None   ,   black   ,   8FB3E5D1   
+      anita rao      ,       688        ,   89   ,   59   ,   41   ,   89+59+41   ,   63.0   ,   Pass   ,   06-22-2023   ,   32.2   ,   19   ,   Good   ,   black   ,   FE85DD70   
+      sanjana rao      ,     00689     ,   43   ,   59   ,   66   ,   43+59+66   ,   56.0   ,   Pass   ,   16-Sep-2023   ,   5.8   ,   19   ,   C   ,   white   ,   73124343   
+     ANITA GOUD     ,     00690     ,   37   ,   35   ,   71   ,   37+35+71   ,   47.67   ,   Pass   ,   29-Nov-2018   ,   1.1   ,   7   ,   D   ,   red   ,   BCBE3D26   
+     SHIVA VARMA     ,    STU-0691    ,   65   ,   96   ,   46   ,   65+96+46   ,   -11.3   ,   Pass   ,   07/02/2019   ,   1.6   ,   18   ,   None   ,   red   ,   D4952E21   
+     VARUN AGARWAL     ,    STU-0692    ,   74   ,   36   ,   77   ,   74+36+77   ,   62.33   ,   Pass   ,   2019-02-18   ,   1.4   ,   11   ,   Good   ,   red   ,   949A909E   
+      divya khan      ,   None   ,   70   ,   81   ,   57   ,   70+81+57   ,   69.33   ,   Pass   ,   14/02/2018   ,     2.1 hrs    ,   19   ,   Good   ,   black   ,   41F68DE0   
+     Sanjana Reddy      ,    STU-0694    ,   58   ,   43   ,   70   ,   171   ,   135.77   ,   Pass   ,   03-03-2024   ,    0    ,     19 years    ,   Average   ,   None   ,   1ADB3A59   
+     DIVYA GOUD     ,     id_695    ,   40   ,   -18   ,   76   ,   40+-18+76   ,   53.33   ,   Pass   ,   03-Mar-2018   ,   0.9   ,   None   ,   Average   ,   None   ,   0BDCE4B1   
+     Rahul Gupta      ,     id_696    ,   38   ,   50   ,   47   ,   38+50+47   ,   106.87   ,   Pass   ,   03/10/2024   ,   6.9   ,   63   ,   Below Avg   ,   None   ,   634FEBDF   
+     Suresh Goud      ,     S697X     ,   40   ,   64   ,   42   ,   error   ,   48.67   ,   Pass   ,"   May 17, 2020   ",    0    ,   19   ,   Below Avg   ,   red   ,   AF696364   
+      akash rao      ,     id_698    ,   85   ,   95   ,   42   ,   85+95+42   ,   74.0   ,   Pass   ,   31-Jan-2022   ,   1.3   ,   19   ,   B+   ,   blue   ,   3BAAF7BC   
+      rahul gupta      ,     id_699    ,   96   ,   31   ,   None   ,   187   ,   -22.47   ,   Pass   ,   19/01/2018   ,   5.4   ,   11   ,   Good   ,   white   ,   81E4B42E   
+     Vikram Khan      ,       700        ,   91   ,   64   ,   31   ,   186   ,   62.0   ,   Pass   ,"   December 31, 2018   ",   0.3   ,   19   ,   B   ,   black   ,   0B6D34A0   
+      harika sharma      ,     00701     ,   42   ,   49   ,   45   ,   42+49+45   ,   45.33   ,   Pass   ,   10-11-2024   ,    two    ,   None   ,   D   ,   yellow   ,   0000   
+      vikram reddy      ,     id_702    ,   60   ,   39   ,   AB   ,   60+39+AB   ,   45.67   ,   Pass   ,   2021-02-14   ,   5.6   ,   16.5   ,   Below Avg   ,   white   ,   DB3B6D34   
+     SNEHA AGARWAL     ,     S703X     ,   138   ,   54   ,   67   ,   N/A   ,   68.67   ,   Pass   ,   03/08/2019   ,   1.7   ,   16   ,   B+   ,   green   ,   E051D6AE   
+     ROHIT PATEL     ,    STU-0704    ,   79   ,   95   ,   83   ,   N/A   ,   85.67   ,   Pass   ,   30/06/2019   ,     0.3 hrs    ,   6   ,   A+   ,   black   ,   096E86CE   
+     Varun Naidu      ,     id_705    ,   78   ,   54   ,   85   ,   78+54+85   ,   72.33   ,   Pass   ,"   September 26, 2022   ",   2.9   ,   10   ,   None   ,   black   ,   id_missing   
+     Akash Gupta      ,     S706X     ,   39   ,   83   ,   107   ,   N/A   ,   65.33   ,   Pass   ,   06-30-2024   ,   0.8   ,     17 years    ,   B   ,   unknown   ,   70DD86F4   
+     MEENA GOUD     ,       707        ,   60   ,   62   ,   AB   ,   185   ,   -21.2   ,   Pass   ,"   February 24, 2018   ",   0.9   ,   5   ,   None   ,   white   ,   593F3930   
+     AKASH KHAN     ,    STU-0708    ,   53   ,   65   ,   38   ,   53+65+38   ,   52.0   ,   Pass   ,   17/02/2020   ,    two    ,   16   ,   Average   ,   white   ,   C16ADADD   
+      divya sharma      ,     S709X     ,   54   ,   43   ,   37   ,   134   ,   44.67   ,   Pass   ,   11/02/2018   ,   2.4   ,   None   ,   None   ,   red   ,   3D59F5DC   
+      kiran gupta      ,     id_710    ,   46   ,   94   ,   36   ,   176   ,   58.67   ,   Pass   ,   None   ,     4.2 hrs    ,   7   ,   Average   ,   None   ,   9FBABED3   
+      teja khan      ,     00711     ,   81   ,   83   ,   65   ,   81+83+65   ,   76.33   ,   Pass   ,"   August 19, 2018   ",   5.4   ,   18   ,   A+   ,   red   ,   6AADC85F   
+     Kiran Sharma      ,    STU-0712    ,   35   ,   81   ,   47   ,   35+81+47   ,   54.33   ,   Pass   ,   29/03/2019   ,   4.7   ,   16   ,   Average   ,   red   ,   2CA78A40   
+     Suresh Naidu      ,    STU-0713    ,   138   ,   ?   ,   32   ,   138+?+32   ,   37.33   ,   Fail   ,   07/09/2024   ,   1.2   ,   19   ,   Fail   ,   black   ,   6B8ED649   
+     VARUN NAIDU     ,     00714     ,   138   ,   70   ,   57   ,   138+70+57   ,   75.0   ,   Pass   ,"   March 26, 2022   ",   1.4   ,   19   ,   Good   ,   white   ,   9988BC86   
+     DIVYA NAIDU     ,    STU-0715    ,   72   ,   35   ,   None   ,   72+35+None   ,   68.67%   ,   Pass   ,   2021-10-13   ,   7.0   ,   17   ,   Good   ,   None   ,   D0F39DA3   
+      varun goud      ,     id_716    ,   71   ,   54   ,   107   ,   71+54+107   ,   66.0   ,   Pass   ,   07-Jan-2022   ,   4.5   ,   None   ,   Good   ,   green   ,   D26FA677   
+     Rohit Agarwal      ,    STU-0717    ,   45   ,   42   ,   50   ,   137   ,   45.67   ,   Pass   ,   25-Feb-2021   ,   7.0   ,   19   ,   D   ,   None   ,   None   
+      anita rao      ,     id_718    ,   37   ,   ?   ,   57   ,   131   ,   43.67   ,   Pass   ,   2024-09-05   ,     3.0 hrs    ,     17 years    ,   Below Avg   ,   white   ,   64211FF5   
+      varun sharma      ,     00719     ,   67   ,   50   ,   83   ,   200   ,   66.67%   ,   Pass   ,"   May 01, 2021   ",   None   ,   16   ,   Good   ,   green   ,   51E083AD   
+     DEVIKA KHAN     ,   720   ,   40   ,   97   ,   AB   ,   40+97+AB   ,   73.33   ,   Pass   ,   30-May-2020   ,     4.2 hrs    ,   19   ,   B   ,   black   ,   D70E838F   
+     Prasad Agarwal      ,     00721     ,   84   ,   54   ,   94   ,   232   ,   77.33   ,   Pass   ,   2018-03-26   ,   2.6   ,   17   ,   None   ,   blue   ,   2CB1F313   
+     DEVIKA REDDY     ,     id_722    ,   44   ,   97   ,   107   ,   191   ,   63.67   ,   Pass   ,   None   ,   3.8   ,     18 years    ,   B   ,   yellow   ,   0106F0CD   
+     POOJA PATEL     ,       723        ,   39   ,   74   ,   AB   ,   39+74+AB   ,   51.67   ,   Pass   ,"   February 18, 2018   ",   4.0   ,   44   ,   Average   ,   red   ,   4FB72468   
+     DIVYA REDDY     ,     00724     ,   57   ,   89   ,   86   ,   57+89+86   ,   -4.19   ,   Pass   ,"   March 14, 2021   ",   None   ,   19   ,   A    ,   yellow   ,   BBADDFE7   
+      rahul varma      ,       725        ,   44   ,   41   ,   78   ,   44+41+78   ,   54.33%   ,   Pass   ,   10/03/2018   ,   2.5   ,   18   ,   Average   ,   blue   ,   4E599658   
+     DEVIKA VARMA     ,       726        ,   78   ,   61   ,   83   ,   78+61+83   ,   74.0   ,   Pass   ,   2024-12-01   ,   None   ,   16   ,   B+   ,   N/A   ,   AE760034   
+     Vikram Goud      ,     id_727    ,   36   ,   42   ,   -24   ,   36+42+-24   ,   39.0   ,   Fail   ,"   August 29, 2022   ",   7.3   ,   None   ,   Poor   ,   black   ,   126C0D51   
+     DEVIKA RAO     ,     id_728    ,   47   ,   60   ,   82   ,   189   ,   118.55   ,   Pass   ,   18-May-2022   ,   25.5   ,   19.5   ,   None   ,   green   ,   266516FD   
+     ANITA REDDY     ,   729   ,   138   ,   49   ,   73   ,   138+49+73   ,   65.33   ,   Pass   ,"   January 04, 2024   ",   2.5   ,   16   ,   B   ,   None   ,   65D12F3C   
+     Prasad Patel      ,     S730X     ,   None   ,   47   ,   76   ,   159   ,   absent   ,   Pass   ,"   February 13, 2023   ",    0    ,   17   ,   Average   ,   blue   ,   9A67F040   
+      teja gupta      ,    STU-0731    ,   99   ,   89   ,   82   ,   270   ,   90.0   ,   Pass   ,"   October 12, 2020   ",   5.4   ,   17   ,   None   ,   black   ,   62FA68C9   
+     HARIKA AGARWAL     ,     00732     ,   138   ,   None   ,   75   ,   138+None+75   ,   88.0   ,   Pass   ,"   March 22, 2019   ",   2.6   ,   10   ,   A+   ,   black   ,   F43379D0   
+     POOJA AGARWAL     ,     id_733    ,   None   ,   ?   ,   42   ,   128   ,   42.67   ,   Pass   ,   2024-03-18   ,   7.9   ,   8   ,   D   ,   white   ,   2DB318BB   
+      sanjana rao      ,     00734     ,   43   ,   61   ,   66   ,   170   ,   56.67   ,   Pass   ,"   November 02, 2021   ",   2.6   ,   18   ,   C   ,   red   ,   2A51CB9E   
+     SNEHA PATEL     ,     S735X     ,   49   ,   None   ,   53   ,   error   ,   58.0   ,   Pass   ,   13/11/2023   ,   31.4   ,   16   ,   C   ,   green   ,   D4BA2C70   
+      kiran patel      ,     S736X     ,   58   ,   31   ,   AB   ,   58+31+AB   ,   40.0   ,   Pass   ,   19/09/2018   ,   4.8   ,   17   ,   Poor   ,   blue   ,   CB21B97C   
+     Rahul Naidu      ,       737        ,   -10   ,   89   ,   43   ,   -10+89+43   ,   68.0   ,   Pass   ,   2023-01-23   ,   6.4   ,   16   ,   B   ,   None   ,   D0513932   
+     Sneha Rao      ,    STU-0738    ,   69   ,   52   ,   39   ,   160   ,   53.33   ,   Pass   ,   15-Jun-2020   ,   None   ,   19   ,   Average   ,   yellow   ,   4EACB062   
+     SHIVA PATEL     ,   739   ,   83   ,   60   ,   64   ,   error   ,   69.0   ,   Pass   ,   30/12/2020   ,   3.4   ,   57   ,   None   ,   green   ,   88135E81   
+      shiva patel      ,     00740     ,   None   ,   34   ,   54   ,   None+34+54   ,   61.33   ,   Pass   ,   16-Mar-2024   ,   None   ,   63   ,   B   ,   red   ,   55E36CD8   
+      varun goud      ,    STU-0741    ,   AB   ,   63   ,   32   ,   AB+63+32   ,   63.0   ,   Pass   ,   06-Apr-2022   ,     0.1 hrs    ,   18   ,   None   ,   black   ,   518C309D   
+     Anita Patel      ,   742   ,   84   ,   39   ,   46   ,   84+39+46   ,   56.33   ,   Pass   ,   02-Apr-2018   ,     7.2 hrs    ,   19   ,   Average   ,   blue   ,   7E4E855D   
+     Rahul Rao      ,   None   ,   43   ,   31   ,   AB   ,   115   ,   38.33   ,   Fail   ,   05-07-2018   ,   None   ,   19   ,   Poor   ,   green   ,   1929BB6F   
+     TEJA KHAN     ,    STU-0744    ,   138   ,   40   ,   83   ,   138+40+83   ,   None   ,   Pass   ,   2018-03-21   ,   None   ,     18 years    ,   Good   ,   yellow   ,   1E21B550   
+      lokesh rao      ,     id_745    ,   69   ,   79   ,   53   ,   69+79+53   ,   67.0   ,   Pass   ,   01-22-2023   ,   None   ,     16 years    ,   B   ,   red   ,   None   
+     Sneha Patel      ,     00746     ,   35   ,   60   ,   58   ,   check   ,   -24.37%   ,   Pass   ,"   September 09, 2020   ",   2.7   ,   None   ,   C   ,   red   ,   1B2D9C77   
+     ANITA VARMA     ,    STU-0747    ,   74   ,   85   ,   72   ,   231   ,   77.0   ,   Pass   ,   07-04-2020   ,    0    ,     18 years    ,   A+   ,   white   ,   CABE20B6   
+     VARUN KHAN     ,     S748X     ,   138   ,   38   ,   54   ,   190   ,   63.33   ,   Pass   ,   08-Dec-2024   ,     0.1 hrs    ,   9   ,   B   ,   green   ,   4CFDA4D5   
+      harika agarwal      ,   749   ,   AB   ,   50   ,   AB   ,   AB+50+AB   ,   65.0   ,   Pass   ,   25/11/2019   ,   1.8   ,   16   ,   B+   ,   yellow   ,   764580EA   
+     SNEHA PATEL     ,    STU-0750    ,   94   ,   57   ,   94   ,   94+57+94   ,   -7.38   ,   Pass   ,   25/01/2018   ,    two    ,   17   ,   None   ,   red   ,   A668FDB0   
+     DEVIKA RAO     ,     id_751    ,   138   ,   150   ,   57   ,   138+150+57   ,   82.0   ,   Pass   ,   2018-06-05   ,   None   ,   None   ,   A    ,   N/A   ,   9FD4D867   
+     Pooja Rao      ,     00752     ,   45   ,   36   ,   45   ,   45+36+45   ,   -22.89   ,   Pass   ,   12-18-2022   ,   4.9   ,   16.5   ,   D   ,   None   ,   CC0BF2DD   
+     Teja Sharma      ,     00753     ,   138   ,   45   ,   107   ,   check   ,   56.33   ,   Pass   ,"   April 03, 2022   ",   -0.2   ,     18 years    ,   C   ,   unknown   ,   29BDFC0F   
+      naveen sharma      ,     00754     ,   AB   ,   33   ,   87   ,   AB+33+87   ,   null   ,   Pass   ,   21/05/2023   ,   -0.9   ,   10   ,   Good   ,   black   ,   01B74FBD   
+     NAVEEN AGARWAL     ,     id_755    ,   None   ,   ?   ,   56   ,   153   ,   51.0   ,   Pass   ,   None   ,   1.0   ,   18   ,   None   ,   black   ,   E39B297C   
+      rohit rao      ,   756   ,   69   ,   69   ,   82   ,   69+69+82   ,   73.33   ,   Pass   ,   2020-12-16   ,   1.5   ,   18   ,   B   ,   white   ,   9395495F   
+     MEENA GUPTA     ,     00757     ,   None   ,   ?   ,   71   ,   None+?+71   ,   -23.88   ,   Pass   ,"   June 17, 2022   ",   3.7   ,   19   ,   B+   ,   green   ,   48F71F33   
+     POOJA SHARMA     ,   758   ,   39   ,   81   ,   88   ,   208   ,   69.33   ,   Pass   ,   None   ,   6.0   ,   16   ,   B   ,   yellow   ,   04D39D38   
+      vikram goud      ,    STU-0759    ,   138   ,   81   ,   76   ,   138+81+76   ,   -13.55   ,   Pass   ,   11-08-2021   ,   7.2   ,   16.5   ,   Good   ,   None   ,   E563AFEC   
+     ROHIT GUPTA     ,     S760X     ,   96   ,   65   ,   AB   ,   96+65+AB   ,   74.67   ,   Pass   ,   None   ,   6.7   ,   None   ,   B+   ,   red   ,   DA8395FE   
+     Divya Gupta      ,   None   ,   38   ,   67   ,   66   ,   38+67+66   ,   -16.47   ,   Pass   ,   None   ,    two    ,   18   ,   Average   ,   red   ,   46294EA7   
+     Sneha Gupta      ,   762   ,   76   ,   79   ,   35   ,   76+79+35   ,   63.33   ,   Pass   ,"   November 11, 2021   ",   3.5   ,   19   ,   B   ,   black   ,   FD284D45   
+     PRASAD NAIDU     ,   763   ,   -10   ,   ?   ,   36   ,   -10+?+36   ,   None   ,   Pass   ,   None   ,     1.6 hrs    ,   None   ,   C   ,   white   ,   30F1A7BD   
+     SHIVA KHAN     ,     S764X     ,   74   ,   150   ,   54   ,   74+150+54   ,   -5.45   ,   Pass   ,   15-Jan-2020   ,   2.1   ,   None   ,   Good   ,   black   ,   4CDB378D   
+     Lokesh Khan      ,     00765     ,   73   ,   150   ,   62   ,   226   ,   75.33   ,   Pass   ,"   July 06, 2019   ",   4.0   ,   16   ,   A+   ,   None   ,   None   
+     Divya Rao      ,       766        ,   -10   ,   36   ,   84   ,   168   ,   56.0   ,   Pass   ,   2021-03-22   ,   0.5   ,   8   ,   Average   ,   black   ,   14E6B90C   
+     AKASH GUPTA     ,       767        ,   66   ,   56   ,   87   ,   66+56+87   ,   69.67   ,   Pass   ,"   October 01, 2019   ",   1.7   ,   17   ,   None   ,   blue   ,   125676A0   
+     LOKESH SHARMA     ,     id_768    ,   85   ,   43   ,   None   ,   85+43+None   ,   54.67   ,   Pass   ,   08-25-2018   ,   7.5   ,   18   ,   Average   ,   red   ,   7683C5E1   
+     Prasad Naidu      ,     S769X     ,   72   ,   150   ,   86   ,   192   ,   64.0   ,   Pass   ,   09-24-2020   ,     3.7 hrs    ,   17.5   ,   Good   ,   white   ,   103BC1CD   
+      devika goud      ,     S770X     ,   57   ,   150   ,   41   ,   57+150+41   ,   60.67   ,   Pass   ,"   October 04, 2023   ",    0    ,   18   ,   B+   ,   blue   ,   A251899F   
+     Shiva Reddy      ,     id_771    ,   138   ,   31   ,   45   ,   138+31+45   ,   57.67   ,   Pass   ,   06-27-2023   ,   0.1   ,   19   ,   C   ,   white   ,   None   
+      meena agarwal      ,       772        ,   49   ,   91   ,   72   ,   212   ,   None   ,   Pass   ,   2021-12-30   ,   2.0   ,   19   ,   B+   ,   white   ,   D0E85215   
+      sneha goud      ,    STU-0773    ,   59   ,   50   ,   -24   ,   59+50+-24   ,   48.33   ,   Pass   ,   27-Nov-2023   ,   6.9   ,   16   ,   D   ,   None   ,   5485DA74   
+     LOKESH NAIDU     ,     00774     ,   51   ,   50   ,   80   ,   181   ,   60.33   ,   Pass   ,   2021-04-22   ,   1.3   ,   18   ,   None   ,   green   ,   454E14E3   
+     KIRAN REDDY     ,     00775     ,   138   ,   39   ,   None   ,   138+39+None   ,   62.33   ,   Pass   ,   None   ,   3.3   ,   17   ,   B+   ,   black   ,   97A64803   
+      meena goud      ,    STU-0776    ,   138   ,   87   ,   107   ,   138+87+107   ,   69.67   ,   Pass   ,"   June 30, 2023   ",   0.1   ,   17   ,   Good   ,   blue   ,   82D07EE9   
+     SNEHA SHARMA     ,    STU-0777    ,   73   ,   68   ,   AB   ,   73+68+AB   ,   71.67   ,   Pass   ,   05-06-2021   ,   3.8   ,   9   ,   B   ,   red   ,   XXXXXXXX   
+      divya khan      ,       778        ,   85   ,   34   ,   -24   ,   85+34+-24   ,   69.0   ,   Pass   ,   26-Oct-2021   ,   0.2   ,   17   ,   None   ,   white   ,   6FC580E9   
+     NAVEEN PATEL     ,     id_779    ,   40   ,   94   ,   33   ,   167   ,   55.67%   ,   Pass   ,   2019-01-08   ,   6.6   ,   19   ,   C   ,   yellow   ,   7AB5245C   
+      lokesh khan      ,    STU-0780    ,   41   ,   42   ,   96   ,   179   ,   incomplete   ,   Pass   ,   2022-03-01   ,   6.6   ,   17   ,   C   ,   blue   ,   F5DC917C   
+      sanjana reddy      ,     id_781    ,   85   ,   82   ,   58   ,   225   ,   75.0   ,   Pass   ,   02-27-2024   ,   6.3   ,   16   ,   B   ,   black   ,   AC6E8043   
+      lokesh khan      ,   782   ,   76   ,   74   ,   58   ,   76+74+58   ,   69.33   ,   Pass   ,   28-Apr-2020   ,   2.3   ,   19   ,   None   ,   None   ,   7CE0EF31   
+     Rohit Rao      ,     00783     ,   98   ,   150   ,   57   ,   98+150+57   ,   72.0   ,   Pass   ,   07/09/2021   ,   6.7   ,   None   ,   B+   ,   green   ,   4BA6A39B   
+     Divya Naidu      ,       784        ,   49   ,   65   ,   73   ,   49+65+73   ,   62.33   ,   Pass   ,   05-11-2024   ,   4.3   ,   19   ,   B+   ,   red   ,   2A39681F   
+     NAVEEN GUPTA     ,     00785     ,   63   ,   89   ,   -24   ,   63+89+-24   ,   61.67   ,   Pass   ,   08-Mar-2024   ,   35.1   ,   18   ,   B+   ,   green   ,   0F897940   
+     KIRAN NAIDU     ,       786        ,   67   ,   40   ,   38   ,   67+40+38   ,   48.33   ,   Pass   ,   2019-05-19   ,   5.0   ,   18   ,   Below Avg   ,   yellow   ,   AFFB1558   
+     Anita Rao      ,   787   ,   -10   ,   ?   ,   34   ,   300/300   ,   62.33   ,   Pass   ,   04-Dec-2019   ,   None   ,     19 years    ,   None   ,   blue   ,   None   
+     SNEHA AGARWAL     ,     00788     ,   -10   ,   150   ,   85   ,   205   ,   68.33   ,   Pass   ,   21-Sep-2023   ,   1.1   ,   18   ,   B   ,   None   ,   410D997A   
+      teja reddy      ,   789   ,   63   ,   150   ,   79   ,   63+150+79   ,   74.33   ,   Pass   ,"   November 11, 2018   ",   5.9   ,   17   ,   Good   ,   blue   ,   FA6F1303   
+     Pooja Naidu      ,       790        ,   72   ,   84   ,   AB   ,   72+84+AB   ,   66.67   ,   Pass   ,"   July 04, 2024   ",   2.0   ,   47   ,   Good   ,   black   ,   B0889785   
+     LOKESH AGARWAL     ,    STU-0791    ,   91   ,   55   ,   107   ,   91+55+107   ,   -24.62   ,   Pass   ,   06-Nov-2020   ,   4.8   ,     18 years    ,   Good   ,   blue   ,   EDC2372C   
+     NAVEEN KHAN     ,     00792     ,   61   ,   97   ,   57   ,   61+97+57   ,   71.67   ,   Pass   ,   10/10/2018   ,   3.1   ,   19   ,   Good   ,   None   ,   6E427C1B   
+     TEJA RAO     ,   793   ,   89   ,   ?   ,   51   ,   missing   ,   67.67   ,   Pass   ,"   September 15, 2018   ",   6.8   ,   16   ,   B+   ,   yellow   ,   4DD64B05   
+     MEENA GOUD     ,     S794X     ,   67   ,   81   ,   46   ,   67+81+46   ,   64.67   ,   Pass   ,   07-29-2019   ,    0    ,   None   ,   Good   ,   green   ,   C886DE18   
+     Harika Patel      ,     00795     ,   44   ,   81   ,   AB   ,   213   ,   71.0   ,   Pass   ,   28/07/2019   ,   None   ,   16   ,   B   ,   yellow   ,   BC25B578   
+      akash khan      ,     00796     ,   39   ,   58   ,   86   ,   39+58+86   ,   61.0   ,   Pass   ,   11-08-2020   ,   2.2   ,     17 years    ,   None   ,   white   ,   63405504   
+      kiran rao      ,     00797     ,   72   ,   67   ,   55   ,   72+67+55   ,   incomplete   ,   Pass   ,   02/04/2022   ,   1.6   ,   45   ,   None   ,   blue   ,   276DBBB5   
+     SNEHA RAO     ,     id_798    ,   None   ,   ?   ,   54   ,   None+?+54   ,   57.33   ,   Pass   ,"   February 27, 2019   ",   -3.8   ,   16   ,   C   ,   white   ,   85BF793A   
+     ANITA AGARWAL     ,   799   ,   65   ,   50   ,   39   ,   65+50+39   ,   51.33   ,   Pass   ,   01-29-2022   ,    two    ,   None   ,   C   ,   green   ,   A279FF46   
+      harika goud      ,   800   ,   138   ,   71   ,   74   ,   138+71+74   ,   75.33   ,   Pass   ,"   October 28, 2021   ",   0.2   ,   16   ,   Distinction   ,   N/A   ,   23D021C9   
+     Suresh Khan      ,     00801     ,   86   ,   42   ,   40   ,   86+42+40   ,   56.0%   ,   Pass   ,   28/01/2020   ,   34.1   ,   16   ,   C   ,   black   ,   7113C465   
+     VIKRAM RAO     ,    STU-0802    ,   90   ,   93   ,   82   ,   265   ,   88.33   ,   Pass   ,   2021-01-09   ,   4.2   ,   18   ,   Distinction   ,   yellow   ,   3E9B9517   
+     SNEHA KHAN     ,     00803     ,   AB   ,   46   ,   -24   ,   AB+46+-24   ,   64.0   ,   Pass   ,   24/04/2022   ,   8.0   ,   18   ,   B+   ,   green   ,   1509F7D5   
+     VIKRAM RAO     ,     id_804    ,   63   ,   38   ,   57   ,   63+38+57   ,   52.67   ,   Pass   ,   07/10/2024   ,   33.1   ,   18   ,   C   ,   green   ,   None   
+     Devika Patel      ,       805        ,   42   ,   70   ,   94   ,   error   ,   149.72   ,   Pass   ,   05-Mar-2019   ,   2.1   ,   17   ,   Good   ,   green   ,   4792F496   
+     VIKRAM KHAN     ,     id_806    ,   39   ,   -18   ,   78   ,   147   ,   49.0   ,   Pass   ,"   July 15, 2023   ",   0.9   ,   10   ,   Below Avg   ,   red   ,   02E5D70C   
+     SNEHA GOUD     ,    STU-0807    ,   AB   ,   31   ,   76   ,   170   ,   111.33   ,   Pass   ,   23/07/2018   ,   7.3   ,   8   ,   C   ,   None   ,   636751CC   
+      sanjana patel      ,     00808     ,   81   ,   89   ,   81   ,   81+89+81   ,   83.67   ,   Pass   ,   22/02/2024   ,   -6.2   ,   63   ,   A    ,   white   ,   5ECD55A5   
+     Akash Gupta      ,   809   ,   79   ,   77   ,   83   ,   79+77+83   ,   79.67   ,   Pass   ,   2024-05-21   ,   None   ,   16   ,   Distinction   ,   green   ,   349C9078   
+     NAVEEN SHARMA     ,     S810X     ,   36   ,   -18   ,   107   ,   36+-18+107   ,   61.0   ,   Pass   ,   16-Jun-2023   ,     7.2 hrs    ,   19   ,   B   ,   yellow   ,   B9CA9439   
+      varun agarwal      ,     00811     ,   -10   ,   39   ,   86   ,   186   ,   62.0   ,   Pass   ,   22-Feb-2024   ,   33.0   ,   19   ,   B   ,   None   ,   40AD1594   
+      meena reddy      ,    STU-0812    ,   70   ,   87   ,   76   ,   233   ,   77.67   ,   Pass   ,"   November 03, 2018   ",   3.6   ,   63   ,   Distinction   ,   black   ,   0564674E   
+     Meena Goud      ,   813   ,   -10   ,   89   ,   60   ,   -10+89+60   ,   73.0   ,   Pass   ,   08-15-2022   ,   -2.6   ,   18   ,   B   ,   black   ,   4FBB142A   
+     Teja Varma      ,     id_814    ,   60   ,   50   ,   75   ,   60+50+75   ,   61.67%   ,   Pass   ,   14-Jan-2018   ,   4.7   ,   19   ,   B+   ,   black   ,   33E56C14   
+      akash naidu      ,       815        ,   77   ,   57   ,   55   ,   77+57+55   ,   63.0   ,   Pass   ,   2023-02-04   ,   3.6   ,   18   ,   B+   ,   None   ,   03BB86C7   
+     ROHIT VARMA     ,       816        ,   61   ,   63   ,   34   ,   61+63+34   ,   52.67   ,   Pass   ,   None   ,   3.6   ,   17   ,   C   ,   green   ,   A2261235   
+     VIKRAM GUPTA     ,     00817     ,   -10   ,   150   ,   81   ,   172   ,   57.33   ,   Pass   ,   None   ,     7.5 hrs    ,   17   ,   C   ,   blue   ,   6B698C3C   
+     SNEHA GOUD     ,     id_818    ,   45   ,   88   ,   None   ,   45+88+None   ,   72.0   ,   Pass   ,   24/12/2019   ,   7.9   ,   18   ,   Good   ,   yellow   ,   26BCDC27   
+     ANITA AGARWAL     ,     S819X     ,   72   ,   78   ,   AB   ,   missing   ,   121.77%   ,   Pass   ,   19/02/2020   ,   6.4   ,   19   ,   B+   ,   unknown   ,   A92F209A   
+     SANJANA AGARWAL     ,     S820X     ,   138   ,   46   ,   79   ,   138+46+79   ,   55.0   ,   Pass   ,   None   ,   6.1   ,   16   ,   C   ,   yellow   ,   E9264135   
+     KIRAN RAO     ,    STU-0821    ,   57   ,   89   ,   67   ,   57+89+67   ,   71.0   ,   Pass   ,"   June 13, 2019   ",   30.8   ,   18   ,   None   ,   yellow   ,   29F2DB7D   
+     Divya Gupta      ,       822        ,   81   ,   74   ,   56   ,   81+74+56   ,   70.33   ,   Pass   ,"   March 08, 2020   ",   1.3   ,   18   ,   B   ,   yellow   ,   DE793DFC   
+      divya patel      ,     id_823    ,   80   ,   98   ,   44   ,   80+98+44   ,   74.0   ,   Pass   ,"   December 10, 2018   ",   0.5   ,   16   ,   B+   ,   white   ,   3BE080BE   
+      vikram gupta      ,     00824     ,   46   ,   150   ,   AB   ,   197   ,   65.67   ,   Pass   ,   26-Jul-2021   ,   5.5   ,   18   ,   None   ,   blue   ,   052B595D   
+     Teja Khan      ,   825   ,   47   ,   73   ,   50   ,   47+73+50   ,   -13.07   ,   Pass   ,   28/07/2018   ,   None   ,     16 years    ,   Average   ,   white   ,   F4730C90   
+     TEJA NAIDU     ,     00826     ,   AB   ,   94   ,   75   ,   265   ,   88.33   ,   Pass   ,   10-03-2019   ,   0.4   ,   19   ,   A    ,   green   ,   None   
+      kiran patel      ,   None   ,   138   ,   37   ,   98   ,   error   ,   None   ,   Pass   ,"   August 04, 2021   ",     7.4 hrs    ,   17   ,   A   ,   blue   ,   FFE7DA09   
+      meena varma      ,     id_828    ,   77   ,   72   ,   35   ,   77+72+35   ,   124.96   ,   Pass   ,   04-18-2024   ,   -0.7   ,   19   ,   B+   ,   None   ,   0B8C5E71   
+     LOKESH KHAN     ,       829        ,   39   ,   150   ,   -24   ,   136   ,   45.33   ,   Pass   ,   07-May-2024   ,   2.3   ,   17.5   ,   D   ,   N/A   ,   257238C9   
+     Devika Naidu      ,     id_830    ,   AB   ,   80   ,   91   ,   AB+80+91   ,   80.67   ,   Pass   ,   02/05/2023   ,     5.4 hrs    ,   16   ,   A    ,   yellow   ,   0F592371   
+      pooja agarwal      ,   831   ,   65   ,   53   ,   91   ,   65+53+91   ,   69.67   ,   Pass   ,   07-08-2020   ,   -1.4   ,   17   ,   B+   ,   None   ,   CA2CC05A   
+     POOJA GOUD     ,     id_832    ,   43   ,   53   ,   75   ,   171   ,   57.0   ,   Pass   ,"   September 20, 2022   ",   0.4   ,   19   ,   C   ,   multi   ,   595D35C9   
+     PRASAD VARMA     ,    STU-0833    ,   85   ,   46   ,   42   ,   85+46+42   ,   57.67   ,   Pass   ,   None   ,   2.6   ,   17   ,   C   ,   black   ,   62E0987E   
+     MEENA KHAN     ,     00834     ,   63   ,   None   ,   None   ,   129   ,   43.0   ,   Pass   ,   02-23-2019   ,   None   ,   16   ,   Below Avg   ,   green   ,   None   
+     LOKESH NAIDU     ,       835        ,   74   ,   49   ,   -24   ,   74+49+-24   ,   None   ,   Pass   ,"   October 16, 2022   ",   3.3   ,   17   ,   C   ,   black   ,   CA521790   
+      devika patel      ,     S836X     ,   75   ,   50   ,   37   ,   162   ,   54.0   ,   Pass   ,   20-Oct-2021   ,     5.2 hrs    ,   18   ,   Average   ,   blue   ,   25129850   
+     NAVEEN AGARWAL     ,   None   ,   45   ,   87   ,   73   ,   205   ,   N/A   ,   Pass   ,"   January 04, 2021   ",    0    ,     19 years    ,   Good   ,   white   ,   385555D5   
+     VARUN GUPTA     ,     S838X     ,   57   ,   60   ,   62   ,   57+60+62   ,   59.67   ,   Pass   ,   16-Oct-2024   ,   0.2   ,   18   ,   C   ,   blue   ,   97823394   
+     ROHIT KHAN     ,     00839     ,   35   ,   -18   ,   79   ,   35+-18+79   ,   51.33   ,   Pass   ,   11-27-2023   ,     7.9 hrs    ,   16   ,   Average   ,   white   ,   82DB7290   
+     VIKRAM GOUD     ,     id_840    ,   80   ,   81   ,   40   ,   201   ,   None   ,   Pass   ,   2022-03-26   ,   0.3   ,   54   ,   None   ,   white   ,   0FB8D26B   
+     KIRAN NAIDU     ,     S841X     ,   55   ,   None   ,   57   ,   55+None+57   ,   147.9   ,   Pass   ,"   December 06, 2020   ",     7.7 hrs    ,   18   ,   Average   ,   blue   ,   EED53DE8   
+     Meena Agarwal      ,    STU-0842    ,   138   ,   36   ,   99   ,   205   ,   103.97%   ,   Pass   ,"   August 23, 2024   ",   4.4   ,   18   ,   Good   ,   green   ,   47A131F3   
+      anita agarwal      ,     id_843    ,   AB   ,   57   ,   -24   ,   error   ,   146.63   ,   Pass   ,   2023-01-25   ,   7.7   ,     17 years    ,   B   ,   red   ,   FFA8CFB1   
+     ANITA GOUD     ,     00844     ,   91   ,   150   ,   45   ,   91+150+45   ,   72.0   ,   Pass   ,   24-Jan-2021   ,   0.9   ,   17   ,   B   ,   green   ,   B2CB1C4D   
+     Sneha Gupta      ,     S845X     ,   35   ,   150   ,   None   ,   35+150+None   ,   73.0   ,   Pass   ,   None   ,   3.9   ,   61   ,   B+   ,   multi   ,   None   
+     Suresh Naidu      ,   846   ,   97   ,   34   ,   107   ,   208   ,   69.33   ,   Pass   ,"   April 13, 2018   ",   1.4   ,   18   ,   B   ,   yellow   ,   CF0F7DDA   
+      naveen gupta      ,     S847X     ,   88   ,   34   ,   85   ,   88+34+85   ,   69.0   ,   Pass   ,"   March 15, 2021   ",   0.4   ,   42   ,   Good   ,   yellow   ,   0000   
+     VARUN SHARMA     ,     S848X     ,   138   ,   37   ,   93   ,   138+37+93   ,   73.0   ,   Pass   ,   None   ,     4.9 hrs    ,   16   ,   B+   ,   green   ,   0265F682   
+     POOJA NAIDU     ,       849        ,   74   ,   None   ,   88   ,   255   ,   N/A   ,   Pass   ,   None   ,   1.7   ,   58   ,   A    ,   black   ,   870BBAC2   
+     MEENA REDDY     ,     S850X     ,   49   ,   39   ,   91   ,   49+39+91   ,   59.67%   ,   Pass   ,   10/11/2019   ,   None   ,   10   ,   Average   ,   white   ,   6D4F950E   
+     VARUN REDDY     ,     00851     ,   138   ,   -18   ,   40   ,   162   ,   54.0   ,   Pass   ,   2023-05-23   ,   0.9   ,   18   ,   None   ,   yellow   ,   16DC2D67   
+      harika agarwal      ,   852   ,   81   ,   None   ,   47   ,   81+None+47   ,   55.0   ,   Pass   ,   09-15-2020   ,   2.7   ,   16.5   ,   Average   ,   green   ,   9D7D5652   
+     Meena Varma      ,     00853     ,   87   ,   54   ,   48   ,   87+54+48   ,   63.0   ,   Pass   ,   01-10-2021   ,    two    ,   46   ,   Good   ,   red   ,   None   
+     HARIKA SHARMA     ,    STU-0854    ,   43   ,   95   ,   -24   ,   43+95+-24   ,   74.0   ,   Pass   ,"   October 11, 2024   ",   3.5   ,   18.5   ,   B   ,   black   ,   id_missing   
+     MEENA VARMA     ,     id_855    ,   86   ,   79   ,   107   ,   86+79+107   ,   73.33   ,   Pass   ,   27-May-2022   ,   None   ,   16   ,   B   ,   blue   ,   DF124EEE   
+     RAHUL RAO     ,     S856X     ,   91   ,   96   ,   35   ,   missing   ,   74.0   ,   Pass   ,   None   ,   5.2   ,   16   ,   Good   ,   green   ,   F0FAAA5D   
+     ANITA RAO     ,   None   ,   60   ,   78   ,   33   ,   60+78+33   ,   57.0   ,   Pass   ,   2022-11-25   ,   None   ,   17   ,   C   ,   green   ,   18BC9FEB   
+     Vikram Gupta      ,   858   ,   75   ,   65   ,   58   ,   75+65+58   ,   66.0   ,   Pass   ,   03-31-2021   ,   2.6   ,     17 years    ,   Good   ,   white   ,   A27F5F62   
+      kiran goud      ,       859        ,   None   ,   150   ,   88   ,   None+150+88   ,   84.67   ,   Pass   ,   07-20-2020   ,   None   ,   65   ,   A    ,   black   ,   F4D08C5B   
+     PRASAD GUPTA     ,   None   ,   97   ,   70   ,   46   ,   97+70+46   ,   71.0   ,   Pass   ,   26-Nov-2021   ,    0    ,   18   ,   None   ,   yellow   ,   384D58B2   
+      prasad naidu      ,   None   ,   59   ,   91   ,   72   ,   59+91+72   ,   74.0   ,   Pass   ,   27-Nov-2020   ,   5.8   ,   10   ,   B   ,   yellow   ,   F59D5AD2   
+     Divya Reddy      ,     S862X     ,   72   ,   39   ,   107   ,   72+39+107   ,   68.67   ,   Pass   ,"   June 02, 2023   ",    0    ,   19   ,   B   ,   yellow   ,   E8789815   
+     SNEHA REDDY     ,   863   ,   36   ,   50   ,   63   ,   149   ,   None   ,   Pass   ,   09-06-2024   ,   5.0   ,   18   ,   Below Avg   ,   None   ,   8B082A35   
+     SURESH VARMA     ,   864   ,   41   ,   65   ,   37   ,   41+65+37   ,   None   ,   Pass   ,   None   ,   5.9   ,     19 years    ,   D   ,   black   ,   CA365504   
+      vikram agarwal      ,       865        ,   68   ,   ?   ,   42   ,   68+?+42   ,   50.33   ,   Pass   ,   16/12/2024   ,   None   ,   16   ,   None   ,   black   ,   79C6060E   
+      divya agarwal      ,     id_866    ,   51   ,   31   ,   37   ,   51+31+37   ,   39.67   ,   Fail   ,   07-02-2021   ,   0.1   ,   18   ,   F   ,   yellow   ,   XXXXXXXX   
+      varun sharma      ,     S867X     ,   77   ,   42   ,   AB   ,   77+42+AB   ,   71.0   ,   Pass   ,   2021-04-17   ,   None   ,   19   ,   Good   ,   yellow   ,   2ED52CAD   
+      devika varma      ,     S868X     ,   93   ,   82   ,   72   ,   247   ,   82.33%   ,   Pass   ,   17/08/2019   ,     6.5 hrs    ,   19.5   ,   Distinction   ,      ,   None   
+     DEVIKA SHARMA     ,     00869     ,   85   ,   61   ,   68   ,   85+61+68   ,   71.33   ,   Pass   ,   02-Sep-2024   ,     2.2 hrs    ,   17   ,   Good   ,   None   ,   72AF3FB5   
+      kiran varma      ,     S870X     ,   88   ,   45   ,   88   ,   missing   ,   incomplete   ,   Pass   ,   2021-11-22   ,   5.9   ,   17   ,   B+   ,   red   ,   2503FA77   
+      varun khan      ,       871        ,   58   ,   61   ,   73   ,   192   ,   64.0   ,   Pass   ,   None   ,     3.0 hrs    ,   17.5   ,   B+   ,   green   ,   0000   
+     Lokesh Sharma      ,   None   ,   59   ,   61   ,   38   ,   59+61+38   ,   52.67   ,   Pass   ,   None   ,   4.2   ,   18   ,   Average   ,   green   ,   None   
+      anita naidu      ,       873        ,   86   ,   40   ,   AB   ,   86+40+AB   ,   64.0   ,   Pass   ,   2024-01-24   ,   0.5   ,   16   ,   Good   ,   black   ,   DE366CD5   
+      divya agarwal      ,   874   ,   67   ,   39   ,   65   ,   67+39+65   ,   57.0   ,   Pass   ,   2020-08-17   ,   34.1   ,   16   ,   None   ,   black   ,   F8BCC7D1   
+      rahul agarwal      ,     S875X     ,   83   ,   44   ,   57   ,   83+44+57   ,   61.33%   ,   Pass   ,"   September 22, 2024   ",   7.7   ,     17 years    ,   Good   ,   None   ,   54ACC03B   
+      shiva varma      ,     S876X     ,   AB   ,   46   ,   71   ,   AB+46+71   ,   103.47   ,   Pass   ,   20/02/2024   ,   26.6   ,   17.5   ,   C   ,   blue   ,   BD89B256   
+      vikram goud      ,     00877     ,   AB   ,   69   ,   AB   ,   AB+69+AB   ,   79.33   ,   Pass   ,"   April 01, 2024   ",   5.2   ,   17.5   ,   A    ,   red   ,   30A764AD   
+     VARUN REDDY     ,    STU-0878    ,   138   ,   47   ,   71   ,   174   ,   58.0%   ,   Pass   ,   19-Mar-2021   ,   3.7   ,   19   ,   Average   ,   None   ,   BC4A99B5   
+     DIVYA RAO     ,     S879X     ,   60   ,   84   ,   95   ,   60+84+95   ,   79.67   ,   Pass   ,"   March 26, 2020   ",   5.4   ,   17   ,   A+   ,   red   ,   F5D131CF   
+     Pooja Khan      ,     00880     ,   62   ,   54   ,   84   ,   62+54+84   ,   66.67   ,   Pass   ,   2019-02-08   ,    two    ,   19   ,   B   ,   red   ,   CA54B7BE   
+     VARUN GUPTA     ,     00881     ,   83   ,   88   ,   107   ,   missing   ,   None   ,   Pass   ,   None   ,     4.5 hrs    ,   16   ,   Distinction   ,   green   ,   27C8A0C4   
+     SNEHA AGARWAL     ,    STU-0882    ,   83   ,   51   ,   None   ,   83+51+None   ,   61.67   ,   Pass   ,   2018-03-09   ,   0.5   ,   None   ,   B+   ,   blue   ,   D8087BCB   
+     MEENA SHARMA     ,       883        ,   54   ,   59   ,   56   ,   check   ,   56.33   ,   Pass   ,   03-29-2018   ,   None   ,   18   ,   Average   ,   white   ,   B9F3B888   
+     Naveen Agarwal      ,       884        ,   97   ,   150   ,   96   ,   97+150+96   ,   88.67   ,   Pass   ,   03-14-2024   ,   6.2   ,   18.5   ,   Distinction   ,   white   ,   3C234C4E   
+     NAVEEN AGARWAL     ,       885        ,   95   ,   61   ,   42   ,   198   ,   66.0   ,   Pass   ,   11/08/2023   ,   None   ,   18   ,   Good   ,   white   ,   0000   
+      sanjana reddy      ,     id_886    ,   138   ,   ?   ,   74   ,   138+?+74   ,   79.0   ,   Pass   ,"   March 04, 2021   ",   0.1   ,   19   ,   A   ,   green   ,   BA8C4F05   
+      harika naidu      ,       887        ,   None   ,   75   ,   39   ,   None+75+39   ,   49.67   ,   Pass   ,   17/09/2022   ,   5.8   ,   19   ,   D   ,   yellow   ,   61B39EB9   
+     KIRAN PATEL     ,    STU-0888    ,   -10   ,   50   ,   38   ,   135   ,   45.0   ,   Pass   ,   06/10/2021   ,    0    ,   17   ,   Below Avg   ,   yellow   ,   C0F0506F   
+     MEENA GOUD     ,     id_889    ,   85   ,   61   ,   83   ,   229   ,   76.33   ,   Pass   ,   28/12/2023   ,   None   ,   None   ,   A    ,   yellow   ,   64D01227   
+     Rahul Rao      ,       890        ,   90   ,   68   ,   56   ,   214   ,   117.46   ,   Pass   ,   21/12/2023   ,   1.0   ,   17   ,   B+   ,   multi   ,   0303555D   
+     SNEHA RAO     ,     id_891    ,   96   ,   150   ,   63   ,   N/A   ,   66.67   ,   Pass   ,   2022-07-02   ,    0    ,   17   ,   B+   ,   blue   ,   None   
+     POOJA SHARMA     ,    STU-0892    ,   66   ,   -18   ,   30   ,   66+-18+30   ,   149.17   ,   Pass   ,   06-27-2018   ,   2.8   ,   18   ,   C   ,   blue   ,   777EC798   
+     SHIVA RAO     ,       893        ,   64   ,   150   ,   61   ,   64+150+61   ,   57.33   ,   Pass   ,   10-13-2021   ,   2.4   ,   19   ,   Average   ,   black   ,   D7AC950A   
+     Vikram Reddy      ,   894   ,   63   ,   50   ,   96   ,   error   ,   69.67   ,   Pass   ,   08-24-2024   ,    two    ,   None   ,   B   ,   red   ,   9F54B77A   
+     Meena Agarwal      ,     S895X     ,   83   ,   42   ,   107   ,   174   ,   58.0   ,   Pass   ,"   June 26, 2020   ",   36.5   ,     17 years    ,   C   ,   white   ,   dev-123   
+     AKASH GUPTA     ,    STU-0896    ,   79   ,   50   ,   64   ,   missing   ,   64.33   ,   Pass   ,   11-02-2024   ,   4.7   ,   55   ,   None   ,   yellow   ,   55E0F65E   
+      lokesh naidu      ,     00897     ,   64   ,   150   ,   -24   ,   300/300   ,   49.0   ,   Pass   ,   2019-08-09   ,   -7.5   ,   16   ,   D   ,   white   ,   None   
+     Teja Gupta      ,     00898     ,   50   ,   75   ,   47   ,   300/300   ,   -1.38   ,   Pass   ,   2024-11-15   ,   2.8   ,   16   ,   Average   ,   yellow   ,   8278250C   
+     SNEHA NAIDU     ,    STU-0899    ,   74   ,   None   ,   74   ,   184   ,   61.33   ,   Pass   ,   16-Sep-2020   ,   2.0   ,   17   ,   B+   ,   white   ,   929CD3DC   
+     KIRAN GOUD     ,     00900     ,   53   ,   ?   ,   107   ,   53+?+107   ,   62.33   ,   Pass   ,   02-05-2021   ,   5.2   ,   None   ,   Good   ,   red   ,   52771F47   
+     ROHIT REDDY     ,    STU-0901    ,   52   ,   51   ,   None   ,   200   ,   150.93   ,   Pass   ,   10-Dec-2023   ,    two    ,   16   ,   B   ,   white   ,   C64DBB37   
+      rohit reddy      ,   902   ,   35   ,   51   ,   94   ,   300/300   ,   60.0   ,   Pass   ,"   August 27, 2023   ",   None   ,   17   ,   Average   ,   white   ,   AE2B36E2   
+      akash goud      ,    STU-0903    ,   81   ,   -18   ,   30   ,   81+-18+30   ,   129.92   ,   Pass   ,   None   ,   1.8   ,   None   ,   Average   ,   green   ,   None   
+      naveen patel      ,       904        ,   72   ,   ?   ,   87   ,   72+?+87   ,   67.0   ,   Pass   ,   02-Jul-2024   ,   0.6   ,   43   ,   B+   ,   white   ,   F9AFE0D6   
+      sanjana naidu      ,       905        ,   85   ,   31   ,   55   ,   85+31+55   ,   57.0   ,   Pass   ,"   November 14, 2018   ",   6.6   ,   17   ,   C   ,   None   ,   595B05B6   
+      suresh reddy      ,     id_906    ,   97   ,   58   ,   49   ,   97+58+49   ,   139.61   ,   Pass   ,   11-Feb-2022   ,   None   ,   8   ,   Good   ,   blue   ,   C3037EC1   
+     ROHIT GOUD     ,     00907     ,   38   ,   81   ,   AB   ,   missing   ,   123.09   ,   Pass   ,   28/07/2023   ,   3.8   ,   11   ,   Average   ,   black   ,   8B58646C   
+     MEENA REDDY     ,     S908X     ,   35   ,   56   ,   88   ,   missing   ,   59.67%   ,   Pass   ,   05/08/2023   ,   0.3   ,   10   ,   C   ,   white   ,   92548F6F   
+     AKASH GOUD     ,     00909     ,   42   ,   79   ,   70   ,   42+79+70   ,   63.67   ,   Pass   ,"   May 18, 2019   ",   27.2   ,   None   ,   Good   ,   blue   ,   F70860D3   
+      anita rao      ,    STU-0910    ,   63   ,   -18   ,   34   ,   63+-18+34   ,   49.67   ,   Pass   ,   None   ,   2.6   ,   19   ,   D   ,   green   ,   BC416C72   
+     VARUN PATEL     ,     S911X     ,   89   ,   73   ,   107   ,   89+73+107   ,   85.33   ,   Pass   ,   04-29-2018   ,   6.0   ,   18   ,   A   ,   white   ,   96BBF8CE   
+     Lokesh Patel      ,     S912X     ,   138   ,   51   ,   107   ,   134   ,   -23.4   ,   Pass   ,   None   ,   None   ,   17   ,   None   ,   unknown   ,   FBC6E1E8   
+     AKASH GUPTA     ,     00913     ,   66   ,   72   ,   51   ,   66+72+51   ,   63.0%   ,   Pass   ,"   February 14, 2018   ",   1.6   ,   19   ,   B+   ,   red   ,   4CB3A707   
+     PRASAD NAIDU     ,     S914X     ,   44   ,   66   ,   70   ,   180   ,   60.0   ,   Pass   ,   11-10-2018   ,   4.1   ,   19.5   ,   C   ,   multi   ,   0000   
+     MEENA AGARWAL     ,     S915X     ,   68   ,   90   ,   97   ,   255   ,   85.0   ,   Pass   ,   22-Feb-2019   ,   1.0   ,   62   ,   A+   ,   yellow   ,   E84345D7   
+      suresh sharma      ,       916        ,   89   ,   85   ,   98   ,   89+85+98   ,   90.67   ,   Pass   ,"   January 06, 2021   ",   3.5   ,     19 years    ,   A    ,   yellow   ,   A7EC0B01   
+     VARUN SHARMA     ,   917   ,   66   ,   32   ,   40   ,   66+32+40   ,   46.0   ,   Pass   ,"   November 22, 2018   ",   2.5   ,   17   ,   Below Avg   ,   red   ,   B1481B58   
+     VARUN KHAN     ,    STU-0918    ,   84   ,   92   ,   107   ,   84+92+107   ,   87.0   ,   Pass   ,   None   ,     7.3 hrs    ,   17   ,   Distinction   ,   N/A   ,   86DFF915   
+     TEJA AGARWAL     ,     00919     ,   41   ,   48   ,   80   ,   41+48+80   ,   56.33   ,   Pass   ,   10-Jun-2023   ,    two    ,   16   ,   C   ,   N/A   ,   1EAC14FA   
+     DEVIKA RAO     ,       920        ,   42   ,   ?   ,   50   ,   42+?+50   ,   48.0   ,   Pass   ,   03-11-2024   ,   5.6   ,   19   ,   Below Avg   ,   yellow   ,   308F01A7   
+     ANITA SHARMA     ,     id_921    ,   -10   ,   58   ,   55   ,   212   ,   70.67   ,   Pass   ,   03-15-2018   ,   None   ,   19   ,   Good   ,   black   ,   id_missing   
+     Akash Goud      ,     S922X     ,   AB   ,   None   ,   48   ,   AB+None+48   ,   66.0   ,   Pass   ,   05-22-2022   ,   2.6   ,   None   ,   Good   ,   blue   ,   5724E7B8   
+     DEVIKA NAIDU     ,     S923X     ,   93   ,   68   ,   107   ,   93+68+107   ,   83.33   ,   Pass   ,   None   ,   3.3   ,   18.5   ,   Distinction   ,   green   ,   F6CF015C   
+     Divya Patel      ,     00924     ,   88   ,   54   ,   76   ,   88+54+76   ,   null   ,   Pass   ,   None   ,    two    ,   6   ,   Good   ,   white   ,   5F50A63B   
+     TEJA NAIDU     ,   925   ,   85   ,   37   ,   55   ,   300/300   ,   59.0   ,   Pass   ,   19/11/2019   ,   1.9   ,   17   ,   Average   ,   blue   ,   43F9955F   
+     MEENA NAIDU     ,   926   ,   42   ,   87   ,   69   ,   42+87+69   ,   66.0   ,   Pass   ,   19/10/2019   ,   0.7   ,   17   ,   B+   ,   green   ,   C1C7B902   
+      kiran rao      ,     00927     ,   68   ,   45   ,   34   ,   68+45+34   ,   49.0   ,   Pass   ,   None   ,    0    ,   18   ,   None   ,   yellow   ,   A17C19BD   
+      divya patel      ,     00928     ,   -10   ,   30   ,   50   ,   -10+30+50   ,   49.67   ,   Pass   ,"   July 16, 2021   ",   0.8   ,   18   ,   Below Avg   ,   black   ,   902C0F99   
+     SURESH REDDY     ,       929        ,   66   ,   34   ,   33   ,   66+34+33   ,   44.33   ,   Pass   ,"   October 31, 2021   ",   1.0   ,   19   ,   None   ,   N/A   ,   3A7A8275   
+     SNEHA PATEL     ,     00930     ,   80   ,   32   ,   52   ,   80+32+52   ,   54.67   ,   Pass   ,   02/04/2022   ,   4.6   ,   16   ,   C   ,   yellow   ,   410F226B   
+     MEENA AGARWAL     ,     id_931    ,   50   ,   150   ,   44   ,   50+150+44   ,   62.67   ,   Pass   ,"   December 11, 2020   ",   0.5   ,   9   ,   B   ,   green   ,   C0C32075   
+     Teja Reddy      ,       932        ,   71   ,   33   ,   37   ,   141   ,   47.0   ,   Pass   ,   21-Nov-2018   ,   None   ,   18   ,   D   ,   unknown   ,   0E38796B   
+     VIKRAM KHAN     ,     S933X     ,   88   ,   -18   ,   70   ,   88+-18+70   ,   83.67   ,   Pass   ,"   September 18, 2020   ",   None   ,   11   ,   A+   ,   white   ,   430168B1   
+      lokesh reddy      ,   None   ,   48   ,   150   ,   48   ,   48+150+48   ,   140.72   ,   Pass   ,   2023-06-17   ,   None   ,   None   ,   D   ,   blue   ,   3AE0D10D   
+      vikram sharma      ,     S935X     ,   89   ,   50   ,   75   ,   89+50+75   ,   -8.2   ,   Pass   ,   12-18-2019   ,   1.0   ,   49   ,   Good   ,   yellow   ,   1B980755   
+      pooja rao      ,     S936X     ,   82   ,   75   ,   -24   ,   82+75+-24   ,   71.33   ,   Pass   ,   04-Oct-2018   ,   27.6   ,   16   ,   B   ,   blue   ,   AFDE8E76   
+     MEENA PATEL     ,    STU-0937    ,   41   ,   56   ,   97   ,   41+56+97   ,   64.67   ,   Pass   ,   01-Jun-2018   ,   5.1   ,   18   ,   B+   ,   white   ,   0D80ACF7   
+      shiva reddy      ,     id_938    ,   41   ,   95   ,   44   ,   41+95+44   ,   60.0   ,   Pass   ,   08-12-2020   ,     2.2 hrs    ,   19   ,   Average   ,   black   ,   73F99D9D   
+     Divya Gupta      ,       939        ,   67   ,   70   ,   66   ,   67+70+66   ,   67.67   ,   Pass   ,   02-15-2022   ,    two    ,   7   ,   B   ,   black   ,   4763C49C   
+     LOKESH RAO     ,       940        ,   57   ,   150   ,   30   ,   missing   ,   43.0   ,   Pass   ,   16-Sep-2018   ,   1.0   ,   64   ,   Below Avg   ,   yellow   ,   820B6246   
+      meena naidu      ,     S941X     ,   53   ,   38   ,   96   ,   53+38+96   ,   62.33   ,   Pass   ,   None   ,   -4.7   ,   16   ,   B   ,   green   ,   dev-123   
+     SNEHA KHAN     ,   942   ,   138   ,   65   ,   53   ,   138+65+53   ,   57.0   ,   Pass   ,"   May 18, 2020   ",   2.5   ,   None   ,   C   ,   yellow   ,   43A58B05   
+     Vikram Agarwal      ,       943        ,   70   ,   87   ,   56   ,   213   ,   71.0   ,   Pass   ,   06-Apr-2021   ,   -5.0   ,   18   ,   Good   ,   black   ,   C14FD8E2   
+     MEENA PATEL     ,     id_944    ,   63   ,   83   ,   69   ,   63+83+69   ,   71.67   ,   Pass   ,"   November 19, 2019   ",   37.8   ,   19   ,   Good   ,   red   ,   D6664E84   
+     Akash Goud      ,     00945     ,   94   ,   41   ,   92   ,   94+41+92   ,   75.67   ,   Pass   ,   06-Nov-2018   ,   4.9   ,   16   ,   A   ,   red   ,   None   
+     POOJA SHARMA     ,     id_946    ,   36   ,   43   ,   107   ,   169   ,   113.1   ,   Pass   ,   None   ,   2.4   ,   17   ,   C   ,   blue   ,   B1F701AB   
+      rahul gupta      ,     S947X     ,   35   ,   None   ,   65   ,   35+None+65   ,   54.33   ,   Pass   ,   18-Apr-2019   ,   2.0   ,   None   ,   C   ,   white   ,   None   
+      prasad agarwal      ,     S948X     ,   81   ,   82   ,   53   ,   81+82+53   ,   72.0   ,   Pass   ,   13/11/2024   ,   2.6   ,   18   ,   B   ,   blue   ,   None   
+     HARIKA AGARWAL     ,    STU-0949    ,   54   ,   49   ,   None   ,   54+49+None   ,   52.0   ,   Pass   ,   03-24-2020   ,   1.3   ,   18   ,   Average   ,   red   ,   32C58DAA   
+     ANITA GOUD     ,       950        ,   45   ,   45   ,   33   ,   45+45+33   ,   41.0   ,   Pass   ,   04-25-2020   ,   1.4   ,     18 years    ,   None   ,   black   ,   2C7BDFD5   
+     Suresh Naidu      ,       951        ,   -10   ,   150   ,   96   ,   231   ,   77.0   ,   Pass   ,"   March 10, 2021   ",   6.3   ,   16   ,   A+   ,   blue   ,   9E19F2E5   
+     ROHIT KHAN     ,       952        ,   46   ,   85   ,   None   ,   46+85+None   ,   64.67%   ,   Pass   ,   29/10/2019   ,   3.1   ,   19.5   ,   B   ,   yellow   ,   120DC48E   
+     DEVIKA NAIDU     ,     S953X     ,   54   ,   87   ,   AB   ,   error   ,   None   ,   Pass   ,   28-Apr-2024   ,     3.5 hrs    ,   18   ,   A    ,   white   ,   id_missing   
+     Rohit Sharma      ,       954        ,   39   ,   33   ,   78   ,   39+33+78   ,   N/A   ,   Pass   ,"   December 14, 2022   ",   4.8   ,   6   ,   Below Avg   ,   None   ,   0573303F   
+     VIKRAM SHARMA     ,   955   ,   71   ,   33   ,   82   ,   71+33+82   ,   62.0   ,   Pass   ,   14/12/2021   ,   4.7   ,   16   ,   None   ,   white   ,   4BCA23E7   
+     LOKESH GUPTA     ,   956   ,   72   ,   49   ,   52   ,   72+49+52   ,   116.61   ,   Pass   ,   03/11/2022   ,   0.5   ,   17   ,   Average   ,   black   ,   49FACF6F   
+     LOKESH SHARMA     ,     00957     ,   43   ,   39   ,   98   ,   43+39+98   ,   60.0   ,   Pass   ,"   June 18, 2021   ",     6.7 hrs    ,   17.5   ,   Average   ,   blue   ,   B4F6BFAF   
+     AKASH RAO     ,       958        ,   AB   ,   53   ,   82   ,   AB+53+82   ,   74.0   ,   Pass   ,   2018-12-21   ,    0    ,     19 years    ,   None   ,   white   ,   1682032B   
+     Sneha Agarwal      ,    STU-0959    ,   78   ,   150   ,   91   ,   78+150+91   ,   74.67%   ,   Pass   ,   16-Feb-2023   ,    0    ,   19   ,   None   ,   yellow   ,   E387B806   
+      sanjana goud      ,     00960     ,   None   ,   -18   ,   70   ,   None+-18+70   ,   64.67   ,   Pass   ,"   July 18, 2023   ",   6.2   ,   18   ,   Good   ,      ,   FFD6190B   
+      devika gupta      ,     S961X     ,   64   ,   83   ,   86   ,   233   ,   absent   ,   Pass   ,   None   ,     5.7 hrs    ,   16   ,   A   ,   blue   ,   None   
+     TEJA RAO     ,       962        ,   93   ,   50   ,   89   ,   232   ,   77.33   ,   Pass   ,   03-07-2018   ,   26.9   ,   18   ,   A+   ,   yellow   ,   8E7088A4   
+      naveen varma      ,   963   ,   48   ,   67   ,   83   ,   48+67+83   ,   66.0   ,   Pass   ,   30-Mar-2020   ,    0    ,   19   ,   B+   ,   red   ,   None   
+     ANITA VARMA     ,    STU-0964    ,   43   ,   75   ,   99   ,   check   ,   72.33   ,   Pass   ,"   October 03, 2021   ",   2.9   ,   16   ,   None   ,   white   ,   F305179B   
+      vikram varma      ,     00965     ,   74   ,   33   ,   86   ,   300/300   ,   64.33   ,   Pass   ,   06-20-2018   ,   4.8   ,     16 years    ,   Good   ,   yellow   ,   F3AAABF5   
+      prasad reddy      ,    STU-0966    ,   59   ,   None   ,   39   ,   59+None+39   ,   None   ,   Pass   ,   11-26-2024   ,   None   ,   19   ,   B   ,   black   ,   0CD8F898   
+      meena agarwal      ,       967        ,   56   ,   86   ,   69   ,   211   ,   70.33   ,   Pass   ,"   October 22, 2021   ",   6.9   ,   17   ,   B+   ,   green   ,   7E6B9BF3   
+     Shiva Rao      ,     id_968    ,   38   ,   74   ,   36   ,   148   ,   49.33   ,   Pass   ,   04/02/2021   ,   None   ,   None   ,   Below Avg   ,   yellow   ,   6ECC1C76   
+     Lokesh Agarwal      ,    STU-0969    ,   None   ,   49   ,   67   ,   error   ,   58.67   ,   Pass   ,   10-22-2024   ,   None   ,   16   ,   C   ,   blue   ,   8901B234   
+      vikram khan      ,    STU-0970    ,   92   ,   46   ,   90   ,   92+46+90   ,   76.0   ,   Pass   ,   04-14-2020   ,   2.1   ,   11   ,   Distinction   ,   blue   ,   9F5DEEB2   
+     SNEHA SHARMA     ,     S971X     ,   63   ,   33   ,   32   ,   63+33+32   ,   42.67   ,   Pass   ,   None   ,   2.7   ,   55   ,   Below Avg   ,   None   ,   745DB9AA   
+      devika patel      ,   972   ,   71   ,   None   ,   80   ,   71+None+80   ,   64.67   ,   Pass   ,"   March 18, 2019   ",   4.5   ,   18.5   ,   Good   ,   green   ,   D7DBD327   
+     Prasad Agarwal      ,       973        ,   52   ,   32   ,   -24   ,   52+32+-24   ,   53.33   ,   Pass   ,   2024-09-09   ,   5.7   ,   17   ,   Average   ,   yellow   ,   6E1C28DF   
+     Varun Patel      ,    STU-0974    ,   76   ,   87   ,   97   ,   260   ,   None   ,   Pass   ,   12-29-2019   ,   5.3   ,   17   ,   A   ,   green   ,   9726DECE   
+      shiva sharma      ,       975        ,   75   ,   84   ,   67   ,   75+84+67   ,   75.33   ,   Pass   ,   05-24-2022   ,     6.5 hrs    ,   18   ,   A   ,   green   ,   74C85D8C   
+      vikram rao      ,   976   ,   72   ,   33   ,   65   ,   72+33+65   ,   56.67   ,   Pass   ,   11-02-2023   ,    two    ,   56   ,   C   ,   black   ,   A41E8B0C   
+     SNEHA NAIDU     ,     S977X     ,   68   ,   53   ,   70   ,   191   ,   63.67   ,   Pass   ,"   November 02, 2020   ",     6.5 hrs    ,   17   ,   B   ,   white   ,   22AEB450   
+     Lokesh Agarwal      ,       978        ,   51   ,   150   ,   98   ,   51+150+98   ,   70.67   ,   Pass   ,"   January 07, 2023   ",   0.2   ,   17.5   ,   B   ,   blue   ,   dev-123   
+     MEENA GUPTA     ,   979   ,   71   ,   150   ,   42   ,   71+150+42   ,   57.33   ,   Pass   ,"   January 23, 2023   ",    two    ,   18.5   ,   C   ,   blue   ,   9DAAEBBD   
+     Sanjana Khan      ,   980   ,   59   ,   -18   ,   87   ,   59+-18+87   ,   -12.44   ,   Pass   ,   08/05/2019   ,     1.7 hrs    ,   19.5   ,   B   ,   green   ,   350B58ED   
+     TEJA GUPTA     ,     00981     ,   61   ,   ?   ,   107   ,   200   ,   107.11   ,   Pass   ,"   March 29, 2022   ",   1.1   ,   17   ,   B   ,   blue   ,   6FE35B25   
+      varun agarwal      ,     S982X     ,   91   ,   89   ,   59   ,   91+89+59   ,   108.12   ,   Pass   ,   02-17-2021   ,   None   ,   17   ,   A    ,   None   ,   1E8DFBC8   
+     KIRAN SHARMA     ,     S983X     ,   65   ,   89   ,   91   ,   300/300   ,   81.67   ,   Pass   ,   27/08/2020   ,   None   ,   19   ,   A    ,   None   ,   None   
+      naveen gupta      ,       984        ,   40   ,   48   ,   54   ,   142   ,   47.33%   ,   Pass   ,   28/07/2024   ,     0.5 hrs    ,   None   ,   Below Avg   ,   blue   ,   73931DB7   
+      devika gupta      ,     id_985    ,   74   ,   78   ,   56   ,   74+78+56   ,   69.33   ,   Pass   ,   19-Sep-2023   ,   None   ,   5   ,   Good   ,   red   ,   3972CCBE   
+     Teja Rao      ,     00986     ,   46   ,   92   ,   80   ,   46+92+80   ,   None   ,   Pass   ,   None   ,   0.0   ,   19   ,   Good   ,   black   ,   5159E1FA   
+      pooja rao      ,     S987X     ,   AB   ,   -18   ,   AB   ,   AB+-18+AB   ,   74.67   ,   Pass   ,   22-Jun-2018   ,   7.2   ,   18   ,   Good   ,   blue   ,   None   
+     Naveen Goud      ,   None   ,   44   ,   150   ,   107   ,   173   ,   57.67%   ,   Pass   ,   None   ,    two    ,   None   ,   Average   ,   red   ,   45A974C1   
+      sneha goud      ,     S989X     ,   -10   ,   150   ,   AB   ,   -10+150+AB   ,   68.67   ,   Pass   ,   09-16-2018   ,    two    ,   19   ,   B+   ,   yellow   ,   D59F5D94   
+     ROHIT AGARWAL     ,     id_990    ,   AB   ,   -18   ,   None   ,   AB+-18+None   ,   61.0%   ,   Pass   ,"   June 01, 2019   ",   3.3   ,     18 years    ,   Good   ,   white   ,   9848192E   
+     Suresh Gupta      ,    STU-0991    ,   60   ,   60   ,   51   ,   check   ,   57.0   ,   Pass   ,   2019-06-07   ,   2.9   ,   16   ,   Average   ,   yellow   ,   None   
+      devika khan      ,    STU-0992    ,   96   ,   93   ,   83   ,   272   ,   90.67   ,   Pass   ,"   April 02, 2023   ",   7.3   ,     17 years    ,   A   ,   red   ,   F30196E9   
+     SANJANA SHARMA     ,     S993X     ,   80   ,   48   ,   50   ,   80+48+50   ,   59.33   ,   Pass   ,   12-05-2023   ,   0.3   ,   16   ,   Average   ,   green   ,   141C934E   
+     NAVEEN GUPTA     ,     S994X     ,   98   ,   77   ,   45   ,   98+77+45   ,   73.33   ,   Pass   ,   10/02/2024   ,    two    ,   19   ,   B+   ,   green   ,   E6AAE3AE   
+     SHIVA KHAN     ,     00995     ,   36   ,   74   ,   107   ,   36+74+107   ,   66.0   ,   Pass   ,   04-14-2023   ,   5.4   ,   11   ,   None   ,   blue   ,   04AEFE74   
+     Vikram Gupta      ,   None   ,   88   ,   84   ,   60   ,   232   ,   77.33   ,   Pass   ,"   February 13, 2021   ",   7.5   ,   19   ,   A    ,   yellow   ,   6CBE9D3B   
+     Divya Khan      ,     id_997    ,   99   ,   84   ,   71   ,   99+84+71   ,   84.67   ,   Pass   ,   01-19-2024   ,     5.0 hrs    ,   19   ,   A+   ,   None   ,   D1F6409B   
+     Akash Khan      ,     S998X     ,   85   ,   -18   ,   61   ,   193   ,   64.33   ,   Pass   ,   18-Apr-2020   ,   6.4   ,   19   ,   B   ,   green   ,   EEE34F34   
+     Kiran Reddy      ,       999        ,   87   ,   92   ,   -24   ,   87+92+-24   ,   -15.46   ,   Pass   ,   None   ,   -0.7   ,   18   ,   A   ,   yellow   ,   None   
+     SNEHA REDDY     ,     id_1000    ,   AB   ,   76   ,   63   ,   AB+76+63   ,   -23.02   ,   Pass   ,   29/12/2020   ,    two    ,   19.5   ,   B+   ,   black   ,   080C1F85   
+      shiva goud      ,     01001     ,   60   ,   86   ,   38   ,   184   ,   61.33   ,   Pass   ,"   October 30, 2024   ",   3.0   ,   None   ,   Good   ,   green   ,   1000A290   
+     Rohit Khan      ,       1002        ,   63   ,   -18   ,   AB   ,   63+-18+AB   ,   59.0   ,   Pass   ,   2024-09-29   ,   7.1   ,   17   ,   Average   ,   white   ,   63ED2C23   
+      varun khan      ,   None   ,   55   ,   150   ,   39   ,   55+150+39   ,   52.0   ,   Pass   ,   24/10/2024   ,     1.2 hrs    ,   19   ,   Average   ,   red   ,   E600A671   
+     Rahul Naidu      ,    STU-1004    ,   45   ,   46   ,   46   ,   45+46+46   ,   45.67   ,   Pass   ,   24-May-2023   ,   36.2   ,   53   ,   Below Avg   ,   blue   ,   AA74FBE1   
+     Sanjana Goud      ,     id_1005    ,   74   ,   99   ,   97   ,   270   ,   90.0   ,   Pass   ,"   November 16, 2024   ",    two    ,   16   ,   A+   ,   green   ,   FA545ADC   
+      devika naidu      ,       1006        ,   45   ,   150   ,   107   ,   45+150+107   ,   51.67   ,   Pass   ,   09-Sep-2024   ,   0.4   ,   17   ,   C   ,   white   ,   51D47EE9   
+      pooja patel      ,     01007     ,   70   ,   49   ,   81   ,   200   ,   66.67   ,   Pass   ,   None   ,   1.5   ,   19   ,   None   ,   white   ,   A15BA3BB   
+     DEVIKA NAIDU     ,    STU-1008    ,   93   ,   76   ,   107   ,   93+76+107   ,   74.33   ,   Pass   ,   30/04/2022   ,   7.7   ,   None   ,   Good   ,   green   ,   D171AB09   
+      sneha reddy      ,       1009        ,   73   ,   44   ,   50   ,   73+44+50   ,   55.67   ,   Pass   ,   08/09/2024   ,   3.4   ,     17 years    ,   C   ,   black   ,   77274730   
+     TEJA NAIDU     ,     id_1010    ,   88   ,   99   ,   94   ,   281   ,   93.67   ,   Pass   ,   01/07/2024   ,   5.1   ,   9   ,   Distinction   ,   red   ,   4C74C521   
+     Varun Naidu      ,    STU-1011    ,   -10   ,   76   ,   None   ,   -10+76+None   ,   -4.67   ,   Pass   ,   19/01/2021   ,   5.8   ,   19   ,   A+   ,   blue   ,   E491405B   
+      lokesh varma      ,     id_1012    ,   58   ,   38   ,   80   ,   58+38+80   ,   58.67   ,   Pass   ,"   January 20, 2020   ",   -2.9   ,   16   ,   Average   ,   green   ,   00A13AE4   
+      akash khan      ,     id_1013    ,   56   ,   45   ,   65   ,   56+45+65   ,   55.33   ,   Pass   ,   12-29-2020   ,   1.2   ,     19 years    ,   C   ,   blue   ,   83A8915E   
+     VIKRAM RAO     ,     id_1014    ,   90   ,   98   ,   95   ,   90+98+95   ,   94.33   ,   Pass   ,   04/04/2021   ,   None   ,     16 years    ,   A    ,   yellow   ,   9F72F50B   
+      akash rao      ,    STU-1015    ,   67   ,   90   ,   44   ,   67+90+44   ,   67.0   ,   Pass   ,   11-Mar-2024   ,    0    ,   16   ,   None   ,   None   ,   4F5F56E6   
+     HARIKA GUPTA     ,       1016        ,   70   ,   39   ,   68   ,   70+39+68   ,   59.0   ,   Pass   ,"   February 19, 2023   ",   None   ,   19   ,   Average   ,   white   ,   XXXXXXXX   
+     MEENA AGARWAL     ,     S1017X     ,   54   ,   79   ,   99   ,   54+79+99   ,   77.33   ,   Pass   ,   11-23-2022   ,   3.2   ,   19.5   ,   A+   ,   green   ,   862CF9F3   
+      sanjana sharma      ,   1018   ,   AB   ,   32   ,   30   ,   AB+32+30   ,   -10.67   ,   Pass   ,   2024-08-13   ,     0.1 hrs    ,   None   ,   C   ,   green   ,   0A7CBB81   
+      akash varma      ,       1019        ,   60   ,   99   ,   52   ,   211   ,   70.33   ,   Pass   ,   2022-05-27   ,   4.2   ,   17   ,   Good   ,   yellow   ,   XXXXXXXX   
+     Lokesh Sharma      ,    STU-1020    ,   74   ,   80   ,   68   ,   74+80+68   ,   74.0   ,   Pass   ,   18/02/2018   ,   7.4   ,   17   ,   B   ,   black   ,   60B3B7B6   
+     SURESH NAIDU     ,   1021   ,   51   ,   48   ,   AB   ,   51+48+AB   ,   61.67   ,   Pass   ,   12-11-2020   ,   None   ,   19   ,   Good   ,   green   ,   378F5093   
+     POOJA GUPTA     ,   1022   ,   -10   ,   71   ,   63   ,   error   ,   None   ,   Pass   ,   2021-08-05   ,   6.6   ,   18.5   ,   None   ,   white   ,   DE1EDC76   
+     ANITA REDDY     ,   1023   ,   95   ,   64   ,   70   ,   95+64+70   ,   76.33   ,   Pass   ,   None   ,   6.4   ,   17   ,   Distinction   ,   blue   ,   D344D68F   
+     DEVIKA PATEL     ,     S1024X     ,   77   ,   75   ,   42   ,   194   ,   64.67   ,   Pass   ,"   December 21, 2023   ",   2.6   ,   19   ,   B+   ,   red   ,   02BC5841   
+     DIVYA PATEL     ,     01025     ,   -10   ,   55   ,   99   ,   -10+55+99   ,   76.67   ,   Pass   ,   04-04-2021   ,   None   ,   17   ,   A   ,   blue   ,   731F32CB   
+     POOJA GUPTA     ,    STU-1026    ,   59   ,   98   ,   -24   ,   59+98+-24   ,   118.18   ,   Pass   ,   2021-10-29   ,   1.1   ,   18   ,   B   ,   black   ,   00BB6EBD   
+     AKASH KHAN     ,     S1027X     ,   73   ,   93   ,   81   ,   73+93+81   ,   N/A   ,   Pass   ,   17/08/2024   ,   5.3   ,   5   ,   Distinction   ,   red   ,   3FD98E5B   
+     AKASH VARMA     ,     S1028X     ,   69   ,   -18   ,   32   ,   167   ,   -9.79   ,   Pass   ,   2023-01-03   ,   29.3   ,   18.5   ,   Average   ,   blue   ,   79B37820   
+     TEJA NAIDU     ,     01029     ,   None   ,   78   ,   92   ,   None+78+92   ,   69.0   ,   Pass   ,   24/04/2019   ,   0.2   ,   19   ,   B   ,   blue   ,   A5B18EAF   
+     Naveen Naidu      ,   1030   ,   78   ,   50   ,   78   ,   error   ,   68.67   ,   Pass   ,   11-Apr-2020   ,   6.3   ,   18   ,   B   ,   yellow   ,   EF6C2584   
+     PRASAD GOUD     ,     01031     ,   85   ,   93   ,   76   ,   254   ,   145.0   ,   Pass   ,   2022-06-03   ,    0    ,   17   ,   A+   ,   black   ,   8DB9856A   
+     PRASAD REDDY     ,     01032     ,   46   ,   34   ,   84   ,   46+34+84   ,   54.67   ,   Pass   ,   11-13-2019   ,     2.1 hrs    ,   17.5   ,   Average   ,   white   ,   9933B29E   
+     SNEHA PATEL     ,     S1033X     ,   53   ,   99   ,   93   ,   missing   ,   81.67   ,   Pass   ,"   August 16, 2021   ",   6.5   ,   55   ,   A    ,   yellow   ,   AA240E79   
+     NAVEEN NAIDU     ,    STU-1034    ,   78   ,   33   ,   -24   ,   78+33+-24   ,   -8.9   ,   Pass   ,"   March 23, 2018   ",   None   ,   18   ,   B   ,   red   ,   AA662745   
+      pooja varma      ,     id_1035    ,   93   ,   68   ,   AB   ,   93+68+AB   ,   85.67   ,   Pass   ,   28-Mar-2018   ,   4.8   ,   18   ,   None   ,   white   ,   2A6500C1   
+      shiva rao      ,     01036     ,   83   ,   64   ,   44   ,   83+64+44   ,   63.67   ,   Pass   ,   2024-03-22   ,   -3.9   ,   19   ,   B+   ,   unknown   ,   89FD0AD3   
+     Kiran Reddy      ,     01037     ,   95   ,   150   ,   61   ,   95+150+61   ,   -4.17   ,   Pass   ,   26-Aug-2023   ,   4.4   ,   17.5   ,   Good   ,   black   ,   D58639A5   
+     Devika Naidu      ,   1038   ,   51   ,   53   ,   97   ,   201   ,   67.0   ,   Pass   ,   2020-04-01   ,     7.4 hrs    ,   19   ,   None   ,   green   ,   7BCCAF4D   
+      divya naidu      ,   1039   ,   91   ,   86   ,   47   ,   224   ,   74.67   ,   Pass   ,   12-Jun-2018   ,   7.0   ,   None   ,   Good   ,   green   ,   E31BBE21   
+     Devika Agarwal      ,     S1040X     ,   89   ,   99   ,   72   ,   260   ,   86.67   ,   Pass   ,"   July 25, 2024   ",   6.3   ,   16   ,   A   ,   red   ,   5F8D596E   
+     RAHUL SHARMA     ,   1041   ,   81   ,   70   ,   64   ,   81+70+64   ,   71.67   ,   Pass   ,   04-17-2023   ,   2.2   ,     19 years    ,   B+   ,   green   ,   42E52A85   
+     VARUN GUPTA     ,       1042        ,   46   ,   83   ,   87   ,   46+83+87   ,   72.0   ,   Pass   ,   2023-01-25   ,   7.3   ,   17   ,   Good   ,   yellow   ,   3EDC9D5D   
+     SURESH RAO     ,     01043     ,   96   ,   75   ,   62   ,   96+75+62   ,   77.67   ,   Pass   ,   None   ,     0.8 hrs    ,     17 years    ,   A    ,   None   ,   F7C9541B   
+      harika rao      ,   1044   ,   42   ,   None   ,   43   ,   42+None+43   ,   58.0   ,   Pass   ,   20/01/2021   ,   -6.8   ,   None   ,   None   ,   None   ,   1AE07BE3   
+     KIRAN PATEL     ,    STU-1045    ,   55   ,   89   ,   None   ,   207   ,   N/A   ,   Pass   ,   02-07-2024   ,   2.6   ,   5   ,   B   ,   black   ,   170ADC0A   
+     Kiran Khan      ,       1046        ,   59   ,   86   ,   90   ,   59+86+90   ,   N/A   ,   Pass   ,   None   ,   0.4   ,   17   ,   A+   ,   red   ,   E2FA3888   
+     SANJANA VARMA     ,     S1047X     ,   None   ,   60   ,   33   ,   None+60+33   ,   105.98   ,   Pass   ,   15/12/2024   ,   5.4   ,   19   ,   Below Avg   ,   white   ,   636F7005   
+     Meena Agarwal      ,     id_1048    ,   49   ,   53   ,   107   ,   49+53+107   ,   63.33   ,   Pass   ,"   July 11, 2020   ",   35.2   ,   18   ,   None   ,   unknown   ,   5AB05479   
+      devika sharma      ,     01049     ,   -10   ,   65   ,   58   ,   -10+65+58   ,   72.0   ,   Pass   ,   None   ,   1.9   ,   19   ,   B+   ,   blue   ,   1332C058   
+     Harika Agarwal      ,     01050     ,   60   ,   ?   ,   None   ,   154   ,   51.33   ,   Pass   ,   2021-12-20   ,     2.4 hrs    ,   19   ,   C   ,   blue   ,   0000   
+     LOKESH AGARWAL     ,    STU-1051    ,   60   ,   53   ,   107   ,   60+53+107   ,   63.67   ,   Pass   ,   None   ,   0.5   ,   19   ,   B   ,   red   ,   03F4663B   
+     Suresh Khan      ,     id_1052    ,   81   ,   59   ,   69   ,   81+59+69   ,   69.67   ,   Pass   ,   19/07/2019   ,   1.4   ,   54   ,   B   ,   green   ,   3FEC1119   
+     DIVYA SHARMA     ,     id_1053    ,   66   ,   36   ,   94   ,   66+36+94   ,   None   ,   Pass   ,   05/11/2024   ,   0.0   ,   18   ,   B+   ,   blue   ,   17DA9E3F   
+      vikram sharma      ,     S1054X     ,   44   ,   64   ,   107   ,   44+64+107   ,   68.67   ,   Pass   ,   2019-04-16   ,    0    ,   8   ,   B   ,   black   ,   BC6E7C4C   
+     HARIKA RAO     ,     S1055X     ,   50   ,   84   ,   56   ,   N/A   ,   63.33   ,   Pass   ,   09-14-2020   ,   -0.7   ,   16   ,   B   ,   white   ,   3ABA473A   
+      akash agarwal      ,       1056        ,   51   ,   43   ,   35   ,   51+43+35   ,   43.0   ,   Pass   ,   2023-04-19   ,   None   ,     18 years    ,   D   ,   yellow   ,   5A5EE47F   
+     MEENA GUPTA     ,     01057     ,   57   ,   None   ,   42   ,   57+None+42   ,   46.0   ,   Pass   ,   2018-08-12   ,   1.9   ,   18   ,   Below Avg   ,   None   ,   53FB12DF   
+     ROHIT KHAN     ,   1058   ,   60   ,   45   ,   93   ,   60+45+93   ,   66.0   ,   Pass   ,   11/01/2024   ,   7.5   ,   18.5   ,   Good   ,   red   ,   F7048CF6   
+     NAVEEN PATEL     ,     S1059X     ,   AB   ,   83   ,   91   ,   215   ,   71.67   ,   Pass   ,   17/12/2018   ,   None   ,   17   ,   B+   ,   green   ,   XXXXXXXX   
+      naveen reddy      ,    STU-1060    ,   48   ,   99   ,   48   ,   48+99+48   ,   65.0   ,   Pass   ,   13/04/2023   ,   2.3   ,   16   ,   B+   ,   yellow   ,   88A36262   
+      kiran reddy      ,    STU-1061    ,   41   ,   73   ,   72   ,   186   ,   62.0   ,   Pass   ,   12-15-2018   ,   6.3   ,   None   ,   Good   ,   white   ,   3FD7A509   
+     Vikram Rao      ,    STU-1062    ,   43   ,   74   ,   49   ,   43+74+49   ,   55.33   ,   Pass   ,   01-Jul-2018   ,   6.4   ,   41   ,   Average   ,   white   ,   BB8D2320   
+      prasad agarwal      ,     S1063X     ,   82   ,   -18   ,   97   ,   82+-18+97   ,   None   ,   Pass   ,   29-Sep-2019   ,   None   ,   10   ,   A   ,   blue   ,   572A121E   
+     Lokesh Gupta      ,   None   ,   93   ,   None   ,   73   ,   300/300   ,   84.0   ,   Pass   ,   14/10/2020   ,   34.7   ,   19   ,   Distinction   ,   white   ,   7EDD6F15   
+     DIVYA AGARWAL     ,    STU-1065    ,   73   ,   150   ,   52   ,   73+150+52   ,   58.33   ,   Pass   ,"   February 05, 2024   ",     0.7 hrs    ,   40   ,   Average   ,   white   ,   BD58FF28   
+     VIKRAM RAO     ,     S1066X     ,   52   ,   ?   ,   31   ,   52+?+31   ,   60.0   ,   Pass   ,"   February 11, 2020   ",   5.2   ,   16   ,   C   ,   green   ,   431037C2   
+     Divya Rao      ,   1067   ,   93   ,   79   ,   51   ,   223   ,   74.33   ,   Pass   ,   2020-10-12   ,   5.0   ,   17.5   ,   B   ,   multi   ,   603CEEFB   
+     TEJA PATEL     ,   1068   ,   51   ,   62   ,   107   ,   51+62+107   ,   120.26   ,   Pass   ,   13/10/2023   ,    two    ,   16   ,   None   ,   green   ,   0934688A   
+      divya goud      ,       1069        ,   48   ,   None   ,   36   ,   48+None+36   ,   40.0   ,   Pass   ,   29/01/2018   ,   -2.5   ,   7   ,   Poor   ,   red   ,   BE285CA0   
+     Shiva Rao      ,     01070     ,   None   ,   99   ,   85   ,   None+99+85   ,   83.0   ,   Pass   ,   16-Aug-2024   ,   6.9   ,   19   ,   A+   ,   white   ,   59C788F0   
+     Naveen Agarwal      ,   1071   ,   58   ,   44   ,   96   ,   58+44+96   ,   66.0   ,   Pass   ,   15-Nov-2023   ,    0    ,   17.5   ,   B+   ,   white   ,   25B88339   
+      sanjana naidu      ,       1072        ,   94   ,   61   ,   AB   ,   94+61+AB   ,   66.67   ,   Pass   ,   03-09-2023   ,    two    ,   None   ,   B+   ,   None   ,   None   
+     Shiva Goud      ,     id_1073    ,   79   ,   49   ,   80   ,   79+49+80   ,   absent   ,   Pass   ,"   January 05, 2022   ",   0.7   ,   19.5   ,   Good   ,   black   ,   1CC688B8   
+     PRASAD REDDY     ,     01074     ,   None   ,   44   ,   41   ,   122   ,   40.67   ,   Pass   ,   05-11-2021   ,   1.6   ,   19   ,   D   ,   green   ,   3F401239   
+     Meena Rao      ,   1075   ,   71   ,   77   ,   82   ,   230   ,   76.67   ,   Pass   ,   31/08/2023   ,   6.6   ,   None   ,   None   ,   yellow   ,   BEF38370   
+      anita patel      ,     id_1076    ,   77   ,   50   ,   34   ,   161   ,   53.67   ,   Pass   ,   01-30-2021   ,   5.4   ,   18   ,   Average   ,   None   ,   FFCC759D   
+     Shiva Goud      ,       1077        ,   74   ,   71   ,   56   ,   74+71+56   ,   67.0   ,   Pass   ,   07-Mar-2018   ,   None   ,   17   ,   Good   ,   yellow   ,   233BEBE1   
+      rahul khan      ,   1078   ,   89   ,   55   ,   -24   ,   error   ,   124.85   ,   Pass   ,   08-Feb-2021   ,   36.4   ,   45   ,   B+   ,   red   ,   8E89684C   
+     PRASAD GOUD     ,   1079   ,   73   ,   43   ,   46   ,   162   ,   54.0   ,   Pass   ,   2018-12-04   ,   4.6   ,   56   ,   Average   ,   red   ,   D76A8926   
+     Shiva Khan      ,     S1080X     ,   49   ,   86   ,   35   ,   170   ,   56.67   ,   Pass   ,   None   ,   2.5   ,   18   ,   C   ,   white   ,   A7AD9352   
+     POOJA REDDY     ,     id_1081    ,   38   ,   66   ,   34   ,   38+66+34   ,   46.0   ,   Pass   ,"   September 25, 2022   ",   None   ,   18   ,   D   ,   yellow   ,   7EB5710E   
+     SHIVA NAIDU     ,   1082   ,   59   ,   87   ,   86   ,   check   ,   123.01   ,   Pass   ,   23/03/2019   ,   25.2   ,     18 years    ,   A   ,   white   ,   None   
+     TEJA AGARWAL     ,    STU-1083    ,   47   ,   50   ,   57   ,   154   ,   51.33   ,   Pass   ,   08-Oct-2018   ,   7.8   ,   16   ,   Average   ,   black   ,   XXXXXXXX   
+      divya patel      ,     S1084X     ,   AB   ,   98   ,   98   ,   AB+98+98   ,   87.67   ,   Pass   ,   08-19-2019   ,   None   ,   16   ,   A+   ,   red   ,   8086F748   
+     VIKRAM VARMA     ,     S1085X     ,   50   ,   32   ,   88   ,   50+32+88   ,   56.67   ,   Pass   ,   10-Jun-2023   ,     7.5 hrs    ,   7   ,   C   ,   None   ,   A4AC094E   
+      kiran khan      ,   1086   ,   76   ,   150   ,   107   ,   300/300   ,   68.0   ,   Pass   ,   None   ,   3.2   ,   44   ,   B+   ,   None   ,   C75ED897   
+     Anita Varma      ,     S1087X     ,   89   ,   78   ,   91   ,   89+78+91   ,   86.0   ,   Pass   ,   07-29-2018   ,   3.8   ,   19   ,   A+   ,   red   ,   5AB2DC0E   
+     RAHUL NAIDU     ,     01088     ,   76   ,   48   ,   107   ,   76+48+107   ,   -9.47   ,   Pass   ,   2018-05-06   ,   5.6   ,     19 years    ,   B   ,   black   ,   03414CED   
+     AKASH PATEL     ,     id_1089    ,   68   ,   -18   ,   None   ,   68+-18+None   ,   52.33   ,   Pass   ,   2019-05-07   ,   7.4   ,   17   ,   Average   ,   black   ,   E160F1BB   
+      vikram patel      ,     01090     ,   64   ,   90   ,   98   ,   64+90+98   ,   84.0   ,   Pass   ,   27-Aug-2020   ,   1.1   ,   11   ,   A+   ,   black   ,   86E9F4B1   
+     ROHIT PATEL     ,       1091        ,   47   ,   70   ,   95   ,   47+70+95   ,   70.67   ,   Pass   ,   04-Aug-2019   ,   32.8   ,   16.5   ,   B+   ,   blue   ,   FB556161   
+      naveen khan      ,     01092     ,   47   ,   62   ,   76   ,   47+62+76   ,   61.67   ,   Pass   ,   24/04/2024   ,   -1.1   ,   None   ,   B   ,   black   ,   0DE286A6   
+      prasad reddy      ,    STU-1093    ,   52   ,   None   ,   68   ,   52+None+68   ,   66.33   ,   Pass   ,   26/04/2021   ,   33.8   ,   16   ,   B+   ,   black   ,   EF0108E5   
+      vikram agarwal      ,     S1094X     ,   66   ,   97   ,   97   ,   260   ,   86.67   ,   Pass   ,   18-Aug-2018   ,   2.5   ,   67   ,   A+   ,   blue   ,   F7E03CD4   
+      rohit agarwal      ,   None   ,   73   ,   62   ,   62   ,   197   ,   65.67%   ,   Pass   ,"   July 08, 2018   ",   2.6   ,   16   ,   Good   ,   white   ,   93F3A56B   
+     AKASH NAIDU     ,    STU-1096    ,   80   ,   ?   ,   107   ,   175   ,   -2.25%   ,   Pass   ,"   August 20, 2023   ",   0.6   ,   18   ,   Average   ,   green   ,   586242FD   
+      naveen patel      ,     S1097X     ,   63   ,   90   ,   83   ,   63+90+83   ,   78.67   ,   Pass   ,   05-17-2019   ,   2.8   ,     19 years    ,   None   ,   None   ,   C27D68FD   
+      akash gupta      ,     01098     ,   96   ,   90   ,   36   ,   missing   ,   74.0   ,   Pass   ,"   November 03, 2023   ",   6.9   ,   19   ,   B   ,   black   ,   None   
+     LOKESH AGARWAL     ,       1099        ,   96   ,   57   ,   AB   ,   96+57+AB   ,   65.33   ,   Pass   ,   02-18-2018   ,   1.9   ,   11   ,   B+   ,   red   ,   CED6DEB6   
+     Akash Agarwal      ,   None   ,   91   ,   87   ,   48   ,   226   ,   75.33   ,   Pass   ,   20-Nov-2019   ,   5.6   ,     18 years    ,   Distinction   ,   yellow   ,   4C5EBB56   
